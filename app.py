@@ -1,40 +1,50 @@
 import streamlit as st
-import docx
 import fitz  # PyMuPDF
+import docx
+import os
 import tempfile
 import spacy
+import subprocess
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
-# Load spaCy model
-nlp = spacy.load("en_core_web_sm")
+# ---- LOAD SPACY MODEL ----
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
+    nlp = spacy.load("en_core_web_sm")
 
+# ---- TEXT EXTRACTION ----
 def extract_text(file):
-    if file.name.endswith('.pdf'):
-        doc = fitz.open(stream=file.read(), filetype="pdf")
-        text = "\n".join([page.get_text() for page in doc])
-        doc.close()
-        return text
-    elif file.name.endswith('.docx'):
+    ext = os.path.splitext(file.name)[-1].lower()
+    if ext == ".pdf":
+        with fitz.open(stream=file.read(), filetype="pdf") as doc:
+            return "\n".join([page.get_text() for page in doc])
+    elif ext == ".docx":
         doc = docx.Document(file)
-        return "\n".join([para.text for para in doc.paragraphs])
-    elif file.name.endswith('.txt'):
+        return "\n".join([p.text for p in doc.paragraphs if p.text.strip()])
+    elif ext == ".txt":
         return file.read().decode("utf-8")
     else:
         return ""
 
+# ---- CUSTOMIZATION LOGIC ----
 def customize_resume(resume_text, jd_text):
     resume_doc = nlp(resume_text)
     jd_doc = nlp(jd_text)
-    jd_keywords = set(token.lemma_.lower() for token in jd_doc if not token.is_stop and token.is_alpha)
-    
-    matched_sentences = [
-        sent.text for sent in resume_doc.sents
-        if any(token.lemma_.lower() in jd_keywords for token in sent if token.is_alpha)
-    ]
-    
-    return "\n".join(matched_sentences)
 
-# Streamlit UI
-st.set_page_config(page_title="Resume Customiser", layout="centered")
+    resume_sents = [sent.text for sent in resume_doc.sents]
+    jd_keywords = [token.lemma_.lower() for token in jd_doc if token.pos_ in ["NOUN", "VERB", "ADJ"] and not token.is_stop]
+
+    selected = [sent for sent in resume_sents if any(keyword in sent.lower() for keyword in jd_keywords)]
+
+    if not selected:
+        selected = resume_sents[:10]
+
+    return "\n".join(selected)
+
+# ---- STREAMLIT APP ----
 st.title("📄 Resume Customiser using JD")
 st.markdown("Upload your **resume** and **job description (JD)**. The app will output a **customized resume** as a `.txt` file aligned to the JD.")
 
@@ -48,12 +58,10 @@ if resume_file and jd_file:
     if st.button("Generate Customised Resume"):
         customised_resume = customize_resume(resume_text, jd_text)
 
-        # Save to temporary text file
         with tempfile.NamedTemporaryFile(delete=False, mode='w+', suffix='.txt') as tmp:
             tmp.write(customised_resume)
             tmp_path = tmp.name
 
-        # Let user download
         with open(tmp_path, "rb") as f:
             st.download_button(
                 label="⬇️ Download Customised Resume",
