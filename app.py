@@ -1,71 +1,63 @@
 import streamlit as st
-import fitz  # PyMuPDF
-import docx
 import os
-import tempfile
-import spacy
-import subprocess
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+import base64
 
-# ---- LOAD SPACY MODEL ----
-try:
-    nlp = spacy.load("en_core_web_sm")
-except OSError:
-    subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
-    nlp = spacy.load("en_core_web_sm")
+# ---------------------- Utility Functions ----------------------
 
-# ---- TEXT EXTRACTION ----
-def extract_text(file):
-    ext = os.path.splitext(file.name)[-1].lower()
-    if ext == ".pdf":
-        with fitz.open(stream=file.read(), filetype="pdf") as doc:
-            return "\n".join([page.get_text() for page in doc])
-    elif ext == ".docx":
-        doc = docx.Document(file)
-        return "\n".join([p.text for p in doc.paragraphs if p.text.strip()])
-    elif ext == ".txt":
-        return file.read().decode("utf-8")
+def read_file(file):
+    return file.read().decode("utf-8")
+
+def extract_candidate_name(text):
+    lines = text.splitlines()
+    for line in lines:
+        if line.strip():
+            return line.strip().split()[0]
+    return "Candidate"
+
+def fill_template(template_text, jd_text, resume_text):
+    candidate_name = extract_candidate_name(resume_text)
+    summary = f"Experienced professional with skills aligned to the JD.\n\nJD Snippet:\n{jd_text[:500]}"
+    qualifications = "Bachelor's/Master’s Degree in relevant field."
+    key_experience = resume_text[:1000]
+    technical_skills = "Python, SQL, Machine Learning, etc."
+
+    return template_text.replace("[CANDIDATE_NAME]", candidate_name)\
+                        .replace("[ROLE]", "Applied Role")\
+                        .replace("[SUMMARY]", summary)\
+                        .replace("[QUALIFICATIONS]", qualifications)\
+                        .replace("[EXPERIENCE_PLACEHOLDER]", key_experience)\
+                        .replace("[TECHNICAL_SKILLS]", technical_skills)
+
+def get_download_link(text, filename):
+    b64 = base64.b64encode(text.encode()).decode()
+    return f'<a href="data:file/txt;base64,{b64}" download="{filename}">📥 Download Customised Resume</a>'
+
+# ---------------------- Main App ----------------------
+
+st.title("📄 Resume Customiser")
+
+st.markdown("Upload a Job Description and a Raw Resume. The app will customize the resume to fit the JD based on EY’s format.")
+
+jd_file = st.file_uploader("Upload Job Description (JD)", type=["txt", "docx"])
+resume_file = st.file_uploader("Upload Raw Resume", type=["txt", "docx"])
+
+# Update the path based on your repo
+ey_template_path = os.path.join("EY_sample_resume_template.txt")
+
+if not os.path.exists(ey_template_path):
+    st.error(f"❌ Template file not found at path: {ey_template_path}")
+else:
+    if jd_file and resume_file:
+        jd_text = read_file(jd_file)
+        resume_text = read_file(resume_file)
+
+        template_text = open(ey_template_path, "r", encoding="utf-8").read()
+        customised_resume = fill_template(template_text, jd_text, resume_text)
+
+        st.subheader("✅ Customised Resume Preview")
+        st.text_area("Preview", customised_resume, height=300)
+
+        download_link = get_download_link(customised_resume, "customised_resume.txt")
+        st.markdown(download_link, unsafe_allow_html=True)
     else:
-        return ""
-
-# ---- CUSTOMIZATION LOGIC ----
-def customize_resume(resume_text, jd_text):
-    resume_doc = nlp(resume_text)
-    jd_doc = nlp(jd_text)
-
-    resume_sents = [sent.text for sent in resume_doc.sents]
-    jd_keywords = [token.lemma_.lower() for token in jd_doc if token.pos_ in ["NOUN", "VERB", "ADJ"] and not token.is_stop]
-
-    selected = [sent for sent in resume_sents if any(keyword in sent.lower() for keyword in jd_keywords)]
-
-    if not selected:
-        selected = resume_sents[:10]
-
-    return "\n".join(selected)
-
-# ---- STREAMLIT APP ----
-st.title("📄 Resume Customiser using JD")
-st.markdown("Upload your **resume** and **job description (JD)**. The app will output a **customized resume** as a `.txt` file aligned to the JD.")
-
-resume_file = st.file_uploader("Upload Resume (.pdf, .docx, .txt)", type=["pdf", "docx", "txt"])
-jd_file = st.file_uploader("Upload Job Description (JD) (.pdf, .docx, .txt)", type=["pdf", "docx", "txt"])
-
-if resume_file and jd_file:
-    resume_text = extract_text(resume_file)
-    jd_text = extract_text(jd_file)
-
-    if st.button("Generate Customised Resume"):
-        customised_resume = customize_resume(resume_text, jd_text)
-
-        with tempfile.NamedTemporaryFile(delete=False, mode='w+', suffix='.txt') as tmp:
-            tmp.write(customised_resume)
-            tmp_path = tmp.name
-
-        with open(tmp_path, "rb") as f:
-            st.download_button(
-                label="⬇️ Download Customised Resume",
-                data=f,
-                file_name="customised_resume.txt",
-                mime="text/plain"
-            )
+        st.warning("⚠️ Please upload both a JD and a Resume file to begin.")
