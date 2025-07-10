@@ -1,0 +1,40 @@
+ Job Title: Retail Stress Testing Model Auditor
+
+Location: [Your Location]
+
+Job Type: Full-Time
+
+Company Overview:
+[Your Company Name] is a leading organization in the retail industry, with a strong commitment to delivering innovative solutions and maintaining high standards of integrity. We are currently seeking a Retail Stress Testing Model Auditor who will be responsible for ensuring our models comply with regulatory requirements and maintain accuracy, robustness, and transparency.
+
+Job Description:
+
+As a Retail Stress Testing Model Auditor, you will work closely with the Risk Management, Financial Reporting, and IT departments to assess the quality of our stress testing models. The ideal candidate should have a strong understanding of financial risk management, statistical analysis, and regulatory requirements. SAS is a must for this position due to its wide adoption within the industry for modeling and analytics.
+
+Responsibilities:
+
+1. Conduct independent audits of retail stress testing models to ensure compliance with internal policies, regulatory guidelines, and industry standards.
+2. Collaborate with model developers, risk management, and IT teams to identify potential weaknesses or areas for improvement in the models.
+3. Perform quantitative and qualitative analyses using SAS and other modeling tools to evaluate model performance and robustness.
+4. Document findings, recommend corrective actions, and monitor their implementation.
+5. Stay updated on industry best practices, regulatory changes, and emerging trends related to stress testing models and risk management.
+6. Contribute to the continuous improvement of our stress testing framework by proposing innovative solutions and enhancing current processes.
+7. Provide training and guidance to internal teams on model auditing principles and the use of SAS for modeling and analytics.
+
+Qualifications:
+
+1. Bachelor's or Master's degree in Finance, Economics, Mathematics, Statistics, or a related field. Advanced degrees are preferred.
+2. Minimum of 5 years of experience in stress testing model auditing within the retail industry.
+3. Proficiency in SAS and other modeling tools (e.g., R, Python).
+4. Strong analytical skills, with the ability to interpret complex data and identify patterns or inconsistencies.
+5. Excellent communication and interpersonal skills, with a knack for explaining technical concepts to non-technical audiences.
+6. Knowledge of retail risk management and regulatory requirements (e.g., Basel III, CCAR, Dodd-Frank).
+7. Strong understanding of quantitative risk measures, statistical analysis techniques, and financial modeling principles.
+8. Proactive approach to problem-solving and a commitment to maintaining the highest standards of integrity in all professional endeavors.
+
+[Your Company Name] offers a competitive salary, comprehensive benefits, and opportunities for career growth and advancement. If you are passionate about risk management, analytics, and innovation, we encourage you to apply for this exciting opportunity.
+
+To Apply:
+Please submit your resume and cover letter detailing your relevant experience and qualifications to [Your Company Email Address]. We look forward to reviewing your application!
+
+[Your Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

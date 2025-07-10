@@ -1,0 +1,35 @@
+ Job Title: Retail Scorecard Model Developer
+
+Location: [Your Location]
+
+Company Overview:
+[Insert Company Overview]
+
+Job Description:
+
+We are seeking a highly skilled and motivated Retail Scorecard Model Developer to join our team. The ideal candidate will have a strong background in data analysis, statistical modeling, and retail industry experience. SAS programming skills are essential for this role.
+
+Responsibilities:
+
+1. Design, develop, and implement retail scorecard models using SAS programming language.
+2. Collaborate with cross-functional teams to understand business needs and translate them into analytical requirements.
+3. Analyze large datasets to identify trends, patterns, and insights that drive strategic decision making.
+4. Develop and maintain scorecards, dashboards, and reports to monitor key performance indicators (KPIs).
+5. Implement best practices in data quality control, model validation, and model maintenance.
+6. Continuously improve the accuracy and efficiency of existing models through testing, optimization, and automation.
+7. Provide expert advice on model interpretations, results, and recommendations to stakeholders.
+8. Collaborate with IT teams to ensure seamless integration of scorecard models into our data infrastructure.
+9. Stay updated with the latest trends and developments in retail analytics and SAS programming.
+
+Qualifications:
+
+1. Bachelor's or Master's degree in Mathematics, Statistics, Computer Science, Economics, Business Analytics, or a related field.
+2. Proven experience in developing and implementing scorecard models, preferably within the retail industry.
+3. Expertise in SAS programming language.
+4. Strong understanding of statistical analysis techniques, machine learning algorithms, and predictive modeling.
+5. Excellent problem-solving skills and the ability to work independently as well as collaboratively.
+6. Exceptional communication skills with the ability to explain complex concepts to non-technical stakeholders.
+7. Strong attention to detail and a results-oriented mindset.
+8. Familiarity with SQL or other database query languages is a plus.
+
+We offer competitive compensation, comprehensive benefits, and a dynamic work environment that fosters personal and professional growth. If you are passionate about retail analytics and have the skills we are looking for, we encourage you to apply!

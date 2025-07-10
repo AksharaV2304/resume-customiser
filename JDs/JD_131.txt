@@ -1,0 +1,25 @@
+ Job Description: Wholesale CCAR Model Auditor
+
+Position Overview:
+We are seeking a highly skilled and experienced Wholesale CCAR Model Auditor to join our team. The successful candidate will be responsible for conducting comprehensive audits of our Credit, Counterparty, and Capital Adequacy Risk (CCAR) models in the wholesale division.
+
+Key Responsibilities:
+1. Conduct in-depth reviews of CCAR models to ensure compliance with regulatory requirements and internal policies.
+2. Utilize SAS software extensively for data analysis, model validation, and report generation.
+3. Collaborate with model developers, risk managers, and other stakeholders to understand the intricacies of the models and identify potential risks and vulnerabilities.
+4. Prepare detailed audit reports outlining findings, recommendations, and action plans for addressing any identified issues.
+5. Work closely with management to ensure timely resolution of audit findings and ongoing compliance with regulatory requirements.
+6. Stay abreast of industry trends, best practices, and regulatory changes related to CCAR modeling and risk management.
+7. Contribute to the continuous improvement of our model validation process and risk management framework.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, Statistics, or a related field. Advanced degrees are preferred.
+2. Proven experience in CCAR model auditing, ideally within a wholesale banking environment.
+3. Expertise in SAS software for data analysis and model validation.
+4. Strong understanding of credit risk, market risk, counterparty risk, and capital adequacy.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and collaboratively within a team.
+7. Familiarity with regulatory requirements such as the Dodd-Frank Act and Basel III is preferred.
+8. Certifications such as the Financial Risk Manager (FRM) or Chartered Financial Analyst (CFA) are a plus.
+
+This position offers an excellent opportunity for a dedicated professional to grow their career in a dynamic, forward-thinking organization. If you are passionate about risk management and have a strong background in CCAR model auditing, we encourage you to apply.

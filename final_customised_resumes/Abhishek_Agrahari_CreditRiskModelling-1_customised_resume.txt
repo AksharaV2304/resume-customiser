@@ -1,0 +1,21 @@
+Abhishek_Agrahari_CreditRiskModelling-1 – Create a JD for a retail IRB model development requirement. Mention that SQL is a must.
+
+Summary:
+Abhishek Kumar Agrahari is a highly skilled and technically adept individual with a strong background in SQL database design and development. He has extensive experience in developing cutting-edge retail IRB models utilizing SQL as his primary development tool. Abhishek's analytical skills and attention to detail make him an asset to any cross-functional team, including data science, analytics, and engineering teams.
+
+Qualifications:
+• Bachelor's degree in computer science, data science, or a related field
+• At least 5 years of experience in SQL database design and development
+
+Key Experience:
+• Development of credit risk models to ensure compliance with regulatory requirements like IFRS 9, CCAR, Stress Testing and internal standards, enhancing the accuracy and reliability of risk assessments, utilizing advanced statistical methods and tools such as Python, SAS, SQL, and Excel.
+• Conducted detailed analysis and development of Scorecard, PD Model, ensuring they accurately reflected the creditworthiness of clients.
+• Initiated a journey of data exploration and analysis, honing skills in data processing, transformation, and visualization.
+• Played a pivotal role in optimizing SQL queries, enabling efficient handling of JSON files, and facilitating comprehensive data analysis.
+• Developed model based on the application of regression analysis and predicted the price of house.
+
+Technical Skills:
+• SQL as primary development tool
+• Strong analytical skills and attention to detail
+• Proficient in at least one additional programming language (Python, R, etc.) 
+• Yoga Practices, Participated for Marathon as well as for Cycling race many during university time and beyond.

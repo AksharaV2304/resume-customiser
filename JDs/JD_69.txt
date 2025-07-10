@@ -1,0 +1,33 @@
+ Job Description: Retail AI/ML Model Auditor
+
+Job Title: Retail AI/ML Model Auditor (R Specialist)
+
+Location: [City, State]
+
+Company Overview:
+[Company Name], a leading retail organization, is seeking an experienced and proficient Retail AI/ML Model Auditor with a strong background in data analysis using R. The ideal candidate will have a passion for ensuring the integrity of our AI/ML models and promoting ethical and transparent practices within our digital transformation journey.
+
+Responsibilities:
+1. Perform comprehensive audits of retail AI/ML models to ensure accuracy, reliability, and compliance with industry standards and internal policies.
+2. Collaborate with data scientists, developers, and other stakeholders to assess model performance, identify potential biases, and recommend improvements.
+3. Develop and implement best practices for model validation, testing, and monitoring to minimize risks and maintain high-quality outcomes.
+4. Utilize R programming language extensively for data analysis, statistical modeling, and automating auditing processes.
+5. Document findings and recommendations in clear, concise reports for various audiences, including senior management, data scientists, and other stakeholders.
+6. Stay up-to-date with the latest AI/ML trends, research, and regulations to ensure that our models remain cutting-edge and compliant.
+7. Contribute to the development of standards, policies, and guidelines for model governance within [Company Name].
+8. Participate in cross-functional teams to ensure seamless integration of AI/ML models into various business processes.
+9. Foster a culture of continuous improvement by promoting best practices, mentoring junior team members, and collaborating with peers across departments.
+
+Qualifications:
+1. Bachelor's or Master's degree in Computer Science, Mathematics, Statistics, Engineering, Economics, or a related field. Advanced degrees are preferred.
+2. Proven experience as an AI/ML Model Auditor, Data Scientist, or similar role within the retail industry.
+3. Extensive knowledge of R programming language and its applications in data analysis and modeling.
+4. Proficiency in other data analysis tools such as Python, SQL, and SAS is a plus.
+5. Familiarity with AI/ML model development lifecycles, including data preprocessing, feature engineering, model training, validation, and deployment.
+6. Strong understanding of statistical analysis, machine learning algorithms, and predictive modeling techniques.
+7. Experience in identifying and mitigating potential biases in AI/ML models.
+8. Excellent communication and collaboration skills, with the ability to explain complex concepts to non-technical stakeholders.
+9. Detail-oriented and results-driven approach to work, with a commitment to maintaining the highest standards of integrity and accountability.
+10. Proactive learning attitude, staying current with AI/ML trends, regulations, and best practices.
+
+[Company Name] offers competitive compensation packages, including comprehensive benefits, opportunities for professional growth, and a dynamic and inclusive work environment. If you are passionate about ensuring the integrity of AI/ML models in retail and are proficient in R programming language, we encourage you to apply for this exciting opportunity!

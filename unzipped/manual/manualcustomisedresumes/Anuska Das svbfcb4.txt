@@ -1,0 +1,29 @@
+4. Anuska Das – Senior
+Summary:
+
+4 years in BFSI with experience in CCAR and CECL execution and UAT.
+
+Qualifications:
+
+MSc & BSc in Applied Economics, Presidency University (2020 & 2018)
+
+Key Experience:
+
+Executed CCAR and climate stress tests (SQL, Excel).
+
+CECL model execution using Python (PD, LGD, EAD).
+
+UAT of CCAR platforms.
+
+Backtesting and monitoring for portfolio quality.
+
+Migration projects using PySpark.
+
+Technical Skills:
+
+SAS, Python, SQL, Excel, VBA
+
+CCAR, CECL execution
+
+Climate stress testing, backtesting
+

@@ -1,0 +1,38 @@
+ Job Title: Retail IRB Model Validation Specialist
+
+Location: [Your Location]
+
+Company: [Your Company Name]
+
+Job Type: Full-Time
+
+About Us:
+[Your Company Description] is an innovative and fast-growing organization specializing in retail financial services. We are dedicated to creating a seamless, technology-driven experience for our customers. As part of our continued growth, we are looking for a Retail IRB Model Validation Specialist with expertise in Python to join our team.
+
+Job Description:
+
+The Retail IRB Model Validation Specialist will be responsible for ensuring the accuracy and integrity of our retail credit risk models. This role requires an individual with strong analytical skills, a deep understanding of banking regulations, and proficiency in Python programming.
+
+Key Responsibilities:
+1. Validate and verify the internal retail credit risk models in accordance with IRB (Internal Ratings-Based) Approach guidelines.
+2. Conduct ongoing monitoring, backtesting, and stress testing of models to ensure their continued accuracy and reliability.
+3. Collaborate with cross-functional teams to understand business requirements and translate them into model specifications.
+4. Develop Python scripts for data analysis, model development, and model validation tasks.
+5. Document the validation process, results, and any recommendations for improvement.
+6. Stay updated on regulatory developments related to retail credit risk modeling and ensure compliance with relevant regulations.
+7. Support ad-hoc projects as needed.
+
+Qualifications:
+1. Bachelor's or Master's degree in Mathematics, Statistics, Economics, Computer Science, Finance, or a related field.
+2. Proven experience in retail credit risk modeling and model validation (IRB preferred).
+3. Strong Python programming skills with experience in data analysis, modeling, and scripting.
+4. Knowledge of banking regulations, particularly those related to credit risk management.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently as well as collaboratively within a team.
+7. Strong attention to detail and ability to manage multiple projects simultaneously.
+8. Familiarity with SQL or other database query languages is a plus.
+9. Certified Financial Risk Manager (FRM) or Chartered Financial Analyst (CFA) certification is a plus.
+
+[Your Company Name] offers a competitive salary and benefits package, including opportunities for professional growth and development. If you are passionate about retail banking, have strong analytical skills, and enjoy working with Python, we would love to hear from you! Please apply with your resume and cover letter detailing your relevant experience.
+
+[Your Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

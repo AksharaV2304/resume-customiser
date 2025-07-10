@@ -1,0 +1,18 @@
+Rajvi Doshi – Create a JD for a retail IRB model validation requirement. Mention that SQL is a must.
+
+Summary:
+Rajvi Doshi is a Retail IRB Model Validation Specialist with 4+ years of experience in building statistical models. She is currently working as an Associate Director at CPM Risk Analytics and prior to that, worked as a Deputy Manager at Kotak Mahindra Bank's Business Intelligence Unit on propensity models and customer insights of liability customers.
+
+Qualifications:
+- M. Sc. Statistics from SVKM’s NMIMS School of Science, Mumbai with CGPA 3.84/ 4.00
+- B. Sc. Statistics from Mithibai College, University of Mumbai with 7.00/ 7.00
+- Higher Secondary from Shri T.P. Bhatia College of Science with 92%
+- Secondary from St. Anne’s High School with 95%
+
+Key Experience:
+April 2022 - Present: Associate Director, Credit and Portfolio Management- Risk Analytics at Standard Chartered Bank
+August 2020 - April 2022: Deputy Manager, Business Intelligence Unit at Kotak Mahindra Bank
+
+Technical Skills:
+• SAS 9.4 Advanced Programming (Certified Professional), SAS e-Miner (Certified Predictive Modeller)
+• R, Python, SQL, Advanced Excel

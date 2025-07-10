@@ -1,0 +1,23 @@
+Nidhika-Tomar – Create a JD for a retail Scorecards model development requirement. Mention that SQL is a must.
+
+Summary:
+Nidhika Tomar is a highly skilled professional with extensive experience in model development and risk management. Her expertise lies in SQL database management, big data analytics tools such as Hadoop, Spark, and Cassandra, and programming languages like Python and R for data science and machine learning. Nidhika's education includes an M.A. In Economics and a B.A. In Economics (Honours).
+
+Qualifications:
+- M.A., Economics
+- B.A., Economics (Honours)
+
+Key Experience:
+(May 2022 – Nov 2024) | Senior Manager, EXL | Model Developer - Lloyds Banking Group
+(June 2019 – May 2022) | Assistent Manager, Barclays Bank | BUK Home Finance Hybrid PD model, Income Generating Models for Unsecured loans and Overdraft facilities on current account, House Price Index indicates the level & percentage of UK property price
+(May 2022 – Nov 2024) | Senior Manager, EXL | Model Developer - Lloyds Banking Group, Capital suite (capital emulator- PD,EAD,LGD), Impairment Emulator, Stress-testing modelling happened on PyCharm
+(June 17 – June 19) | Delhi School of Economics | M.A., Economics
+(July 12 – May 15) | Kirori Mal College, University of Delhi | B.A., Economics (Honours)
+
+Technical Skills:
+- SQL database management
+- Hadoop, Spark, and Cassandra
+- Python and R for data science and machine learning
+- Strong proficiency in MS Office Suite
+- Google Machine Learning Course - ML Modelling with Neural Networks
+- Reading interest: Astrophysics and Historical fiction

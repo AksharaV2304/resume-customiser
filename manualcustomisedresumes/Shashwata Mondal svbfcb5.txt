@@ -1,0 +1,36 @@
+Shashwata Mondal
+Role: Senior
+
+Summary:
+Shashwata is a Senior in EY’s Financial Services Risk Management practice. He has close to 2 years of experience in the Banking and Financial Services industry.
+
+Qualifications and Training:
+
+M.Tech in Cryptology and Security, ISI Kolkata, 2023
+
+M.Sc in Mathematics, RKM Vivekananda University, 2020
+
+B.Sc in Mathematics, RKM Residential College, 2018
+
+Key Relevant Experience:
+
+Executed CCAR/CECL stress testing and forecasting
+
+Delivered outputs for 9 cohort recovery and GCLR models (CCAR 2020)
+
+Developed scorecards using XGBoost (classification + regression), validated using K-Fold
+
+Modeled PD (logistic regression), LGD (linear regression)
+
+Applied feature scaling, outlier handling, encoding for preprocessing
+
+Computed Expected Loss with PD, LGD, fixed EAD
+
+Analyzed expected premium vs actual premium (marine insurance)
+
+Created monthly zonal rate monitoring systems
+
+Technical Skills:
+Python, R, SQL, C, Git, Excel
+ML, AI, Deep Learning, NLP, Time Series
+

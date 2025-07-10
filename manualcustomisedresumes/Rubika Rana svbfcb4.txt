@@ -1,0 +1,35 @@
+Rubika Rana – Senior Manager
+Summary:
+
+10+ years of experience in model development, monitoring, and validation of credit risk models.
+
+Expertise in predictive analytics, CCAR & PPNR models, with model governance exposure.
+
+Qualifications:
+
+B.Tech, Thapar University, 2013
+
+Key Experience:
+
+Led development of PPNR & Balance Sheet models for CCAR.
+
+Developed CCAR EWS models using Python (K-means clustering, trend analysis).
+
+Scenario-based testing (Base, Adverse, Severely Adverse).
+
+Used metrics: KS, Gini, ROC-AUC, PSI, MAE, RMSE.
+
+Automated CCAR pipelines using Python.
+
+Created interactive Python dashboards.
+
+Complied with SR 11-7 and CCAR expectations.
+
+Collaborated with Risk, Treasury, Finance teams.
+
+Technical Skills:
+
+IRB/CCAR model development and validation
+
+SAS EG, SQL, Python
+

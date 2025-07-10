@@ -1,0 +1,30 @@
+ Job Description: Retail Credit Risk Model Validation Specialist
+
+Company Overview:
+[Company Name] is a leading retail organization committed to delivering exceptional customer experiences while maintaining robust financial practices. We are currently seeking a skilled Retail Credit Risk Model Validation Specialist to join our team.
+
+Position Overview:
+The Retail Credit Risk Model Validation Specialist will be responsible for ensuring the accuracy and integrity of our credit risk models, particularly in the retail sector. This role requires a strong understanding of credit risk management, regulatory requirements, and a proficient ability to work with SQL databases.
+
+Responsibilities:
+1. Validate the development and implementation of retail credit risk models, ensuring compliance with internal policies and external regulations.
+2. Collaborate with data analysts to extract, clean, and analyze large datasets using SQL.
+3. Perform various validation tests on models, including backtesting, stress testing, and sensitivity analysis.
+4. Document results from model validations and prepare reports for senior management and regulatory bodies.
+5. Stay updated on industry developments, new methodologies, and regulatory changes related to credit risk modeling.
+6. Participate in ad-hoc projects as needed, such as model enhancement initiatives or regulatory investigations.
+
+Qualifications:
+1. Bachelor's degree in Finance, Mathematics, Economics, Statistics, Computer Science, or a related field. Advanced degrees are preferred.
+2. Minimum of 5 years of experience in credit risk modeling, preferably within the retail sector.
+3. Proficient knowledge of SQL and database management systems.
+4. Strong understanding of credit risk management principles and regulatory requirements (e.g., Basel III, CCAR).
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and as part of a team in a fast-paced environment.
+7. Familiarity with programming languages such as Python or R is a plus.
+
+[Company Name] offers competitive compensation, comprehensive benefits, and opportunities for professional growth. If you are passionate about credit risk modeling and have the necessary qualifications, we encourage you to apply.
+
+[Company Name] is an equal opportunity employer committed to promoting diversity and inclusion in our workplace. We welcome applications from all qualified candidates regardless of race, color, national origin, religion, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, disability, veterans status, family status, genetic information, or any other legally protected status.
+
+To apply, please submit your resume and cover letter to our online application system. We look forward to reviewing your application!

@@ -1,0 +1,34 @@
+ Job Title: Senior Financial Risk Model Validator - IFRS9 Compliance (SAS Specialist)
+
+Location: [City, State]
+
+Company Overview:
+[Company Name], a leading financial institution, is seeking a highly skilled and experienced Senior Financial Risk Model Validator to join our team. The ideal candidate will have strong technical expertise in IFRS9 regulatory compliance, specifically with SAS programming skills.
+
+Job Description:
+
+As a Senior Financial Risk Model Validator, you will play a critical role in ensuring the accuracy, robustness, and compliance of our wholesale IFRS9 model. Your primary responsibilities will include:
+
+1. Conducting independent validation of the institution's IFRS9 models to ensure they are accurately capturing credit risk and conforming to regulatory requirements.
+2. Collaborating with various business units, risk management, and regulatory departments to understand modeling methodologies, assumptions, and data inputs.
+3. Developing, implementing, and maintaining SAS-based validation procedures for IFRS9 models, including stress testing and backtesting.
+4. Identifying, documenting, and escalating any issues or risks related to model validity, compliance, or performance.
+5. Participating in the development of new and enhanced models, providing expertise on IFRS9 regulations and best practices.
+6. Staying up-to-date with evolving financial regulatory requirements and industry trends, particularly related to IFRS9.
+7. Collaborating with internal and external auditors during model validation reviews.
+8. Providing training and support to other team members on IFRS9 modeling and validation principles.
+
+Qualifications:
+
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, Statistics, or a related field. Advanced degrees are preferred.
+2. Minimum of 5 years of experience in financial risk management, with a focus on model validation, ideally within the banking sector.
+3. Extensive knowledge of IFRS9 regulations and credit risk modeling principles.
+4. Strong SAS programming skills and experience using SAS for model development, validation, and reporting.
+5. Proven ability to communicate complex technical information effectively to various stakeholders.
+6. Strong problem-solving skills and attention to detail.
+7. Self-motivated, adaptable, and able to work in a fast-paced environment.
+8. CFA, FRM, or similar professional designation is preferred.
+
+[Company Name] offers a competitive salary, comprehensive benefits, and a supportive work environment that fosters career growth and development. If you are a highly motivated individual with a passion for financial risk management and a strong background in SAS programming, we encourage you to apply for this exciting opportunity.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

@@ -1,0 +1,36 @@
+ Job Title: Wholesale IRB Model Development Specialist
+
+Location: [Your Location]
+
+Job Type: Full-Time
+
+About Us:
+[Company Name] is a leading financial institution seeking a talented and dedicated professional to join our team as a Wholesale IRB Model Development Specialist. We are looking for individuals who possess strong analytical skills, a deep understanding of risk management, and proficiency in SQL. If you are passionate about data analysis, have a knack for problem-solving, and enjoy working in a dynamic environment, we would love to hear from you!
+
+Responsibilities:
+1. Develop, maintain, and enhance wholesale IRB models to accurately assess credit risk and provide insights for strategic decision making.
+2. Collaborate with various departments to ensure model outputs are aligned with business needs and regulatory requirements.
+3. Design, implement, and optimize SQL queries for data extraction, manipulation, and analysis.
+4. Develop automated processes for model testing, validation, and documentation to maintain model integrity and compliance.
+5. Conduct sensitivity analyses and stress tests to assess the robustness of models under various scenarios.
+6. Collaborate with data scientists and IT teams to integrate models with other systems and ensure seamless data flow.
+7. Participate in ongoing research and development efforts to improve model performance and stay abreast of industry trends and regulatory changes.
+8. Provide expert guidance on model-related issues, collaborating closely with business stakeholders to deliver actionable insights.
+9. Ensure models comply with internal policies and external regulations, such as Basel III.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, Statistics, Engineering, or a related field.
+2. Proven experience in wholesale banking, risk management, or model development, preferably with a focus on IRB models.
+3. Strong SQL programming skills and proficiency in statistical software packages such as R or Python.
+4. Knowledge of credit risk modeling methodologies, including PD, LGD, and EAD calculations.
+5. Experience working with large and complex datasets, with the ability to draw meaningful insights from them.
+6. Excellent analytical, problem-solving, and communication skills.
+7. Ability to work collaboratively in a team environment, as well as independently on complex tasks.
+8. Strong understanding of regulatory requirements related to credit risk modeling, such as Basel III.
+9. Familiarity with Agile methodologies and DevOps practices is a plus.
+
+We offer a competitive salary and benefits package, as well as opportunities for professional growth and development. If you are ready to take on a challenging role in a dynamic and innovative organization, apply today!
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+Note: Only candidates who meet the specified qualifications will be contacted.

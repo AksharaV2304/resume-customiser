@@ -1,0 +1,44 @@
+Shashwata Mondal
+Summary
+Shashwata is a Senior in EY’s Financial Services Risk Management practice. He has 1+ years of experience in the Banking and Financial Services industry. Experienced Credit Risk Analyst with a strong background in predictive modelling adept at validating and refitting credit models, with hands-on expertise in various ML techniques.
+
+Qualifications and training
+
+M.Tech in Cryptology and Security, ISI Kolkata, 2023
+
+M.Sc in Mathematics, Ramakrishna Mission Vivekananda Educational and Research Institute, 2020
+
+B.Sc in Mathematics, Ramakrishna Mission Residential College, 2018
+
+Key relevant experience
+
+Data preprocessing (outlier handling, missing values, scaling, encoding)
+
+Used XGBoost (classification: claim/no-claim; regression: claim amount)
+
+Tuned hyperparameters, validated with K-Fold Cross-Validation
+
+Evaluated using metrics like Confusion Matrix, R², TPR, Adjusted R²
+
+Logistic Regression for PD modelling; Linear Regression for LGD
+
+Computed Expected Loss using PD, LGD, fixed EAD
+
+Feature mapping for marine insurance: PSL, sum insured, claims, commodities
+
+Used internal calculator to estimate expected premium
+
+Compared expected vs actual premium rates
+
+Built system for month-on-month zonal rate computation
+
+Monitored geographic rate trends for pricing strategy
+
+Technical Skills
+
+R, Python, SQL, C, Git, Excel
+
+Machine Learning, AI
+
+Statistics, Deep Learning, NLP, Time Series
+

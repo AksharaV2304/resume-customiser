@@ -1,0 +1,37 @@
+ Job Title: Senior Financial Modeling Engineer - IFRS9 Model Development (R Specialization)
+
+Location: [City, State]
+
+Company Overview:
+[Insert Company Name] is a leading financial institution committed to providing innovative financial solutions and services. As we continue to grow, we are seeking a talented Senior Financial Modeling Engineer with expertise in IFRS9 model development and proficiency in the R programming language to join our team.
+
+Job Description:
+
+The Senior Financial Modeling Engineer will play a pivotal role in designing, developing, and implementing an advanced IFRS9 model using R. The ideal candidate should have a strong understanding of credit risk modeling, banking regulations, and experience working with complex financial data.
+
+Responsibilities:
+- Collaborate with the risk management team to design and develop an innovative IFRS9 model for wholesale portfolios.
+- Leverage R programming skills to create high-performance models that accurately predict credit risk and comply with regulatory requirements.
+- Implement machine learning techniques to improve the model's accuracy and efficiency.
+- Work closely with data scientists, risk analysts, and other stakeholders to ensure the model integrates seamlessly with existing systems.
+- Validate and document the IFRS9 model, ensuring compliance with internal policies and industry best practices.
+- Conduct ongoing research and development to continuously improve the model's performance and address evolving regulatory requirements.
+- Collaborate with senior management to present findings and recommendations based on model analysis.
+
+Requirements:
+- Master's degree in Finance, Mathematics, Economics, Computer Science, or a related field.
+- Minimum of 5 years of experience in credit risk modeling, preferably within the financial services industry.
+- Expertise in IFRS9 and a strong understanding of credit risk concepts and regulations.
+- Proficiency in R programming language, with experience in data manipulation, statistical analysis, machine learning, and model validation.
+- Excellent analytical skills, problem-solving abilities, and attention to detail.
+- Strong communication and collaboration skills, with the ability to work effectively in a team environment.
+
+Benefits:
+- Competitive salary and benefits package.
+- Opportunity to work on cutting-edge financial modeling projects.
+- Collaborative and supportive work environment that encourages professional growth and development.
+- Flexible working hours and remote work options (dependent on company policy).
+
+To apply, please submit your resume, cover letter, and examples of previous work (if available) to [Insert Contact Information]. We are an equal opportunity employer and value diversity in our team.
+
+[Company Name] is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.

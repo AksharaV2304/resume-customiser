@@ -1,0 +1,31 @@
+ Job Title: Wholesale AI/ML Model Auditor (R Specialization)
+
+Company Overview:
+[Company Name] is a leading innovator in the tech industry, specializing in advanced artificial intelligence (AI) and machine learning (ML) solutions. We are currently seeking an experienced and highly skilled Wholesale AI/ML Model Auditor with expertise in R programming to join our dynamic team.
+
+Job Description:
+
+As a Wholesale AI/ML Model Auditor, you will be responsible for reviewing, assessing, and validating the performance, accuracy, and ethical implications of AI/ML models developed by our wholesale partners. Your primary focus will be on ensuring that the AI/ML models meet industry standards, comply with regulations, and align with our company's values.
+
+Key Responsibilities:
+1. Perform thorough audits of AI/ML models developed by our wholesale partners using R programming language.
+2. Analyze model performance metrics, including accuracy, precision, recall, and F1 score.
+3. Evaluate the robustness, fairness, and explainability of the AI/ML models.
+4. Identify any potential issues or risks associated with the models and suggest improvements or remediation strategies.
+5. Collaborate with our wholesale partners to address identified issues and ensure the continuous improvement of their AI/ML models.
+6. Stay updated on the latest developments in AI/ML, data science, and related regulatory requirements.
+7. Document your findings and communicate them effectively to both technical and non-technical stakeholders.
+
+Qualifications:
+1. Bachelor's or Master's degree in Computer Science, Statistics, Mathematics, Engineering, or a related field. Advanced degrees are preferred.
+2. Proven experience as an AI/ML Model Auditor or similar role, preferably within the wholesale sector.
+3. Expertise in R programming and strong understanding of machine learning algorithms, data mining techniques, and statistical analysis.
+4. Familiarity with AI/ML model validation methodologies and best practices.
+5. Experience working with regulatory compliance requirements related to AI/ML models.
+6. Excellent analytical, problem-solving, and communication skills.
+7. Ability to work independently as well as collaboratively in a team environment.
+8. Strong attention to detail, ethical awareness, and a commitment to maintaining high standards of quality.
+
+[Company Name] offers a competitive salary, comprehensive benefits package, opportunities for professional growth, and a dynamic work environment that encourages innovation and collaboration. If you are passionate about AI/ML, have a strong analytical mindset, and are eager to make a significant impact in the tech industry, we encourage you to apply for this exciting opportunity.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

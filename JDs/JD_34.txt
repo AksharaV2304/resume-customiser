@@ -1,0 +1,35 @@
+ Job Title: Senior Retail Stress Testing Model Auditor (Python Specialist)
+
+Location: [Your Location]
+
+Company Overview:
+[Briefly describe the company and its mission, if necessary.]
+
+Job Description:
+
+We are seeking a highly skilled and experienced Senior Retail Stress Testing Model Auditor to join our dynamic and innovative team. The successful candidate will be responsible for auditing the integrity of our retail stress testing models using Python as the primary programming language.
+
+Responsibilities:
+1. Conduct thorough audits of retail stress testing models to ensure compliance with regulatory requirements and internal policies.
+2. Utilize Python to develop scripts, algorithms, and automation tools to test and validate model outputs.
+3. Collaborate with stakeholders across various business units to understand model requirements and translate them into efficient and effective Python code.
+4. Analyze and interpret complex data sets to identify trends, issues, and potential risks within the models.
+5. Document findings, recommendations, and improvements in a clear and concise manner for presentation to management.
+6. Stay updated on industry best practices, regulatory changes, and emerging technologies related to stress testing and Python development.
+7. Participate in special projects as needed, such as model development, enhancement, or implementation.
+8. Contribute to the continuous improvement of our stress testing framework by proposing and implementing new methodologies and tools.
+9. Mentor junior team members on Python development, stress testing principles, and best practices.
+
+Qualifications:
+1. Bachelor's degree in Mathematics, Statistics, Computer Science, Finance, or a related field; advanced degree preferred.
+2. Minimum of 5 years of experience in stress testing model auditing within the retail sector.
+3. Expertise in Python programming and proficiency in other relevant languages (e.g., SQL, R).
+4. Strong understanding of quantitative risk management principles, statistical analysis techniques, and regulatory requirements (e.g., Basel III, CCAR, etc.).
+5. Proven ability to develop and maintain high-quality software, with a focus on performance, scalability, and maintainability.
+6. Excellent analytical skills, attention to detail, and problem-solving abilities.
+7. Exceptional communication skills, both written and verbal, with the ability to explain complex concepts to non-technical stakeholders.
+8. A self-starter who can work independently as well as collaboratively in a team environment.
+9. Knowledge of cloud computing platforms (e.g., AWS, Azure) is a plus.
+10. Familiarity with agile development methodologies and version control systems (e.g., Git).
+
+We offer a competitive salary and benefits package, as well as a dynamic work environment that encourages innovation, collaboration, and professional growth. If you are passionate about stress testing, Python development, and making a significant impact on our retail business, we would love to hear from you!

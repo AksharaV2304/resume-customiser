@@ -1,0 +1,37 @@
+ Job Title: Wholesale Stress Testing Model Developer
+
+Location: Remote / Hybrid (open to flexible arrangements)
+
+Company Overview:
+[Company Name] is a leading financial institution committed to delivering innovative and comprehensive financial solutions. We are seeking a highly skilled and motivated Wholesale Stress Testing Model Developer to join our team and help us achieve our strategic objectives in risk management and regulatory compliance.
+
+Job Summary:
+The successful candidate will be responsible for developing, maintaining, and enhancing the institution's wholesale stress testing models using SQL as the primary programming language. The role requires a strong understanding of financial markets, risk management principles, and model development techniques to ensure our models accurately reflect the risks associated with our wholesale business activities.
+
+Key Responsibilities:
+1. Design, develop, and maintain wholesale stress testing models using SQL and other relevant tools.
+2. Collaborate with various teams within the institution (e.g., risk management, finance, IT) to gather data, understand business requirements, and ensure model accuracy and relevance.
+3. Conduct regular reviews and updates of existing models to reflect changes in market conditions, regulatory requirements, and internal policies.
+4. Participate in stress testing exercises and provide insights and recommendations based on model outputs.
+5. Document model development processes, assumptions, and results for transparency and regulatory compliance purposes.
+6. Collaborate with data scientists, quantitative analysts, and IT specialists to optimize model performance, efficiency, and scalability.
+7. Stay abreast of industry trends and best practices in wholesale stress testing models, risk management, and financial modeling.
+8. Contribute to the development and implementation of model validation processes and procedures.
+9. Provide support in ad-hoc analysis and report generation as required.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Economics, Mathematics, Statistics, or a related quantitative field. Advanced degrees (e.g., MBA, MS, Ph.D.) are preferred but not essential.
+2. Minimum of 5 years' experience in financial modeling, preferably within the wholesale banking sector.
+3. Strong proficiency in SQL and experience with other programming languages such as Python, R, or SAS is a plus.
+4. Familiarity with stress testing frameworks (e.g., CCAR, Dodd-Frank Act Stress Testing) and regulatory requirements is beneficial.
+5. Excellent analytical skills, including the ability to work with large datasets, perform complex calculations, and interpret results effectively.
+6. Strong communication and collaboration skills, with the ability to explain technical concepts to non-technical stakeholders.
+7. Self-motivated and proactive, with a focus on continuous learning and improvement.
+8. Strong attention to detail and an understanding of risk management principles.
+9. Experience working in a regulated financial institution is preferred but not essential.
+
+[Company Name] offers a competitive salary package, opportunities for professional growth, and a dynamic work environment that encourages innovation and collaboration. If you are passionate about financial modeling, risk management, and staying at the forefront of industry trends, we invite you to apply for this exciting opportunity.
+
+[Company Name] is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or any other status protected by law or regulation. We encourage applications from diverse candidates who bring unique perspectives, experiences, and ideas to our team.
+
+To apply, please submit your resume, cover letter, and any relevant work samples or references through our online application system. Only candidates selected for an interview will be contacted directly. No phone calls, please.

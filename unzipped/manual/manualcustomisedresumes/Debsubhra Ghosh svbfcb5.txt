@@ -1,0 +1,28 @@
+Debsubhra Ghosh
+Role: Manager
+
+Summary:
+Debsubhra is a seasoned professional in EY’s Financial Services Risk Management practice.
+He has 5+ years of experience in PPNR, CCAR models, credit risk scorecards.
+
+Qualifications and Training:
+
+M.Sc. in Statistics, Ballygunge Science College, 2017
+
+B.Sc. in Statistics, Ramakrishna Mission Residential College, 2015
+
+Key Relevant Experience:
+
+Developed PPNR models to forecast 9-quarter balances under macroeconomic scenarios
+
+Led revenue forecasting for Investment Banking division
+
+Managed CCAR/CECL stress testing for retail banking
+
+Developed scorecards using logistic regression
+
+Built automation tools in SAS and PySpark
+
+Technical Skills:
+PPNR, CCAR, CECL, Scorecards
+SAS, Python, MS Office

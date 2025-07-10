@@ -1,0 +1,45 @@
+Susmita Misra
+Summary
+Susmita is a Senior in the Financial Services Risk Management practice of EY India focusing on Credit Risk Analytics, regulatory modelling, Model monitoring and validation with 3 years of experience. She has worked largely with credit model development and validation team for Global Banks in financial services domain.
+
+Qualifications and training
+
+B.Sc. in Statistics from Guwahati University in 2018
+
+Post Graduation Diploma in Statistics and Analytics from ISI in 2019
+
+Key relevant experience
+
+For a European Bank, worked with the ERM PPNR Stress testing team.
+
+Responsible for the syndication of PPNR-stressed projections for the IB division.
+
+Quantified and assessed the capital requirements for business risk under semi-annual and quarterly internal group stress testing exercises.
+
+Contributed to the design and calibration of econometric models for PPNR forecasting, focusing on deposit and fee income portfolios.
+
+Supported the execution of CCAR scenario analysis for trading and asset management portfolios, providing insights into market and operational risks.
+
+Managed the PPNR modelling process for consumer credit portfolios, incorporating behavioural and macroeconomic variables to improve forecast accuracy.
+
+Coordinated with risk management and finance teams to integrate CCAR stress testing results into the bank's capital planning and risk appetite framework.
+
+Played a pivotal role in the end-to-end process of CECL model development, from data collection to model deployment, for mortgage and commercial loan portfolios.
+
+For a G-SIB bank, validated their logistic regression-based PD models for unsecured Credit portfolio.
+
+Conducted back-testing, benchmarking, and sensitivity analysis of the CCAR models for the bank’s quarterly and annual reviews.
+
+Technical Skills
+
+Experience of regulatory regimes viz. Basel II/III, CCAR, IFRS9
+
+Model development and validation of credit risk models
+
+Stress Testing, Capital Policy & Capital Planning, CCAR Risk Analytics
+
+Advanced Excel, SAS, Python
+
+Model Risk Management
+
+Model Audit

@@ -1,0 +1,28 @@
+Shriwari Mhatre
+MSc in Data Science and ML | GCB 6
+
+Summary
+Shriwari is part of EY FSRM India with 5+ years’ experience in credit risk management, ML model development/validation across Banking and FMCG.
+
+Experience
+Model Validation (AMEX):
+
+Validated Credit Risk and Fraud models (US + global portfolios)
+
+Techniques: logistic regression, time series, fractional regression
+
+Performed OOT/OOS testing, backtesting, sensitivity/stress testing, calibration
+
+Drafted observations and recommendations
+
+Other:
+
+Developed B-score for credit card cross-sell
+
+Built acquisition scorecards using in-house + alt data
+
+Demand forecasting/replenishment model (80% accuracy, $15M impact)
+
+MLOps solution hosted on Azure with Databricks
+
+Deloitte internal supply chain asset – 35M+ opportunities onboarded

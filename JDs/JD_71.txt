@@ -1,0 +1,34 @@
+ Job Description: Retail AI/ML Model Auditor
+
+Company Overview:
+[Your Company Name] is a leading organization in the retail industry, leveraging advanced technologies to drive innovation and growth. We are committed to delivering exceptional customer experiences through our cutting-edge solutions.
+
+Job Title: Retail AI/ML Model Auditor
+
+Location: [Location]
+
+About the Role:
+We are seeking an experienced Retail AI/ML Model Auditor to join our dynamic team. The ideal candidate will have a strong background in data analytics, machine learning, and statistical modeling, with a focus on ensuring the integrity, accuracy, and transparency of our AI/ML models. SAS expertise is essential for this role.
+
+Responsibilities:
+1. Conduct comprehensive audits of our retail AI/ML models to identify potential biases, errors, or inconsistencies.
+2. Collaborate with data scientists, engineers, and business stakeholders to understand the underlying algorithms, assumptions, and data sources used in model development.
+3. Develop and implement audit methodologies that ensure compliance with industry standards and regulations.
+4. Perform root cause analysis on identified issues and recommend corrective actions.
+5. Document findings and present them effectively to key stakeholders, including management, data scientists, and business teams.
+6. Stay updated on the latest developments in AI/ML, data analytics, and regulatory requirements to continuously improve the audit process.
+7. Contribute to the development of best practices for model governance within the organization.
+8. Collaborate with cross-functional teams to integrate auditing processes into the model development lifecycle.
+9. Maintain a high level of confidentiality and data security when handling sensitive information.
+
+Qualifications:
+1. Bachelor's or Master's degree in Computer Science, Mathematics, Statistics, Engineering, or a related field. Advanced degrees are preferred.
+2. Proven experience in AI/ML model auditing, preferably within the retail industry.
+3. Expertise in SAS and other data analytics tools. Familiarity with Python or R is also beneficial.
+4. Strong understanding of machine learning algorithms, statistical modeling, and data mining techniques.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently as well as collaborate effectively within a team.
+7. Commitment to maintaining the highest standards of integrity, confidentiality, and professionalism.
+8. Knowledge of data privacy regulations such as GDPR, CCPA, and PIPEDA is a plus.
+
+[Your Company Name] offers a competitive salary, comprehensive benefits, and a dynamic work environment that fosters innovation and growth. If you are passionate about AI/ML and committed to maintaining the integrity of our models, we would love to hear from you. Apply today!

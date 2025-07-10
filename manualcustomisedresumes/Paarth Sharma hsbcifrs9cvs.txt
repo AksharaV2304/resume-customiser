@@ -1,0 +1,27 @@
+Paarth Sharma
+PGP in Data Science and Engineering | GCB 6
+
+Summary
+Paarth is with EY FSRM India, having 6 years of experience in IFRS9/Basel IRB model development, validation, and audit across multiple geographies.
+
+Experience
+Model Validation:
+
+IFRS9 PD/LGD/Stress Test models – UK bank
+
+IRB PD/LGD model validation (qualitative + quantitative)
+
+Stress Test validation (uplift, default, DD shift by scenario)
+
+IFRS9 PD validation (Middle East bank) using Python and SAS
+
+Other:
+
+IFRS9 PD development (Vasicek framework – Middle East bank)
+
+Audit of IFRS9 PD/LGD/EAD models
+
+IRB use-test audit for UK bank (CRR, RTS, EBA, ECB compliance)
+
+IRB PMA control and substantive testing audit
+

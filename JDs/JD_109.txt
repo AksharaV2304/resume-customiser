@@ -1,0 +1,31 @@
+ Job Title: Wholesale Scorecards Model Developer
+
+Location: [Your Location]
+
+Company Overview:
+[Insert company name and brief overview here]
+
+Job Description:
+We are seeking an experienced and skilled Wholesale Scorecards Model Developer to join our dynamic team. The ideal candidate will have a strong background in data analysis, statistical modeling, and R programming. This is a unique opportunity for an individual with strong quantitative skills to make a significant impact on our business operations.
+
+Responsibilities:
+1. Develop, implement, and maintain wholesale scorecards models using R programming language.
+2. Analyze complex data sets to identify trends, patterns, and relationships that inform the development of these models.
+3. Collaborate with cross-functional teams to understand business needs and translate them into effective modeling solutions.
+4. Validate and test models to ensure accuracy and reliability.
+5. Present findings and model outcomes in a clear and concise manner to various stakeholders.
+6. Continuously improve existing models based on feedback and changing business requirements.
+7. Stay up-to-date with industry trends, best practices, and emerging technologies related to data analysis and modeling.
+
+Qualifications:
+1. Bachelor's degree in Statistics, Mathematics, Economics, Computer Science, or a related field. Advanced degrees are preferred.
+2. Minimum of 3 years of experience in wholesale scorecards model development, preferably using R.
+3. Proficient in R programming and statistical analysis tools. Familiarity with other programming languages such as Python is a plus.
+4. Strong understanding of financial modeling and risk management principles.
+5. Excellent problem-solving skills and the ability to work independently as well as collaboratively.
+6. Exceptional communication skills, both written and verbal.
+7. Ability to work in a fast-paced environment and manage multiple tasks simultaneously.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+If you are passionate about data analysis, have a strong quantitative background, and are proficient in R programming, we would love to hear from you. Apply today!

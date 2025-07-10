@@ -1,0 +1,34 @@
+ Job Title: Retail Stress Testing Model Developer (SAS Specialist)
+
+Location: [Your Location]
+
+Company Overview:
+[Insert Company Overview]
+
+Job Description:
+
+We are seeking an experienced and skilled Retail Stress Testing Model Developer with a strong proficiency in SAS to join our dynamic team. The ideal candidate will be responsible for designing, developing, and implementing stress testing models to evaluate the resilience of retail portfolios under various market scenarios.
+
+Responsibilities:
+
+1. Design, develop, and implement retail stress testing models using SAS programming language.
+2. Collaborate with business stakeholders to understand and interpret their risk management needs and translate them into model specifications.
+3. Utilize advanced statistical and econometric techniques to create models that accurately simulate various market scenarios and assess the impact on the retail portfolio.
+4. Validate and document the developed models, ensuring they meet regulatory requirements and industry best practices.
+5. Perform ongoing maintenance and updates of the stress testing models as needed, based on changes in the business environment or regulatory requirements.
+6. Collaborate with other departments to integrate the stress testing results into the overall risk management framework.
+7. Contribute to the continuous improvement of the stress testing function by identifying opportunities for efficiency gains and process improvements.
+8. Stay up-to-date with industry trends, best practices, and regulatory developments in retail risk management and stress testing.
+
+Qualifications:
+
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, Statistics, or a related field. Advanced degrees are preferred.
+2. Minimum of 5 years of experience in stress testing model development, preferably within the retail sector.
+3. Proficiency in SAS programming language is essential. Familiarity with other statistical software packages (e.g., R, Python) is a plus.
+4. Strong understanding of retail risk management principles and regulatory requirements.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently as well as collaboratively in a team environment.
+7. Strong attention to detail and ability to handle multiple tasks simultaneously.
+8. Proactive approach to learning and continuous professional development.
+
+We offer a competitive salary, comprehensive benefits package, and a dynamic work environment that encourages innovation and collaboration. If you are passionate about retail risk management and have a strong proficiency in SAS, we would love to hear from you. Apply today to join our team!

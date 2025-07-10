@@ -1,0 +1,37 @@
+ Job Title: IFRS9 Model Validation Specialist - Retail Sector
+
+Location: [Your Location]
+
+Company Overview:
+[Your Company Name] is a leading financial services organization that is committed to maintaining high standards of transparency, accountability, and compliance in our operations. As we continue to grow, we seek an IFRS9 Model Validation Specialist with expertise in Python to join our team.
+
+Job Description:
+
+The IFRS9 Model Validation Specialist will be responsible for ensuring the accuracy and effectiveness of our retail sector's IFRS9 models. The ideal candidate should have a strong understanding of financial reporting standards, particularly IFRS9, and proficiency in Python to develop and maintain validation tools.
+
+Responsibilities:
+
+1. Collaborate with the Risk, Finance, and IT departments to understand our retail IFRS9 models and their associated processes.
+2. Develop, test, and implement automated validation tools using Python to ensure the integrity of the IFRS9 models.
+3. Perform regular model validations and document any identified issues or anomalies, along with recommendations for corrective actions.
+4. Collaborate with internal stakeholders to understand business requirements and translate them into technical solutions.
+5. Stay updated on industry best practices, regulatory updates, and advancements in IFRS9 modeling and validation techniques.
+6. Participate in model validation reviews, risk assessments, and stress testing activities as required.
+7. Contribute to the continuous improvement of our IFRS9 model validation framework.
+
+Qualifications:
+
+1. Bachelor's or Master's degree in Finance, Economics, Mathematics, Statistics, Computer Science, or a related field.
+2. Proven experience (minimum 3 years) in model validation, ideally within the financial services industry, with a focus on IFRS9.
+3. Strong proficiency in Python and familiarity with other relevant programming languages.
+4. Knowledge of financial reporting standards, particularly IFRS9.
+5. Excellent problem-solving skills and attention to detail.
+6. Strong communication and collaboration skills, with the ability to work effectively within a team and liaise with stakeholders at all levels.
+7. Familiarity with regulatory requirements related to model validation is preferred.
+
+[Your Company Name] offers a competitive salary package, comprehensive benefits, and a dynamic working environment that fosters innovation and growth. If you are passionate about model validation, have a strong understanding of IFRS9, and possess expert Python skills, we would love to hear from you.
+
+How to Apply:
+Interested candidates should submit their resume and cover letter through our online application system at [Your Company's Online Application URL]. Please include the job title in your subject line.
+
+[Your Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

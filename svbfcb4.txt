@@ -1,0 +1,164 @@
+🔹 1. Rubika Rana – Senior Manager
+Summary:
+
+10+ years of experience in model development, monitoring, and validation of credit risk models.
+
+Expertise in predictive analytics, CCAR & PPNR models, with model governance exposure.
+
+Qualifications:
+
+B.Tech, Thapar University, 2013
+
+Key Experience:
+
+Led development of PPNR & Balance Sheet models for CCAR.
+
+Developed CCAR EWS models using Python (K-means clustering, trend analysis).
+
+Scenario-based testing (Base, Adverse, Severely Adverse).
+
+Used metrics: KS, Gini, ROC-AUC, PSI, MAE, RMSE.
+
+Automated CCAR pipelines using Python.
+
+Created interactive Python dashboards.
+
+Complied with SR 11-7 and CCAR expectations.
+
+Collaborated with Risk, Treasury, Finance teams.
+
+Technical Skills:
+
+IRB/CCAR model development and validation
+
+SAS EG, SQL, Python
+
+🔹 2. Narendra Sahu – Senior Manager
+Summary:
+
+10+ years in BFSI with expertise in CCAR stress testing, ECL (IFRS9), IRB models, and automation.
+
+Qualifications:
+
+Executive Program, IIM (2023)
+
+M.Sc. Financial Economics, Madras School of Economics (2017)
+
+B.E. Electrical, Veer Surendra Sai University (2014)
+
+Key Experience:
+
+Built CCAR stress testing models, quarterly BAU reporting.
+
+IRB (PD, LGD, EAD, CCF) model calibration.
+
+ECL app in R Shiny (Middle Eastern banks).
+
+Credit scoring for a Myanmar bank (Python).
+
+Climate risk modeling using Bayesian networks.
+
+Model deployment, UAT, automation via R Markdown, R Shiny.
+
+Delivered end-to-end model validations.
+
+Technical Skills:
+
+Python, R, R-Shiny, SQL, VBA, SAS, Git, Excel
+
+Power BI, Tableau, AWS, Azure
+
+Machine learning, scenario analysis, BCBS239
+
+🔹 3. Debsubhra Ghosh – Manager
+Summary:
+
+5+ years in BFSI with focus on PPNR, CCAR models, credit risk scorecards.
+
+Qualifications:
+
+M.Sc. Statistics, Ballygunge Science College (2017)
+
+B.Sc. Statistics, RKM Residential College (2015)
+
+Key Experience:
+
+PPNR model development for 9-quarter forecasts (AUM, AUC).
+
+Revenue forecasting for Investment Banking under macro stress.
+
+Worked on CECL and CCAR with PD, LGD, EAD models.
+
+Built scorecards using logistic regression, reject inference.
+
+Created automation tools for WOE binning and data quality.
+
+Technical Skills:
+
+SAS, Python
+
+Time Series Analysis
+
+Credit Risk Scorecards
+
+MS Office
+
+🔹 4. Anuska Das – Senior
+Summary:
+
+4 years in BFSI with experience in CCAR and CECL execution and UAT.
+
+Qualifications:
+
+MSc & BSc in Applied Economics, Presidency University (2020 & 2018)
+
+Key Experience:
+
+Executed CCAR and climate stress tests (SQL, Excel).
+
+CECL model execution using Python (PD, LGD, EAD).
+
+UAT of CCAR platforms.
+
+Backtesting and monitoring for portfolio quality.
+
+Migration projects using PySpark.
+
+Technical Skills:
+
+SAS, Python, SQL, Excel, VBA
+
+CCAR, CECL execution
+
+Climate stress testing, backtesting
+
+🔹 5. Stuti Mehrotra – Senior
+Summary:
+
+2+ years in BFSI, skilled in PPNR model development and validation for CCAR.
+
+Qualifications:
+
+M.Sc. Financial Economics, Gokhale Institute (2022)
+
+BA Economics, Delhi University (2018)
+
+Key Experience:
+
+Led PPNR model development and validation (9Q CCAR forecasts).
+
+Stress testing protocols and ongoing monitoring.
+
+Multivariate regression forecasting for key financials.
+
+Inter-department collaboration with risk and finance.
+
+Developed Tableau dashboards for CCAR outputs.
+
+Technical Skills:
+
+SAS, Python, R, SQL, Excel, Tableau
+
+Basel II/III, CCAR, IFRS9
+
+Risk analytics, stress testing

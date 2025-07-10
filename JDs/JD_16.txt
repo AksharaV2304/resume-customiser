@@ -1,0 +1,37 @@
+ Job Title: Senior Financial Risk Analyst - IFRS9 Model Development
+
+Location: [Your Location]
+
+Company Overview:
+[Insert Company Name], a leading retail organization, is currently seeking a talented and experienced Senior Financial Risk Analyst to join our team. The ideal candidate will have a strong background in financial risk modeling, specifically IFRS9, and proficiency in SQL. This role requires a blend of technical expertise, problem-solving skills, and the ability to work collaboratively within a dynamic team environment.
+
+Job Description:
+
+As a Senior Financial Risk Analyst, you will play a critical role in the development and implementation of IFRS9 models for our retail business. Your primary responsibilities will include:
+
+1. Designing, developing, and maintaining IFRS9 models using SQL as the primary programming language.
+2. Collaborating with stakeholders across various departments to understand and incorporate their requirements into the model development process.
+3. Analyzing and interpreting financial data to identify trends, risks, and opportunities for improvement in our retail business.
+4. Ensuring compliance with relevant regulatory requirements, specifically IFRS9 standards.
+5. Providing expert advice and guidance on risk management strategies related to credit risk, impairment modeling, and provisioning.
+6. Continuously improving the efficiency and effectiveness of our IFRS9 models through ongoing monitoring, testing, and optimization.
+7. Collaborating with other teams to integrate your models into our existing risk management framework.
+8. Documenting models, methodologies, and assumptions for audit purposes and knowledge sharing.
+9. Staying abreast of industry developments and best practices in financial risk modeling and IFRS9 compliance.
+
+Qualifications:
+
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, or a related field. Advanced degrees are preferred.
+2. Minimum of 5 years of experience in financial risk modeling, with a focus on IFRS9.
+3. Proficiency in SQL and experience working with large datasets.
+4. Strong analytical skills and the ability to interpret complex financial data.
+5. Excellent problem-solving abilities and attention to detail.
+6. Strong communication skills, both written and verbal, with the ability to explain complex concepts to non-technical stakeholders.
+7. Experience working in a retail or banking environment is preferred.
+8. Knowledge of risk management principles and regulatory requirements, particularly IFRS9 standards.
+9. Ability to work independently as well as collaboratively within a team.
+10. Strong ethical standards and a commitment to maintaining the highest level of integrity in all professional activities.
+
+[Company Name] offers a competitive salary and benefits package, including opportunities for professional development and growth. If you are passionate about financial risk modeling and have the skills and experience we're looking for, please apply with your resume and cover letter detailing your relevant experience.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

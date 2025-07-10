@@ -1,0 +1,34 @@
+Vaibhav Yadav
+Role: Senior
+
+Summary:
+Vaibhav is a Senior in EY’s FSRM practice with 4+ years of BFSI experience. Skilled in CCAR, macro-modelling, data lineage.
+
+Qualifications and Training:
+
+MA Economics, Delhi University, 2021
+
+BA (H) Economics, Delhi University, 2019
+
+Key Relevant Experience:
+
+Reviewed macro projections under CCAR BHC & FRB
+
+Validated PPNR models under CCAR, SR 11-7
+
+Validated CECL models for consumer lending
+
+Built long-term forecasts for Climate Fed Pilot
+
+Created geopolitical macro scenarios
+
+Handled data production (~1300 variables)
+
+Automated DQ checks (reduced false flags by 98%)
+
+Led macro monitoring and stakeholder flash reports
+
+Technical Skills:
+Basel II/III, CCAR, IFRS9
+Advanced Excel, SAS, Python
+Model Risk Management, Capital Planning

@@ -1,0 +1,116 @@
+🔶 1. Shambhu Dayal Singh — Senior Manager
+Summary
+Shambhu is a Senior Manager in EY. He has 9+ years of experience in financial domain with exposure across model development, monitoring and validation of credit risk models. He is proficient in predictive analytics, statistical modelling and has good understanding of various modelling techniques.
+
+Qualifications and training
+
+M.Tech from Indian Statistical Institute, Kolkata, 2015
+
+B. Tech. from NIFFT, Ranchi, 2011
+
+Key relevant experience
+
+Led development of economic scenarios for CCAR stress testing.
+
+Integrated macroeconomic variables into credit risk models.
+
+Oversaw data management process for CCAR models.
+
+Contributed to credit Risk (PD & LGD) Models Fit-For-Use Analysis under B3R for a Canadian Bank.
+
+Calculated RWA impact due to population extension (~21% reduction).
+
+Analyzed impairments for BCUS portfolio; supported ALLL and IFRS9 analytics for US region.
+
+Developed Application Scorecard and PD model (IFRS9) for digital loans in India.
+
+Re-developed Behavioural Scorecard for UK loans portfolio.
+
+Credit-risk impairment forecasting via regression and balance-ratio models.
+
+Converted IAS 39 forecasting templates to IFRS 9.
+
+Trigger review, model validation for PD model for Canadian Bank (KS drop, IV analysis).
+
+Technical Skills
+Basel II/III, CCAR, IFRS9, Credit Risk Models, Stress Testing, Capital Planning, Risk Analytics, Excel, SAS, Python, Model Risk Management, Model Audit
+
+🔶 2. Sakeena Siddiqui — Senior
+Summary
+Sakeena is a Senior in EY’s Financial Services Risk Management practice. She has 5+ years of experience in the Banking and Financial Services industry. Proficient in CCAR/DFAST PD/LGD/EAD model development, and stress testing as per CCAR/CECL norms for Commercial portfolio.
+
+Qualifications and training
+
+B.Tech, Computer Science and Engineering, GGSIPU, Delhi
+
+Key relevant experience
+
+Implemented wholesale credit risk models for CCAR.
+
+Authored model documentation for CCAR audits.
+
+Refined PPNR estimates under macroeconomic stress.
+
+Designed economic scenarios for stress testing (UK G-SIB).
+
+Developed IFRS9 PD scorecard for personal exposure portfolio (Middle East Central Bank).
+
+Built PD scorecards for Large Corporate & ABL portfolios for US banks under CECL.
+
+End-to-end model development: data prep, segmentation, macro impacts, backtesting.
+
+Validated models across retail/commercial, aligned with CCAR.
+
+Highlighted data quality issues and recommended MRM resolution strategies.
+
+Technical Skills
+Basel II/III, CCAR, IFRS9, Credit Risk Models, Stress Testing, Capital Planning, Risk Analytics, Excel, SAS, Python, Model Risk Management, Model Audit
+
+🔶 3. Shriwari Shedge — Senior
+Summary
+Shriwari is a Senior in EY’s Financial Services Risk Management practice. She has 4+ years of experience in data science projects, collaborating with cross functional teams and ensuring the accuracy and integrity of data and actionable insight. Skilled in statistical modelling, data analysis, predictive modelling, text mining, machine learning and deep learning.
+
+Qualifications and training
+
+Master’s in Data Science & Machine Learning, Liverpool John Moores University, UK
+
+PGD in Data Science and ML
+
+B.E. Electronics and Telecommunications
+
+Key relevant experience
+
+Delivered CCAR PPNR reports and analysis.
+
+Refined PPNR models for US bank using macroeconomic drivers.
+
+Supported scenario development for CCAR.
+
+Reviewed retail model methodology and validation frameworks.
+
+Assessed scorecard models (application & behavioural) — PSI, risk driver stability.
+
+Validated ECL components (PD, LGD, EAD) for Indian financial institutions.
+
+Reperformance testing of Ind AS 109 ECL models.
+
+Quantitative assessment of ML models (LightGBM, Random Forest) using metrics like MAPE, GINI, PSI, Confusion Matrix, PDO.
+
+Built challenger models for stress testing accuracy/stability.
+
+Technical Skills
+Basel II/III, CCAR, IFRS9, Credit Risk Models, Stress Testing, Capital Planning, Risk Analytics, Excel, SAS, Python, Model Risk Management, Model Audit
+
+🔶 4. Tarun Anand — Consultant
+Summary
+Tarun is a consultant in the Financial Services Risk Management practice at EY India with 1+ years of experience. His expertise covers a range of complex areas, which include model development, policy creation, model validation, and monitoring of credit risk models. He has worked with banks and NBFCs across India, Southeast Asia, and the Middle East.
+
+Qualifications and training
+
+BA(H) Economics, Loyola College
+
+MA Economics, Madras School of Economics
+
+Technical Skills
+Basel II/III, CCAR, IFRS9, Credit Risk Models, Stress Testing, Capital Planning, Risk Analytics, Excel, SAS, Python, Model Risk Management, Model Audit
+

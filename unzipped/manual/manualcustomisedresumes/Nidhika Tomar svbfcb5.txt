@@ -1,0 +1,33 @@
+Nidhika Tomar
+Role: Manager
+
+Summary:
+Nidhika is a Manager with ~5 years of BFSI experience. Specialized in PD/LGD model development, stress testing, RWA, and ICAAP.
+
+Qualifications and Training:
+
+Masters in Economics, Delhi School of Economics, 2019
+
+BA Economics, Delhi University, 2017
+
+Key Relevant Experience:
+
+Built secured portfolio evolution models feeding into RWA/ECL
+
+Developed capital emulator suite (PD, EAD, LGD)
+
+Engineered impairment emulator with FL overlays (PPD, FSD)
+
+Implemented modeling using PyCharm
+
+Built hybrid PD model for BUK Home Finance
+
+Assessed affordability on 1.2M accounts (~£6B exposure)
+
+Measured HPI impact on £150B property value
+
+Managed RWA tracking for internal/external stress tests
+
+Technical Skills:
+SAS, SQL, PyCharm, Python, GIT
+Modeling: PD/LGD, Stress Testing, ICAAP, RWA

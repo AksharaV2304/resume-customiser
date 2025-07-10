@@ -1,0 +1,25 @@
+ Job Title: Wholesale Scorecards Model Audit Specialist
+
+Job Summary:
+We are seeking a highly skilled and experienced Wholesale Scorecards Model Audit Specialist to join our team. The ideal candidate will have a strong background in financial modeling, risk management, and data analysis using SAS. This role requires an individual who can accurately assess the performance, validity, and compliance of wholesale scorecard models, ensuring they align with regulatory requirements and business objectives.
+
+Responsibilities:
+1. Conduct comprehensive audits of wholesale scorecard models, identifying potential risks, inconsistencies, or errors in model design, data inputs, and outputs.
+2. Collaborate with various departments to understand business requirements and ensure the accuracy and relevance of the scorecard models.
+3. Utilize SAS software for data analysis, modeling, and reporting throughout the audit process.
+4. Develop and implement improvements to enhance the efficiency, accuracy, and reliability of the wholesale scorecard models.
+5. Stay updated with industry trends, regulatory changes, and best practices in financial modeling and risk management.
+6. Prepare clear and concise reports detailing findings from audits, recommendations for improvement, and any potential risks or issues identified.
+7. Collaborate with other teams to implement suggested improvements and ensure the ongoing integrity of the scorecard models.
+8. Participate in various projects related to model development, validation, and governance as required.
+
+Qualifications:
+1. Bachelor's degree in Finance, Economics, Mathematics, Statistics, or a related field; advanced degree preferred.
+2. Minimum of 5 years of experience in financial modeling, risk management, or data analysis, with a focus on wholesale scorecard models.
+3. Proficiency in SAS programming and data analysis is essential. Familiarity with other statistical software packages (e.g., R, Python) is a plus.
+4. Strong understanding of credit risk, financial markets, and regulatory requirements related to wholesale scorecards.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and collaboratively in a fast-paced environment.
+7. Detail-oriented with strong organizational and project management skills.
+
+Our company offers a competitive salary, comprehensive benefits package, and opportunities for professional growth and development. If you are passionate about financial modeling, risk management, and SAS, we encourage you to apply.

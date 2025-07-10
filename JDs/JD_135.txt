@@ -1,0 +1,32 @@
+ Job Title: Senior AI/ML Model Developer (Wholesale Focus) - SAS Specialist
+
+Location: [Your Location]
+
+Company Overview:
+[Insert company name and brief overview here] is a leading company in the [industry] sector, dedicated to leveraging advanced technologies for innovative solutions. We are currently seeking a skilled Senior AI/ML Model Developer with a focus on wholesale applications and extensive experience in SAS.
+
+Job Description:
+
+In this role, you will be responsible for designing, developing, and implementing AI/ML models that cater specifically to our wholesale business operations. You will work collaboratively with cross-functional teams to drive the company's strategic goals by utilizing machine learning algorithms and statistical modeling techniques.
+
+Key Responsibilities:
+1. Develop, test, and deploy AI/ML models using SAS for various wholesale applications such as demand forecasting, risk management, and customer segmentation.
+2. Collaborate with data analysts, business users, and other stakeholders to understand business requirements and translate them into technical specifications.
+3. Perform data analysis, model training, validation, and optimization to ensure high-quality model performance.
+4. Document and present findings to various levels within the organization, including senior management.
+5. Work with IT teams to integrate models into existing systems and ensure scalability as the business grows.
+6. Stay up-to-date on industry trends and advancements in AI/ML for wholesale applications and proactively implement best practices.
+7. Mentor and guide junior team members in model development and SAS programming.
+
+Qualifications:
+1. Bachelor's or Master's degree in Computer Science, Statistics, Mathematics, Engineering, or a related field. Advanced degrees are preferred.
+2. Proven experience (minimum 5 years) in AI/ML model development using SAS.
+3. Strong understanding of statistical modeling techniques and machine learning algorithms.
+4. Knowledge of wholesale business operations is highly desirable.
+5. Excellent problem-solving skills, with the ability to think critically and innovatively.
+6. Strong communication skills, both written and verbal, for effectively collaborating with stakeholders at all levels.
+7. Ability to work independently and manage multiple projects simultaneously in a fast-paced environment.
+8. Experience mentoring or guiding junior team members is preferred.
+9. Proficiency in other programming languages such as Python, R, or Java is a plus.
+
+[Company Name] offers a competitive salary and benefits package, including opportunities for professional development and growth. If you are passionate about AI/ML and excited to make a significant impact on our wholesale business operations, we encourage you to apply today!

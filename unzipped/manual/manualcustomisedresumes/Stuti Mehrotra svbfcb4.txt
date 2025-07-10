@@ -1,0 +1,30 @@
+5. Stuti Mehrotra – Senior
+Summary:
+
+2+ years in BFSI, skilled in PPNR model development and validation for CCAR.
+
+Qualifications:
+
+M.Sc. Financial Economics, Gokhale Institute (2022)
+
+BA Economics, Delhi University (2018)
+
+Key Experience:
+
+Led PPNR model development and validation (9Q CCAR forecasts).
+
+Stress testing protocols and ongoing monitoring.
+
+Multivariate regression forecasting for key financials.
+
+Inter-department collaboration with risk and finance.
+
+Developed Tableau dashboards for CCAR outputs.
+
+Technical Skills:
+
+SAS, Python, R, SQL, Excel, Tableau
+
+Basel II/III, CCAR, IFRS9
+
+Risk analytics, stress testing

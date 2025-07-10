@@ -1,0 +1,29 @@
+ Job Description: Wholesale IRB Model Audit Specialist
+
+Company Overview:
+[Company Name] is a leading financial institution committed to providing innovative and compliant solutions in the financial services industry. We are currently seeking a highly skilled and experienced Wholesale IRB Model Audit Specialist to join our team.
+
+Job Responsibilities:
+1. Conduct thorough audits of wholesale Internal Ratings-Based (IRB) models, ensuring their accuracy, reliability, and compliance with regulatory requirements.
+2. Utilize the statistical programming language R to analyze and interpret complex financial data related to credit risk, portfolio analysis, stress testing, and capital adequacy.
+3. Collaborate with internal stakeholders and regulatory bodies to address any model-related issues or concerns.
+4. Develop and maintain documentation for model development, validation, and governance processes.
+5. Stay updated on industry trends, regulatory developments, and best practices in credit risk modeling and analysis.
+6. Contribute to the continuous improvement of our IRB models by identifying potential enhancements and implementing necessary changes.
+7. Provide training and support to other team members and departments on model-related matters.
+8. Participate in model validation projects, ensuring that they are completed efficiently, effectively, and within set timelines.
+9. Liaise with external vendors and consultants as needed.
+10. Ensure that all activities comply with relevant internal policies, procedures, and regulatory requirements.
+
+Qualifications:
+1. Bachelor's or master's degree in Finance, Economics, Mathematics, Statistics, or a related field. Advanced degrees are preferred.
+2. Proven experience in wholesale IRB model development, validation, and auditing within the financial services industry.
+3. Expertise in using R for statistical analysis and modeling is essential. Familiarity with other programming languages such as Python, SAS, or SQL is also beneficial.
+4. Strong understanding of credit risk, portfolio management, stress testing, and capital adequacy concepts.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and collaboratively in a fast-paced environment.
+7. Proficiency in Microsoft Office Suite (Excel, Word, PowerPoint) is required.
+8. Knowledge of banking regulations, such as Basel III, is highly desirable.
+9. Valid working permit for [Country] is required; willingness to travel occasionally if necessary.
+
+[Company Name] offers a competitive compensation package, including a comprehensive benefits plan and opportunities for professional growth and development. If you are passionate about credit risk modeling, have strong analytical skills, and are proficient in R, we encourage you to apply for this exciting opportunity.

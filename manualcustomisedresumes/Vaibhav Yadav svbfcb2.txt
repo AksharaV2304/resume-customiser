@@ -1,0 +1,52 @@
+Senior – Vaibhav Yadav
+Summary
+Vaibhav is a Senior in EY’s Financial Services Risk Management practice. He has 4+ years of experience in the Banking and Financial Services industry. Proficient in CCAR/DFAST PD/LGD/EAD model development, and stress testing as per CCAR/CECL norms for Commercial portfolio.
+
+Qualifications and training
+
+MA Economics, Delhi University, 2021
+
+BA(H) Economics, Delhi University, 2019
+
+Key relevant experience
+
+Contributed to Macro Modelling and model monitoring for Interest Rates and Macro variables.
+
+Quarterly reviewed and adjusted projection paths for these variables under different scenarios including CCAR BHC & FRB, 5 Firm internal Macro Scenarios, and Climate FRBCSA pilot project scenarios.
+
+Worked on Climate Fed Pilot Project to create long term (40Q) forecasts for variables, along with Modelling granular sector level GVAs to better capture Climate scenario impact.
+
+Owned Geopolitical Asia Escalation scenario with in Firm Macro Scenarios and delivered quarterly forecasts.
+
+Worked on dataset production for ~1300 user claimed variables.
+
+Engaged in DQ checks, usual data fixes, sourcing data from multiple data providers, running scenarios and creating projection sets.
+
+Worked on python script to make the DQ checks process more focused by significantly detecting 98% (350k Standalone Issues and 700k comparison issues) as non-material and recurring and introduced priority segmentation of issues significantly reducing the effort.
+
+Engaged in quantitative model validation of PPNR models in accordance with CCAR and SR 11-7 Guidelines.
+
+Analysed model methodology and formulation; risk associated with model assumptions and limitations.
+
+Appraising the input data; conducting statistical testing of variables and model residuals using SAS.
+
+Evaluating model outputs; overrides and overlays.
+
+Assisted in the validation and back-testing of CECL models for consumer lending portfolios, ensuring compliance with accounting standards and regulatory expectations.
+
+Led monthly macro monitoring, prepared deck and Flash Reports (presented to downstream users) regarding recent developments in economic environment.
+
+Technical Skills
+
+Experience of regulatory regimes viz. Basel II/III, CCAR, IFRS9
+
+Model development and validation of credit risk models
+
+Stress Testing, Capital Policy & Capital Planning, CCAR Risk Analytics
+
+Advanced Excel, SAS, Python
+
+Model Risk Management
+
+Model Audit
+

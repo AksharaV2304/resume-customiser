@@ -1,0 +1,30 @@
+ Job Title: Wholesale Stress Testing Model Auditor
+
+Location: [City, State]
+
+Company Overview:
+[Company Name], a leading financial services organization, is currently seeking a highly skilled and experienced Wholesale Stress Testing Model Auditor to join our team. The successful candidate will be responsible for conducting comprehensive audits of stress testing models used in our wholesale business operations.
+
+Job Responsibilities:
+1. Perform thorough audits of stress testing models across various lines of businesses within the wholesale division.
+2. Analyze model inputs, assumptions, and methodologies to ensure they comply with regulatory requirements and internal policies.
+3. Collaborate with quantitative analysts, risk managers, and senior management to identify any potential issues or weaknesses in the models.
+4. Develop and implement improvements to enhance model robustness, accuracy, and transparency.
+5. Assist in the preparation of periodic reports on stress testing model performance for senior management and regulatory bodies.
+6. Stay abreast of industry developments, regulatory changes, and best practices related to stress testing models.
+7. Provide training and guidance to staff members on stress testing model audits and risk management practices.
+8. SQL proficiency is a must, as you will be required to query databases for data extraction and analysis.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Economics, Mathematics, Statistics, or a related field.
+2. Proven experience in stress testing model auditing within the financial services industry.
+3. Strong understanding of risk management and quantitative analysis principles.
+4. Proficiency in SQL and other relevant statistical software (e.g., R, Python).
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and manage multiple assignments simultaneously.
+7. Strong attention to detail, with the ability to identify discrepancies and potential risks.
+8. Knowledge of wholesale financial products and markets is preferred but not required.
+
+[Company Name] offers a competitive salary, comprehensive benefits package, and a dynamic work environment that encourages professional growth and development. If you are a motivated and detail-oriented professional looking to make a significant impact in the financial services industry, we encourage you to apply for this exciting opportunity.
+
+To apply, please submit your resume and cover letter through our online application system. We thank all applicants for their interest; however, only those selected for an interview will be contacted. [Company Name] is an equal opportunity employer and is committed to fostering a diverse and inclusive workplace.

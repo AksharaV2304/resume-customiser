@@ -1,0 +1,18 @@
+CV_Arnab Roy_Model_Validation – Create a JD for a retail IRB model validation requirement. Mention that SQL is a must.
+
+Summary:
+Arnab Roy is a highly skilled and experienced credit risk analyst with proficiency in SQL, statistics, and regulatory requirements. His experience in model validation, revalidation, and performance monitoring for wholesale and retail models makes him an excellent candidate for the Senior Validation Specialist position in the retail sector.
+
+Qualifications:
+• Arnab Roy has a Bachelor's degree in Economics and a Masters in Economics with a specialization in Trade & Finance. He has achieved First Class in both degrees, with a grade of 80% in his Bachelor's and 68.5% in his Master's.
+• In his Master's program, he specialized in Econometrics, Statistics, Derivatives & Risk Management, Banking & Intermediation, International Trade, Micro & Macro Economics, and research projects on crime, deterrence, and social expenditure analysis as well as HS84 tariff reform and negotiation.
+• His education and academic performance demonstrate his strong analytical skills, attention to detail, and proficiency in economics, statistics, and banking & finance.
+
+Key Experience:
+• Arnab Roy has over 2.5 years of experience as a consultant in model validation, revalidation, and performance monitoring for wholesale and retail models. This includes expertise in regulatory standards such as AIRB, Basel, CCAR, and SR 11-7 guidelines.
+• He has hands-on experience in SAS/SQL and is proficient in producing structured reports, presenting analysis, and issuing recommendations to stakeholders.
+• His experience includes conducting validation of wholesale portfolios for a leading North American bank, calculating Long Run Default Rate, Target PD, and issuing recommendations due to sources of uncertainty. He has also conducted validation of Low Default Portfolios (LDPs) & Effectiveness Assessment for AIRB & ST models, among other tasks.
+• Arnab has experience in conducting back testing analysis, assessing 95%ile confidence interval breaches in MAE, and assigning model scores combining quantitative & qualitative triggers for Stress Test models.
+
+Technical Skills:
+• Arnab Roy is highly skilled in SQL and proficient in SAS/SQL, Power-BI, and MS Office Suite. His technical skills include Model Validation, Regulatory Knowledge (AIRB, Basel, CCAR, SR 11-7 guidelines), Reporting (technical reporting and presenting analysis, issue description, findings & recommendation to stakeholders).

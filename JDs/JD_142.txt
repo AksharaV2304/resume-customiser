@@ -1,0 +1,33 @@
+ Job Title: Wholesale AI/ML Model Auditor (Python Specialist)
+
+Location: [Your Location]
+
+Company Overview:
+[Insert Company Name and Brief Description]
+
+Job Overview:
+We are seeking a highly skilled and experienced Wholesale AI/ML Model Auditor to join our team. The ideal candidate will have a strong background in machine learning, data analysis, and programming using Python. In this role, you will be responsible for auditing the quality, performance, and ethical implications of AI/ML models used by our wholesale clients.
+
+Responsibilities:
+1. Audit the design, development, testing, and deployment of AI/ML models in a wholesale context to ensure they meet best practices and regulatory requirements.
+2. Perform comprehensive model validation, including assessing model performance, bias, fairness, explainability, and robustness.
+3. Collaborate with data scientists, engineers, and business stakeholders to understand the technical and business aspects of AI/ML models.
+4. Develop and implement strategies for improving the quality and ethical implications of AI/ML models.
+5. Document findings, recommendations, and best practices in clear and concise reports for clients and internal teams.
+6. Stay up-to-date with the latest developments in AI/ML model auditing and regulatory requirements.
+7. Contribute to the development of our AI/ML model auditing processes and tools.
+
+Requirements:
+1. Master's degree or higher in Computer Science, Engineering, Mathematics, Statistics, or a related field.
+2. Minimum 5 years of experience in AI/ML model auditing, data analysis, or similar roles.
+3. Expertise in Python programming and proficiency in other relevant programming languages (e.g., R, Java).
+4. Strong understanding of machine learning algorithms, deep learning, and statistical modeling.
+5. Knowledge of regulatory requirements related to AI/ML models, such as GDPR, CCPA, and HIPAA.
+6. Excellent communication skills, both written and verbal, with the ability to explain complex concepts to non-technical stakeholders.
+7. Ability to work independently and collaboratively in a fast-paced environment.
+8. Experience working with wholesale clients is a plus.
+
+Benefits:
+[Insert benefits information]
+
+To apply, please submit your resume, cover letter, and any relevant portfolio samples or links. We are an equal opportunity employer and encourage applications from candidates of all backgrounds.

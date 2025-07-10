@@ -1,0 +1,33 @@
+ Job Title: Wholesale Stress Testing Model Validation Specialist
+
+Location: [City, State]
+
+Company Overview:
+[Company Name] is a leading financial institution committed to providing innovative solutions in the financial services industry. We are currently seeking a skilled and experienced Wholesale Stress Testing Model Validation Specialist to join our team.
+
+Position Overview:
+The Wholesale Stress Testing Model Validation Specialist will play a crucial role in ensuring our risk management models are accurate, reliable, and compliant with regulatory requirements. The ideal candidate will have strong SQL skills and experience in stress testing model validation within the wholesale banking sector.
+
+Responsibilities:
+1. Conduct thorough reviews of wholesale stress testing models to ensure accuracy and compliance with regulatory standards.
+2. Utilize SQL to extract, analyze, and interpret data from various sources to validate the models' performance.
+3. Collaborate with model developers and risk management teams to understand model assumptions, methodologies, and limitations.
+4. Identify and document any issues or discrepancies found during the validation process and propose solutions to address them.
+5. Stay abreast of regulatory developments related to stress testing and model validation, and ensure our models are aligned with these changes.
+6. Contribute to the development and improvement of our stress testing framework and methodologies.
+7. Prepare reports and present findings to senior management and regulatory bodies.
+
+Qualifications:
+1. Bachelor's degree in Finance, Mathematics, Statistics, Econometrics, or a related field. Advanced degrees are preferred.
+2. Minimum of 5 years of experience in stress testing model validation within the wholesale banking sector.
+3. Strong SQL skills and proficiency in using database management systems.
+4. Knowledge of risk management principles and regulatory requirements related to stress testing, such as Basel III, CCAR, and DFAST.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and collaboratively in a fast-paced environment.
+7. Strong attention to detail and commitment to maintaining high ethical standards.
+
+[Company Name] offers a competitive salary and benefits package, as well as opportunities for professional growth and development. If you are a motivated, detail-oriented professional looking to make an impact in the financial services industry, we encourage you to apply for this exciting opportunity.
+
+To apply, please submit your resume, cover letter, and any relevant work samples to [Company Email Address]. We look forward to reviewing your application.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

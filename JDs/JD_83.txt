@@ -1,0 +1,31 @@
+ Job Description: Wholesale IRB Model Audit Specialist
+
+Company Overview:
+[Company Name] is a leading financial institution committed to delivering exceptional services in the banking sector. We are currently seeking a highly skilled and experienced Wholesale IRB Model Audit Specialist to join our team.
+
+Position Overview:
+As a Wholesale IRB Model Audit Specialist, you will be responsible for conducting comprehensive audits of our Institution's Internal Ratings Based (IRB) models used in the wholesale banking division. Your role will involve ensuring model compliance with regulatory requirements and internal policies, as well as assessing the effectiveness and efficiency of the models.
+
+Responsibilities:
+1. Conduct thorough audits of IRB models used for wholesale lending, focusing on credit risk, asset quality, and capital adequacy.
+2. Utilize SAS programming language to perform data analysis and model validation tasks.
+3. Collaborate with the risk management, compliance, and IT departments to ensure model alignment with regulatory standards and internal policies.
+4. Prepare audit reports detailing findings, recommendations for improvement, and action plans for corrective measures.
+5. Stay updated on industry trends, regulatory changes, and best practices related to IRB modeling and auditing.
+6. Assist in the development and implementation of model governance frameworks and policies.
+7. Participate in model validation committees and other relevant forums within the organization.
+8. Provide training and support to staff members on model auditing and regulatory compliance matters.
+
+Qualifications:
+1. Bachelor's degree in Finance, Economics, Mathematics, Statistics, or a related field. Advanced degrees are preferred.
+2. Minimum of 5 years of experience in banking, preferably in credit risk management, modeling, or audit.
+3. Extensive knowledge of SAS programming and data analysis tools.
+4. Proficient understanding of IRB models, credit risk assessment, and capital adequacy requirements.
+5. Strong analytical skills with the ability to interpret complex financial data and develop meaningful insights.
+6. Excellent communication and interpersonal skills to effectively collaborate with various departments within the organization.
+7. Ability to work independently and manage multiple tasks simultaneously in a fast-paced environment.
+8. Familiarity with banking regulations, such as Basel III and Dodd-Frank Act, is highly desirable.
+9. Experience working in a wholesale banking environment is preferred.
+10. Certified Risk Professional (CRP) or similar certifications are advantageous.
+
+[Company Name] offers a competitive salary package, comprehensive benefits, and opportunities for professional growth. If you are a dedicated professional seeking to make a significant impact in the financial industry, we encourage you to apply for this exciting opportunity.

@@ -1,0 +1,33 @@
+ Job Title: Retail Credit Risk Analytics Model Developer
+
+Location: [Your Location]
+
+Company Overview:
+[Provide a brief description of the company and its mission]
+
+Job Summary:
+We are seeking a highly skilled and motivated Retail Credit Risk Analytics Model Developer to join our team. The successful candidate will play a critical role in designing, developing, and implementing advanced predictive models that support risk management decisions for our retail credit portfolio.
+
+Key Responsibilities:
+1. Develop, validate, and implement new retail credit risk models using Python and other relevant statistical and machine learning tools.
+2. Collaborate with cross-functional teams to understand business needs and translate them into model requirements.
+3. Perform data analysis, model calibration, and scenario testing to ensure the accuracy and reliability of credit risk models.
+4. Contribute to the ongoing maintenance and enhancement of existing models, ensuring compliance with regulatory requirements.
+5. Provide expertise in credit risk management, including credit scoring, portfolio management, and stress testing.
+6. Participate in model validation activities and provide documentation for regulatory submissions.
+7. Stay abreast of industry trends and advancements in credit risk modeling and machine learning techniques.
+8. Collaborate with IT to ensure seamless integration of models into the company's technology infrastructure.
+
+Qualifications:
+1. Master's degree or higher in Statistics, Mathematics, Computer Science, Economics, Finance, or a related field.
+2. Proven experience in credit risk modeling, preferably within a retail banking environment.
+3. Expertise in Python and familiarity with other programming languages (e.g., R, SQL).
+4. Strong knowledge of statistical and machine learning techniques, including regression analysis, decision trees, neural networks, and ensemble methods.
+5. Familiarity with credit risk modeling frameworks such as PD/LGD/EAD, Basel III, and CCAR.
+6. Excellent analytical, problem-solving, and communication skills.
+7. Ability to work independently and collaboratively in a fast-paced environment.
+8. Strong understanding of regulatory requirements related to credit risk modeling (e.g., Dodd-Frank Act, Basel III).
+
+We offer competitive compensation, benefits, and opportunities for professional growth. If you are passionate about credit risk analytics and want to make a significant impact in the financial industry, we encourage you to apply for this exciting opportunity.
+
+[Company Name] is an Equal Opportunity Employer. We welcome and encourage diversity in the workplace.

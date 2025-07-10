@@ -1,0 +1,23 @@
+4. Ketaki Sardeshpande
+MA Economics | GCB 6
+
+Summary
+Ketaki is part of EY FSRM with 3+ years of experience in credit risk model development and validation. She has worked across the UK and Ireland on development, validation, and audit teams.
+
+Model Validation
+Validated IFRS9 retail models for UK bank – methodology review, testing, sensitivity analysis (Python, SAS).
+
+Independently replicated SAS portfolio monitoring, validated with Python.
+
+Performed model testing (Gini, KS, PSI, correlation).
+
+Built challenger EAD model for credit cards using CCF and linear regression in Python.
+
+Validated IRB & IFRS9 PD/LGD models for UK challenger bank – calibration, scorecard methodology, accuracy.
+
+Other Experience
+Contributed to IRB LGD redevelopment for Irish bank using Python (RDS, EDA, SFA/MFA, calibration, MoC).
+
+Conducted testing (homogeneity, stability, grade concentration), authored Model Dev Docs.
+
+Used Python for default definition impact, MoC recalculations, JST/IVU-aligned PD model remediation.

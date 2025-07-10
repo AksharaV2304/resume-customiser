@@ -1,0 +1,30 @@
+ Job Title: Wholesale CCAR Model Development Specialist
+
+Location: [Your Location]
+
+Company Overview:
+[Briefly describe the company's mission, values, and industry position]
+
+Job Description:
+
+We are seeking a highly skilled and experienced Wholesale CCAR (Capital Controls Assessment and Review) Model Development Specialist to join our team. The successful candidate will be responsible for designing, developing, and maintaining wholesale CCAR models that adhere to regulatory requirements.
+
+Key Responsibilities:
+1. Develop and maintain wholesale CCAR models using SQL as the primary programming language.
+2. Collaborate with cross-functional teams including risk management, finance, and business units to gather data and understand business processes for model development.
+3. Design, implement, and validate wholesale CCAR models to ensure accuracy, robustness, and compliance with regulatory requirements.
+4. Conduct model validation, stress testing, and backtesting to ensure the model's performance and reliability.
+5. Document model methodologies, assumptions, and results for regulatory reporting and internal management purposes.
+6. Stay updated on industry trends, regulatory changes, and best practices related to CCAR model development and risk management.
+7. Participate in CCAR submission processes, including data collection, model validation, scenario analysis, and stress testing.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Economics, Mathematics, Statistics, Computer Science, or a related field.
+2. Proven experience in CCAR model development, ideally within wholesale banking.
+3. Strong proficiency in SQL and experience with other programming languages such as Python, R, or SAS is advantageous.
+4. Knowledge of risk management principles and regulatory requirements related to CCAR and stress testing.
+5. Excellent analytical skills, attention to detail, and the ability to work independently and in a team environment.
+6. Strong communication and documentation skills.
+7. Ability to prioritize tasks, manage multiple projects, and work under tight deadlines.
+
+We offer a competitive salary, comprehensive benefits package, and opportunities for professional growth. If you are passionate about risk management, data analysis, and regulatory compliance, we would love to hear from you!

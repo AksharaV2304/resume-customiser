@@ -1,0 +1,39 @@
+ Job Title: Wholesale Stress Testing Model Developer
+
+Location: [Your Location]
+
+Company: [Your Company Name]
+
+Job Type: Full Time
+
+About Us:
+[Your Company's Description]
+
+Job Description:
+
+We are seeking an experienced and highly skilled Wholesale Stress Testing Model Developer to join our team. The successful candidate will be responsible for designing, developing, and implementing advanced stress testing models within a wholesale banking context, utilizing Python as the primary programming language.
+
+Responsibilities:
+
+1. Design and develop sophisticated stress testing models to assess the resilience of our wholesale banking operations under various adverse scenarios.
+2. Collaborate with stakeholders from various departments to understand their needs and translate them into technical requirements for the model.
+3. Implement, test, and validate models using Python and relevant libraries such as NumPy, Pandas, SciPy, and Scikit-learn.
+4. Create efficient, scalable, and maintainable code that can handle large datasets and complex calculations.
+5. Document all models, including assumptions, methodologies, and results, for internal and external audits and reporting purposes.
+6. Collaborate with other team members to integrate the stress testing models into our broader risk management framework.
+7. Stay up-to-date with industry best practices, regulatory requirements, and emerging trends in stress testing and wholesale banking.
+8. Provide technical support and guidance to junior team members as needed.
+
+Requirements:
+
+1. Bachelor's or Master's degree in a quantitative field such as Mathematics, Statistics, Econometrics, Computer Science, Engineering, Finance, or a related discipline.
+2. Proven experience in developing stress testing models within a wholesale banking context.
+3. Expertise in Python programming and proficiency in relevant libraries such as NumPy, Pandas, SciPy, and Scikit-learn.
+4. Strong understanding of financial markets, risk management, and regulatory requirements related to stress testing.
+5. Excellent problem-solving skills, attention to detail, and ability to work under pressure.
+6. Strong communication and collaboration skills, with the ability to explain complex technical concepts to non-technical stakeholders.
+7. Experience working in a regulated environment is advantageous.
+
+We offer a competitive salary package, flexible working hours, and opportunities for professional development and growth. If you are passionate about financial modeling and want to make an impact in a dynamic and innovative organization, we would love to hear from you!
+
+[Your Company's Application Instructions]

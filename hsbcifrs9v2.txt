@@ -1,0 +1,102 @@
+🔷 1. M.V. Kailash Reddy
+B Tech., Mechanical Engineering | GCB 5
+
+Summary
+Kailash is a part of the Financial Services Risk Management practice of EY India with 5+ years of experience. He has expertise in credit analytics, data analytics, data science and risk analytics/decision sciences spanning multiple industries like Banking, Insurance.
+
+HSBC Experience
+Recalibration/redevelopment of scorecard models for HSBC retail portfolios (Credit Card, Personal Loans – EMEA region) using SAS.
+
+Collaborated with HBUK MMR team to support SS1/23 guideline implementation, perform PMA reviews, and generate RWA impact assessment reports.
+
+Model Validation
+IFRS9 LGD model validation for mortgages across Irish Bank geographies.
+
+Designed monitoring metrics (PSI, transfer criteria, PD/Loss curves, LGD, ECL) using Python.
+
+Conducted IFRS9 model reviews for Middle East banks including desktop review, reperformance, sensitivity testing, and benchmarking.
+
+Other Experience
+Developed IRB LGD model for a UK mortgage portfolio (data prep, EDA, calibration, testing, documentation).
+
+Used Python for performance testing – homogeneity, HHI, PSI, Spearman, AUC, etc.
+
+Built ELBE model for Irish bank’s IRB LGD using Python.
+
+IRB EAD and PD remediation for a UK bank.
+
+Supported implementation by documenting Tech Specs and addressing IM team queries.
+
+🔷 2. Anand Kumar
+M.Sc. in Statistics | GCB 5
+
+Summary
+Anand has 10+ years of experience in statistical analysis and credit risk modelling for global banks and Indian PSBs. He has deep expertise in both model validation and development, leveraging Python in credit risk and regulatory capital frameworks.
+
+Model Validation
+Validated IFRS9 model for Middle East banks using Python; subsequently passed external audits.
+
+Conducted full validation (assumption testing, benchmarking) for IFRS9 retail models.
+
+Authored validation reports aligned with MRM standards (SS 1/23).
+
+Created Python-driven monitoring templates for Indian PSBs as per RBI.
+
+Led model monitoring for Middle Eastern institutions – performance drift detection, visual reports.
+
+Other Experience
+Led scorecard development for PSU and Middle East banks using R, Excel, and SAS.
+
+Redeveloped IFRS9 models for Middle East banks under SAMA guidelines.
+
+Built machine learning models for delinquency prediction (SAS, R).
+
+Developed scorecards per CBUAE norms for UAE and Indian banks.
+
+🔷 3. Munna Choudhary
+MSc in Finance | GCB 5
+
+Summary
+Part of EY FSRM with 5+ years of experience in Credit Risk Modelling, IFRS 9, ECL estimation, financial forecasting, portfolio analytics, stress testing, and predictive modelling for business strategy.
+
+Model Validation
+Validated UK-based decision and behavioural models using Python – discriminatory power, trend analysis, RAG status.
+
+Contributed to SS1/23 MRM efforts for a GSIB.
+
+Built monitoring infra with PSI, CSI, Gini using Python.
+
+Other Experience
+Led IFRS9 PD/LGD/EAD model development for SME Real Estate and HNI Classic Car portfolios (15% improvement).
+
+Designed Score Lumping algorithms for model efficiency.
+
+Recalibrated Through-the-Cycle PD using Pluto Tasche approach.
+
+Developed macro forecasting models to assess borrower behavior.
+
+Supported ICAAP via stress testing, sensitivity analysis, PRA-aligned risk assessments.
+
+🔷 4. Ketaki Sardeshpande
+MA Economics | GCB 6
+
+Summary
+Ketaki is part of EY FSRM with 3+ years of experience in credit risk model development and validation. She has worked across the UK and Ireland on development, validation, and audit teams.
+
+Model Validation
+Validated IFRS9 retail models for UK bank – methodology review, testing, sensitivity analysis (Python, SAS).
+
+Independently replicated SAS portfolio monitoring, validated with Python.
+
+Performed model testing (Gini, KS, PSI, correlation).
+
+Built challenger EAD model for credit cards using CCF and linear regression in Python.
+
+Validated IRB & IFRS9 PD/LGD models for UK challenger bank – calibration, scorecard methodology, accuracy.
+
+Other Experience
+Contributed to IRB LGD redevelopment for Irish bank using Python (RDS, EDA, SFA/MFA, calibration, MoC).
+
+Conducted testing (homogeneity, stability, grade concentration), authored Model Dev Docs.
+
+Used Python for default definition impact, MoC recalculations, JST/IVU-aligned PD model remediation.

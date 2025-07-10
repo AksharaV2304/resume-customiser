@@ -1,0 +1,33 @@
+Swar Sudha
+MBA
+GCB 6
+
+Skill
+IFRS9 ✓	SAS/SQL/Python ✓
+Model Validation ✓	Credit Scorecards ✓
+Machine Learning	IRB
+
+Summary
+Swar is a part of the Financial Services Risk Management practice of EY India with 2+ years of professional experience in Credit Risk and IRB.
+
+Has professional experience working on credit risk, IRB, scorecard models and based norms.
+
+Experience
+Model Validation
+Conducted regular reviews—quarterly and annually—of Basel IRB credit and scorecard models. This involved identifying performance trends, anomalies, and ensuring models remained accurate and up-to-date.
+
+Performed in-depth qualitative and quantitative analysis on IRB models. This analysis aimed to validate model integrity, robustness, and accuracy, ensuring they met both regulatory and internal standards.
+
+Evaluated the performance of models by comparing them against development standards and industry benchmarks. This process helped in identifying areas for improvement and ensuring models met expected performance levels.
+
+Other Experience
+Collaborated with various regulators and adhered to regulatory frameworks such as Basel II & III.
+
+Prepared comprehensive performance reports and presentations. These were shared with stakeholders, providing them with clear insights into model performance and any required actions or improvements.
+
+Utilized advanced tools like SAS, SQL, and Python to conduct rigorous quantitative testing. This involved running simulations, performing data analysis, and validating model outputs to ensure accuracy and reliability.
+
+Documented the review and challenge process, providing clear rationales for each threshold decision. This documentation ensured transparency and accountability in the threshold-setting process.
+
+Maintained regular communication with project leadership, providing updates and progress reports. This ensured all stakeholders were informed and any issues were promptly addressed.
+

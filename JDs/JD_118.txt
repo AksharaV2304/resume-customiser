@@ -1,0 +1,25 @@
+ Title: Wholesale Scorecards Model Audit Specialist
+
+Job Overview:
+We are seeking a highly skilled and experienced Wholesale Scorecards Model Audit Specialist to join our team. The ideal candidate will have a strong background in financial modeling, data analysis, and Python programming. The primary responsibility of this role is to perform thorough audits of our wholesale scorecard models to ensure their accuracy and compliance with regulatory standards.
+
+Responsibilities:
+1. Conduct comprehensive audits of wholesale scorecards models to identify any discrepancies or potential risks.
+2. Utilize Python programming skills to automate data analysis and modeling tasks, improving efficiency and reducing the risk of errors.
+3. Collaborate with various departments to understand business needs and ensure that scorecard models align with these requirements.
+4. Develop and implement best practices for model validation, documentation, and testing procedures.
+5. Stay updated on industry trends and regulatory changes related to financial modeling and scoring methods.
+6. Provide expert guidance and support in the development of new scorecard models or improvements to existing ones.
+7. Prepare detailed reports and presentations on audit findings, recommendations, and model performance.
+8. Participate in internal training programs to enhance technical skills and professional development.
+
+Requirements:
+1. Bachelor's degree in Finance, Mathematics, Economics, Statistics, or a related field. Advanced degrees are preferred.
+2. Minimum of 5 years of experience in financial modeling, preferably within the wholesale banking sector.
+3. Proficient in Python programming and data analysis tools such as NumPy, Pandas, Scikit-learn, and others.
+4. Strong understanding of statistical methods, probability theory, and risk management principles.
+5. Excellent problem-solving skills and attention to detail.
+6. Exceptional communication skills, both written and verbal, with the ability to explain complex concepts in a clear and concise manner.
+7. Ability to work independently and as part of a team in a fast-paced environment.
+8. Familiarity with regulatory requirements related to scoring models is a plus.
+9. Experience with SQL or other database management systems is a plus.

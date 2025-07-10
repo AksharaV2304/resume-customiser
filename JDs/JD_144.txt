@@ -1,0 +1,32 @@
+ Title: Wholesale AI/ML Model Auditor (SQL Specialist)
+
+Job Overview:
+We are seeking an experienced and skilled Wholesale AI/ML Model Auditor (SQL Specialist) to join our dynamic team. The ideal candidate will have a strong background in Artificial Intelligence (AI), Machine Learning (ML), and a deep understanding of SQL for data analysis and manipulation. The primary responsibility will be to conduct thorough audits of AI/ML models used by our clients, ensuring they are efficient, effective, and compliant.
+
+Responsibilities:
+1. Conduct comprehensive audits of AI/ML models across various industries, identifying areas for improvement and potential risks.
+2. Utilize SQL to extract and analyze large datasets from the models, uncovering patterns and trends that may impact performance or compliance.
+3. Collaborate with data scientists, engineers, and other stakeholders to understand model architectures, training methods, and evaluation metrics.
+4. Provide recommendations for optimizing model performance, improving data quality, and ensuring regulatory compliance.
+5. Develop and maintain detailed documentation of audits, findings, and recommended actions.
+6. Stay abreast of industry trends, emerging best practices, and new technologies in AI/ML to continually enhance audit methodologies.
+7. Contribute to the development of internal training materials and deliver presentations to clients and team members.
+8. Collaborate with other auditors and teams within the organization to ensure consistent delivery of high-quality services.
+9. Maintain a strong understanding of client needs, industry requirements, and regulatory expectations.
+10. Adhere to ethical guidelines and maintain confidentiality throughout all auditing processes.
+
+Qualifications:
+1. Bachelor's or Master's degree in Computer Science, Engineering, Mathematics, Statistics, AI, or a related field. Advanced degrees are a plus.
+2. Proven experience in conducting AI/ML model audits, preferably within a wholesale or financial services environment.
+3. Expertise in SQL for data extraction, manipulation, and analysis.
+4. Strong understanding of AI/ML principles, algorithms, and best practices.
+5. Experience with various machine learning libraries (e.g., TensorFlow, PyTorch, Scikit-learn) is a plus.
+6. Excellent analytical and problem-solving skills.
+7. Strong communication and presentation skills, with the ability to explain complex concepts in an easily understandable manner.
+8. Ability to work independently and as part of a team in a fast-paced environment.
+9. Strong ethical standards and commitment to maintaining confidentiality.
+10. Willingness to travel (when safe and feasible) as business requires.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+Join us in making a significant impact on the AI/ML landscape while working with cutting-edge technologies and collaborating with some of the brightest minds in the industry!

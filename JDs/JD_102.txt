@@ -1,0 +1,28 @@
+ Job Title: Wholesale Stress Testing Model Validation Specialist (Python)
+
+Company Overview:
+[Your Company Name] is a leading financial institution committed to delivering innovative solutions and maintaining the highest standards in our industry. As we continue to grow, we are seeking a talented Wholesale Stress Testing Model Validation Specialist with strong Python skills to join our team.
+
+Job Description:
+We are looking for an expert in financial modeling who will be responsible for validating wholesale stress testing models within our institution. The successful candidate will work collaboratively with various teams to ensure the accuracy, reliability, and compliance of our stress testing models.
+
+Key Responsibilities:
+1. Validate the design, implementation, and documentation of our wholesale stress testing models using Python.
+2. Perform rigorous testing and analysis to identify any potential issues or risks associated with the models.
+3. Collaborate with model developers, risk managers, and other stakeholders to understand business requirements and ensure that models are aligned with regulatory guidelines.
+4. Develop and maintain documentation for stress testing models, including technical specifications, assumptions, and validation results.
+5. Participate in stress testing exercises and provide insights on the performance of our wholesale portfolio under various scenarios.
+6. Stay updated on industry trends, best practices, and regulatory changes related to stress testing and model validation.
+7. Contribute to the continuous improvement of our stress testing framework and processes.
+
+Qualifications:
+1. Bachelor's or Master's degree in a relevant field such as Finance, Mathematics, Economics, or Computer Science.
+2. Extensive experience in financial modeling, preferably within a banking environment.
+3. Proficiency in Python and other relevant programming languages.
+4. Strong understanding of risk management principles and stress testing methodologies.
+5. Knowledge of regulatory requirements related to stress testing and model validation.
+6. Excellent analytical and problem-solving skills, with the ability to work independently and collaboratively.
+7. Strong communication and interpersonal skills, with the ability to explain complex concepts to both technical and non-technical audiences.
+8. A proactive and results-oriented approach to work.
+
+[Your Company Name] offers a competitive salary and benefits package, along with opportunities for professional development and growth. If you are passionate about financial modeling, have a strong Python skillset, and are eager to make an impact in a dynamic and innovative environment, we encourage you to apply today!

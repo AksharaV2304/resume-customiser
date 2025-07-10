@@ -1,0 +1,152 @@
+🔹 Arjun KM
+Masters – Statistics and ML | GCB 4
+
+Summary
+Arjun is a part of the Financial Services Risk Management practice of EY India with 10 years of experience. He specializes in credit risk modelling, treasury and marketing analytics, scorecard development, and proficiency in machine learning, deep learning, statistical modelling, and programming.
+
+Experience
+Risk Modelling and Analytics:
+
+Pioneered Basel Modelling initiatives: developed PD, LGD, and EAD models for Auto business RWA calculation
+
+PCA-based scorecards for MFI Centre risk assessment
+
+Adaboost classifiers for customer delinquency prediction
+
+MFI Risk scorecard to evaluate customer risk
+
+Survival & AFT models, CAP segmentation, heuristic optimization
+
+Aircraft engine maintenance prediction using Time Series & Regression
+
+Data Science and ML:
+
+Led PySpark modelling ecosystem with Bokeh dashboard
+
+Delivered ML 101 to 300+ employees in 4 years
+
+Random Forest classifiers for multichannel shopper prediction
+
+Proprietary recommendation engine for US retail clients
+
+ML models for US bank health and Fair Lending compliance
+
+Other:
+
+Reviewed and replicated PD models
+
+Involved in model monitoring, stakeholder management
+
+Conducted research on novel analytics techniques
+
+🔹 Saumya Bhardwaj
+M.Sc. in Economics | GCB 5
+
+Summary
+Saumya is part of EY FSRM with 4+ years of experience. Her expertise lies in credit risk modelling, risk analytics, and Expected Loss Computation under IFRS9, with knowledge of SR11/7 and SS 1/23.
+
+Experience
+HSBC:
+
+Developed IFRS9 model suite for SME portfolio
+
+Performed data quality checks, variable selection, segmentation, model testing
+
+LGD model development using SAS and Python
+
+Sensitivity, stability analysis (bootstrapping, k-fold cross-validation)
+
+Forecast model for PD projections and IFRS9 ECL
+
+Model Validation:
+
+Digital scorecard validation for Indian bank (Auto Loans)
+
+ML scorecard models (GBM, XGBoost) for US G-SIB
+
+Capital risk model validation for Principal Investments (FV, RWA, PVA under stress)
+
+CLI/CLD impairment and credit strategy model validation (UK G-SIB)
+
+🔹 Ish Manchanda
+MSc in Economics | GCB 5
+
+Summary
+Ish is a Manager in EY FSRM India with 4+ years of credit risk experience. He has worked in model development, validation, and audit.
+
+Experience
+Model Validation:
+
+IFRS9 validation for UK bank (Retail UK & India)
+
+Performed methodology review, PD/LGD backtesting, SAS code replication
+
+ECL materiality and estimation error assessments
+
+XGBoost marketing model validation for US bank (hyperparameter tuning, Gini/accuracy)
+
+Other:
+
+Qualitative/quantitative IFRS9 PD reviews (MENA mid-market banks)
+
+Reviewed TTC PD, PIT macroeconomic modeling
+
+IRB PD remediation for EU mortgage bank
+
+Data augmentation and MoC using SAS
+
+🔹 Paarth Sharma
+PGP in Data Science and Engineering | GCB 6
+
+Summary
+Paarth is with EY FSRM India, having 6 years of experience in IFRS9/Basel IRB model development, validation, and audit across multiple geographies.
+
+Experience
+Model Validation:
+
+IFRS9 PD/LGD/Stress Test models – UK bank
+
+IRB PD/LGD model validation (qualitative + quantitative)
+
+Stress Test validation (uplift, default, DD shift by scenario)
+
+IFRS9 PD validation (Middle East bank) using Python and SAS
+
+Other:
+
+IFRS9 PD development (Vasicek framework – Middle East bank)
+
+Audit of IFRS9 PD/LGD/EAD models
+
+IRB use-test audit for UK bank (CRR, RTS, EBA, ECB compliance)
+
+IRB PMA control and substantive testing audit
+
+🔹 Shriwari Mhatre
+MSc in Data Science and ML | GCB 6
+
+Summary
+Shriwari is part of EY FSRM India with 5+ years’ experience in credit risk management, ML model development/validation across Banking and FMCG.
+
+Experience
+Model Validation (AMEX):
+
+Validated Credit Risk and Fraud models (US + global portfolios)
+
+Techniques: logistic regression, time series, fractional regression
+
+Performed OOT/OOS testing, backtesting, sensitivity/stress testing, calibration
+
+Drafted observations and recommendations
+
+Other:
+
+Developed B-score for credit card cross-sell
+
+Built acquisition scorecards using in-house + alt data
+
+Demand forecasting/replenishment model (80% accuracy, $15M impact)
+
+MLOps solution hosted on Azure with Databricks
+
+Deloitte internal supply chain asset – 35M+ opportunities onboarded

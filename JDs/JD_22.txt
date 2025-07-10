@@ -1,0 +1,26 @@
+ Job Description: IFRS9 Model Audit Specialist
+
+Company Overview:
+[Insert Company Name] is a leading retail organization committed to delivering exceptional products and services to our customers. As part of our ongoing commitment to financial transparency and regulatory compliance, we are seeking an experienced IFRS9 Model Audit Specialist to join our team.
+
+Job Responsibilities:
+1. Conduct thorough audits of the company's IFRS9 model, ensuring its accuracy, integrity, and compliance with relevant accounting standards.
+2. Analyze and review the model's design, data, and validation processes to identify potential risks or inconsistencies.
+3. Collaborate with various departments, including Finance, Risk Management, and IT, to understand the underlying assumptions and methodologies of the IFRS9 model.
+4. Develop and implement best practices for model governance, risk management, and control procedures.
+5. Prepare reports detailing audit findings, recommendations for improvement, and action plans to address identified issues.
+6. Stay abreast of industry developments, regulatory updates, and emerging trends related to IFRS9 and retail finance.
+7. Provide training and support to staff members on IFRS9 model-related matters.
+8. Work closely with external auditors and regulatory bodies as required.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Accounting, Economics, or a related field. Advanced degrees or professional certifications (such as CFA or FRM) are a plus.
+2. Proven experience in conducting IFRS9 model audits within the retail sector.
+3. Proficiency in Python is a must; knowledge of other programming languages and data analysis tools is a plus.
+4. Strong analytical, problem-solving, and communication skills.
+5. Attention to detail, with the ability to work independently and manage multiple tasks simultaneously.
+6. Knowledge of IFRS9 accounting standards and retail finance principles.
+7. Experience working in a highly regulated environment is preferred.
+8. Strong ethical standards and commitment to maintaining the integrity of financial reporting.
+
+[Company Name] offers a competitive salary package, including benefits, and opportunities for professional growth and development. If you are passionate about financial modeling, regulatory compliance, and working in a dynamic retail environment, we encourage you to apply today!

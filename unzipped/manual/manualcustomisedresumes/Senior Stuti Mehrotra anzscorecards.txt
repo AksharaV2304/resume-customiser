@@ -1,0 +1,33 @@
+Senior: Stuti Mehrotra
+Summary:
+Stuti is a Senior within EY's Financial Services Risk Management practice, with over 2 years of specialized experience in the Banking and Financial Services sector. Proficient in the development and validation of scorecard models, PPNR models within the CCAR framework. She is proficient with SAS, Python, Tableau.
+
+Qualifications and training:
+
+M.Sc. Financial Economics, Gokhale Institute of Politics and Economics, 2022
+
+BA Honors Economics, University of Delhi, 2018
+
+Key relevant experience:
+
+Validated retail scorecard model for US bank
+
+Developed PD scorecard model for UK bank
+
+Developed and implemented PPNR models for CCAR 9Q forecasting
+
+Conducted stress testing for model resilience
+
+Developed ongoing monitoring framework
+
+Used multivariate linear regression on time-series data
+
+Designed Tableau dashboards to visualize CCAR outputs
+
+Resolved data inconsistencies in revenue forecasting
+
+Technical Skills:
+Scorecard Model Development/Validation, PPNR, Stress Testing, Risk Analytics
+SAS, Python, R & SQL, Advanced Excel, Tableau
+Model Risk Management, Regulatory Regimes (Basel II/III, CCAR, IFRS9)
+

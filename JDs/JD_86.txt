@@ -1,0 +1,26 @@
+ Title: Wholesale IFRS9 Model Development Specialist
+
+Job Overview:
+We are seeking a skilled and experienced Wholesale IFRS9 Model Development Specialist to join our team. The ideal candidate will be responsible for the design, development, testing, and implementation of advanced IFRS9 models that cater to wholesale banking operations. Candidacy for this role requires proficiency in Python and a strong understanding of financial risk management principles and IFRS9 regulations.
+
+Responsibilities:
+1. Design and develop high-quality, scalable, and efficient IFRS9 models for wholesale banking products using Python programming language.
+2. Collaborate with various business units to gather requirements and understand complex financial structures and risk exposure.
+3. Apply technical expertise in IFRS9 regulations, financial risk management principles, and industry best practices to develop accurate and robust models.
+4. Conduct thorough testing and validation of model outputs and ensure compliance with regulatory standards.
+5. Document all aspects of the modeling process, including assumptions, methodologies, and results.
+6. Collaborate with other teams such as quantitative research, risk management, and data management to maintain and improve existing models.
+7. Stay abreast of industry trends, emerging technologies, and regulatory changes impacting financial services and IFRS9 regulations.
+8. Provide support and guidance to junior team members in areas of model development, testing, and implementation.
+
+Qualifications:
+1. Bachelor's or Master's degree in Mathematics, Statistics, Economics, Computer Science, Finance, or a related field.
+2. Proven experience (minimum of 5 years) in financial modeling, preferably within the wholesale banking sector and with a focus on IFRS9.
+3. Proficiency in Python programming language is essential. Familiarity with other programming languages such as R, SQL, or Matlab is a plus.
+4. Strong analytical skills, with the ability to interpret complex financial data and translate it into actionable insights.
+5. Excellent problem-solving abilities and attention to detail.
+6. Outstanding communication skills, both written and verbal, with the ability to explain complex concepts to non-technical stakeholders.
+7. Strong team player capable of collaborating effectively with cross-functional teams.
+8. Knowledge of IFRS9 regulations is essential, while familiarity with other banking regulations such as Basel III or CCAR is a plus.
+
+We offer a competitive salary and benefits package, a dynamic work environment, and opportunities for professional growth and development. If you are passionate about financial modeling, have a strong technical background, and are eager to contribute to a team that values innovation and excellence, we encourage you to apply for this exciting opportunity.

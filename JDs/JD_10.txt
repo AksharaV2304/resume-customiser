@@ -1,0 +1,26 @@
+ Job Description: Retail IRB Model Auditor (Python Specialist)
+
+Company Overview:
+[Your Company Name] is a dynamic and forward-thinking organization specializing in the retail sector. We are committed to leveraging cutting-edge technology, including advanced analytics and machine learning, to drive growth and innovation.
+
+Position Overview:
+We are seeking a highly skilled Retail IRB Model Auditor (Python Specialist) to join our team. The ideal candidate will have a strong background in data analysis, with proficiency in Python, and a deep understanding of retail industry risk and compliance. This role is critical in maintaining the integrity and accuracy of our models while ensuring regulatory compliance.
+
+Key Responsibilities:
+1. Conduct thorough audits of our retail IRB (Internal Ratings-Based) models to identify any potential issues, errors, or inconsistencies.
+2. Utilize Python programming language to analyze complex data sets, develop scripts, and automate processes to improve the efficiency and accuracy of model auditing.
+3. Collaborate with the risk management team to understand and implement regulatory requirements related to retail IRB models.
+4. Document findings, recommendations, and actions taken during the audit process, ensuring clear communication with relevant stakeholders.
+5. Stay updated on industry trends, best practices, and regulatory changes in retail IRB modeling and risk management.
+6. Contribute to the continuous improvement of our models by suggesting enhancements based on your findings and insights from the audits.
+
+Qualifications:
+1. Bachelor's degree in Mathematics, Statistics, Economics, Computer Science, or a related field; advanced degree preferred.
+2. Proven experience in retail IRB model auditing, preferably within a financial institution or consulting firm.
+3. Expertise in Python programming language and data analysis tools.
+4. Strong understanding of risk management principles and regulatory requirements related to retail banking.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently as well as collaboratively within a team.
+7. Knowledge of SQL or other database management systems is a plus.
+
+[Your Company Name] offers a competitive salary package, opportunities for professional growth, and a dynamic work environment that encourages innovation and collaboration. If you are passionate about data analysis, have a strong interest in the retail sector, and possess the skills required for this role, we would love to hear from you!

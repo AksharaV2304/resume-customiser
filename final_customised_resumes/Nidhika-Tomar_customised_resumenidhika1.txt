@@ -1,0 +1,13 @@
+Nidhika-Tomar – Create a JD for a retail Scorecards model development requirement. Mention that SQL is a must.
+
+Summary:
+The candidate has a strong background in economics and experience working in the banking sector as a model developer. They have worked on high-value projects such as developing capital, impairment, and stress-testing models for major financial institutions like Lloyds Banking Group and Barclays.
+
+Qualifications:
+The candidate holds a Master's degree in Economics from Delhi School of Economics and has achieved honors in their undergraduate studies. Their academic background has equipped them with strong analytical skills and the ability to think critically.
+
+Key Experience:
+The candidate has experience working as a Senior Manager and an Assistant Manager in the banking sector. They have developed high-value models for major financial institutions, including Stress-testing portfolio evolution model (s166 secured book-shape model), Capital suite (capital emulator- PD,EAD,LGD) and Impairment Emulator.
+
+Technical Skills:
+The candidate has experience working with SQL, Excel, PyCharm, Python, GIT & MS Office. They have also completed a Google Machine learning Course - ML Modelling with Neural Networks and have a strong interest in data science. Their technical skills are aligned with the job requirements of being a Retail Scorecards Model Development Specialist."

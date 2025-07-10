@@ -1,0 +1,38 @@
+Subhadip Acharyya
+Role: Senior
+
+Summary:
+Subhadip has over 10 years of experience in model development, monitoring, and validation. Expert in stress testing, scenario generation, and market risk.
+
+Qualifications and Training:
+
+MSc Statistics, IIT Kanpur
+
+BSc Statistics, Presidency College, CU
+
+Key Relevant Experience:
+
+Scenario expansion modeling for CCAR, LPA
+
+Built time-series models for asset class forecasts
+
+Closed NFRI, audit/validation issues
+
+Delivered LIBOR transition, climate risk models
+
+Owned end-to-end model lifecycle, including governance
+
+Developed scenario path models (daily price shocks)
+
+Built Value at Risk (VaR) and PD models for US portfolios
+
+Technical Skills:
+
+Credit Risk, PPNR, IRB Modeling
+
+Time Series, Econometrics, Market Risk
+
+Tools: R, SAS, Python
+
+Strong in documentation and project management
+

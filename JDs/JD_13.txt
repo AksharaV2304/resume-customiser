@@ -1,0 +1,36 @@
+ Job Title: IFRS9 Model Developer (R Specialist)
+
+Location: [City, State]
+
+Company Overview:
+[Company Name] is a leading retail organization with a strong commitment to financial excellence and innovation. We are currently seeking an experienced IFRS9 Model Developer with proficiency in R programming to join our dynamic team.
+
+Job Description:
+
+As an IFRS9 Model Developer (R Specialist), you will be responsible for the design, development, implementation, and maintenance of advanced financial models to support our retail operations. The ideal candidate should have a strong understanding of IFRS9 regulations and extensive experience in using R for model development.
+
+Responsibilities:
+
+1. Design, develop, and implement IFRS9 compliant credit risk models using R programming language.
+2. Collaborate with stakeholders to understand business requirements and translate them into technical solutions.
+3. Conduct data analysis and modeling to forecast credit risk and determine appropriate provisions for loan loss reserves.
+4. Ensure the accuracy, reliability, and efficiency of the developed models through rigorous testing and validation processes.
+5. Continuously improve existing models by incorporating feedback from stakeholders and staying updated with the latest industry trends and regulatory changes.
+6. Provide technical support and guidance to other teams on IFRS9 model-related matters.
+7. Collaborate with IT and data management teams to ensure the availability of high-quality data for model development and validation.
+8. Document models and results, and present findings to senior management.
+
+Qualifications:
+
+1. Bachelor's or Master's degree in Finance, Mathematics, Statistics, Econometrics, or a related field.
+2. Proven experience (minimum 5 years) in IFRS9 model development, preferably within the retail sector.
+3. Expertise in R programming and a strong understanding of financial modeling principles.
+4. Knowledge of credit risk management, financial reporting, and regulatory requirements related to IFRS9.
+5. Strong analytical skills with the ability to work with large datasets and complex financial models.
+6. Excellent communication and teamwork skills, with the ability to explain technical concepts to non-technical stakeholders.
+7. Self-motivated, detail-oriented, and able to work under tight deadlines in a fast-paced environment.
+8. CFA or FRM certification is preferred.
+
+We offer a competitive salary package commensurate with experience, along with a comprehensive benefits program and opportunities for professional growth. If you are passionate about financial modeling and eager to make an impact in the retail industry, we encourage you to apply for this exciting opportunity.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

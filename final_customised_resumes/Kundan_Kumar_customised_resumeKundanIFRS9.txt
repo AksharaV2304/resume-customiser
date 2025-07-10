@@ -1,0 +1,19 @@
+Kundan_Kumar – Create a JD for a retail IFRS9 model validation requirement. Mention that SAS is a must.
+
+Summary:
+The candidate is a Risk Analytics Professional with 7 years of experience in the Banking Domain. He has expertise in Credit Risk, Credit Strategy, Model Validation, Pricing Strategy and SAS & Python Programming.
+
+Qualifications:
+- Master of Science in Data Science and Analytics from Cardiff University (2021-22)
+- Bachelor of Engineering from Visvesvaraya Technological University (2011-15)
+
+Key Experience:
+- Solution driven Associate Manager: Credit Risk Team (April 2023 – till Current), KPMG UK
+- Assistant Manager: Credit Risk Team (Oct 2016 – July 2021), HSBC ELECTRONIC DATA PROCESSING
+- Senior Analyst: Global revenue analysis and Insights (Aug 2015 – May 2016), Silicon India
+
+Technical Skills:
+- Visualization:           Power BI | MS Excel | Tableau (Basic) | Qlik View (Basic)
+- Credit Risk:              Model Development | IFRS 9 | IRB | Model Validation | Audit
+- ML Techniques:      Regression | Forecasting | Classification
+- Analytics Tools:      R | Python | SQL | SAS | Excel"

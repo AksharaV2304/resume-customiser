@@ -1,0 +1,26 @@
+Rajvi Doshi – Create a JD for a retail IFRS9 model validation requirement. Mention that SAS is a must.
+
+Summary:
+Rajvi Doshi is a highly skilled statistics professional with over four years of experience in credit risk modeling and regulatory compliance. Her expertise in SAS programming, data analysis, and model validation makes her an asset to any organization. Currently working as an Associate Director at CPM Risk Analytics, Rajvi has successfully driven several high-impact engagements for Standard Chartered Bank, including building scorecards and developing models for Provision, Regulatory, and Decision Models/ Scorecards for Consumer and SME portfolios. Prior to this role, Rajvi was a Deputy Manager at Kotak Mahindra Bank's Business Intelligence Unit, where she gained expertise in building propensity models and devising strategies for cross-selling and customer engagement.
+
+Qualifications:
+• Bachelor of Science (B. Sc.) in Statistics from Mithibai College, University of Mumbai (2015)
+• Master of Science (M. Sc.) in Statistics from SVKM's NMIMS School of Science, Mumbai (2018-2020)
+• Certified Professional in SAS 9.4 Advanced Programming and Predictive Modeller by Experian India
+
+Key Experience:
+• Associate Director at CPM Risk Analytics (April 2022 - Present)
+• Deputy Manager at Kotak Mahindra Bank's Business Intelligence Unit (August 2020 - April 2022)
+• Credit Risk Modeller and Statistics Major with 4+ years of experience in building statistical models (February 2019 - August 2020)
+
+Technical Skills:
+• SAS 9.4 Advanced Programming
+• SAS e-Miner (Certified Predictive Modeller)
+• R, Python, SQL, Advanced Excel
+
+ACHIEVEMENTS:
+• Star Trek Award (Kotak Mahindra Bank) - For an outstanding performance and increased business contribution through analytical model implementation and providing actionable insights in H1FY22 
+• You Made Difference Award (CRISIL) - For mitigating the limitation of Excel on efficiency and capability to value complex Market Linked Debentures by migrating VBA based process to R in 1 month 
+• Student Representative (Mithibai Subject Board of Statistics) - Appointed to suggest improvements in coursework, design and methodology
+
+Rajvi's skills and experience align perfectly with the requirements for a Model Validation Specialist - IFRS9 position, as outlined in the job description. Her expertise in SAS programming, IFRS9 accounting standards, and model validation make her an ideal candidate for this role.

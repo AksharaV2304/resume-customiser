@@ -1,0 +1,129 @@
+🔹 Anand Kumar
+M.Sc. in Statistics
+GCB 5
+
+Summary
+Anand has more than 10 years of experience in statistical analysis and credit risk modelling for global banks and Indian PSBs. He has deep expertise in both model validation and development, leveraging Python to deliver robust solutions across credit risk domain and regulatory capital frameworks.
+
+Experience
+Model Validation
+
+Validated redeveloped IFRS 9 model for Middle East banks; automated analysis and documentation using Python
+
+Validated by external auditors; strong IFRS 9 and retail credit risk knowledge
+
+Used Python to replicate model logic, test assumptions, benchmark performance
+
+Documented validation reports for European bank (SS 1/23 compliance)
+
+Designed/implemented Model Validation & Monitoring framework for Indian PSBs per RBI guidelines
+
+Conducted model monitoring in Middle Eastern institutions (drift detection, stability, visual reporting)
+
+Other Experience
+
+Led scorecard development for PSU and Middle East banks (R, SAS, Excel)
+
+Redeveloped IFRS 9 models per SAMA guidelines
+
+Macro-economic modelling using R and Excel
+
+Built ML models to predict bad accounts (R, SAS)
+
+Developed scorecards per CBUAE for Middle East and Indian banks
+
+🔹 Girish Khandelwal
+MBA in Banking & Management
+GCB 5
+
+Summary
+Girish holds more than 10 years of experience in the risk management space for banking clients. He specializes in Credit Risk, Model Monitoring, Validation & Development, Basel & IFRS9 Regulatory Reporting, Business Data Analytics, and Collection Strategy.
+
+Experience
+Model Validation
+
+Independent validator for credit risk models; ensured governance/regulatory compliance
+
+Python-based back testing, benchmarking, stress testing
+
+Led scoring team (PIL, USRB) for monitoring/validation/development
+
+Basel III, IFRS 9, CCAR, scorecard models (Acquisition, ECM, Collections)
+
+Revalidation, AMR, OPA using FICO, ISPL, Experian scorecards (Python analytics)
+
+PD/LGD/EAD validation for credit risk management
+
+Managed full model lifecycle (1st line of defence); contributed to MRM guidance (SR 11-7)
+
+Other Experience
+
+SAS & SQL for reporting retail portfolio performance
+
+Google BigQuery & GCP for data analysis
+
+Automated shock simulation for IFRS9/IRRBB using SQL
+
+🔹 Sneha Khanna
+MSc in Economics
+GCB 6
+
+Summary
+Sneha is a Senior in EY FSRM India with 4+ years of experience. She has supported global banks on Liquidity, Credit, and Climate Risk models.
+
+Experience
+Model Validation
+
+Validated high-materiality models: Mortgage Pipeline, Wholesale Funding
+
+IFRS 9 PD & Retail Loan models: Transition Matrix, Pluto Tasche, Linear Regression
+
+Sensitivity analysis (parameter/input)
+
+Reviewed RRP model (legal frameworks, development/validation docs)
+
+Built PA scoring model (water vehicle portfolio, SAS)
+
+Other Experience
+
+Automated Testing for Unsecured Credit Model (SAS, Excel, SoapUI)
+
+Python-based Automated Data Extraction
+
+Data quality checks, stakeholder data gathering
+
+Built Climate Sector GVA models (Python, R)
+
+🔹 Kartik Mohan
+MA in Economics
+GCB 6
+
+Summary
+Kartik has 5+ years of experience in statistical analysis and credit risk modelling for global banks. He specializes in model validation and development using Python with focus on credit/market risk models and regulatory frameworks.
+
+Experience
+Model Validation
+
+IFRS 9 model remediation/validation (PD, LGD, EAD, ECL)
+
+Reviewed development documentation; executed validation testing
+
+Backtesting and benchmarking against realized performance
+
+Stability checks, discriminatory power (AUC, KS), data quality
+
+Applied overlays (macro risk factors) for CRE portfolio
+
+Documented overlays, assumptions in Python
+
+Validated RNIV market risk models (assumptions testing, benchmarking, reporting)
+
+Other Experience
+
+Backfilling model for inflation-linked interest rate curves (Python)
+
+RNIV Z-spread models, EUDA Excel tools for capital requirement
+
+PD model dev (logistic regression, Python) for US consumer portfolio
+
+Authored article on MRM challenges (TRIM, FRTB, SR 11-7)

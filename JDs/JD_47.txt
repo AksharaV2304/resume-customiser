@@ -1,0 +1,29 @@
+ Job Description: Retail Scorecards Model Audit Specialist
+
+Company Overview:
+[Company Name] is a dynamic and growing retail organization seeking an experienced Retail Scorecards Model Audit Specialist to join our team. The ideal candidate will have a strong background in data analysis, statistical modeling, and a proven understanding of retail operations.
+
+Position Overview:
+As a Retail Scorecards Model Audit Specialist, you will be responsible for reviewing and auditing the accuracy and effectiveness of our retail scorecard models. You will work closely with various departments to ensure that our models are aligned with business objectives, adhere to industry best practices, and comply with regulatory requirements.
+
+Key Responsibilities:
+1. Review and audit existing retail scorecard models using SAS, identifying areas for improvement and ensuring model validity.
+2. Collaborate with data scientists, analysts, and business stakeholders to understand model objectives, inputs, and outputs.
+3. Apply statistical techniques to validate the accuracy and reliability of the models.
+4. Identify and document any potential issues or risks associated with the models.
+5. Develop recommendations for model improvements based on findings from the audit process.
+6. Collaborate with IT and data teams to implement recommended changes and ensure that updated models are correctly implemented and functioning as intended.
+7. Stay abreast of industry trends, best practices, and regulatory requirements related to retail scorecard modeling.
+8. Provide training and support to team members on model auditing procedures and SAS programming.
+
+Qualifications:
+1. Bachelor's or Master's degree in Statistics, Mathematics, Economics, Computer Science, or a related field.
+2. Proven experience in retail scorecard modeling using SAS.
+3. Strong understanding of statistical analysis, data mining, and predictive modeling.
+4. Excellent problem-solving skills and attention to detail.
+5. Strong communication and collaboration skills, with the ability to explain complex concepts to non-technical stakeholders.
+6. Experience working in a fast-paced, dynamic retail environment is preferred.
+7. Knowledge of retail operations and business processes is beneficial.
+8. Certified SAS Professional (Base Programmer, Advanced Programmer, or Predictive Modeler) certification is a plus.
+
+[Company Name] offers a competitive salary, comprehensive benefits, and opportunities for professional growth and development. If you are passionate about data analysis, retail operations, and using your skills to drive business success, we encourage you to apply for this exciting opportunity.

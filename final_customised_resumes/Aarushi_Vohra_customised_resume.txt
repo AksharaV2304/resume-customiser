@@ -1,0 +1,26 @@
+Aarushi_Vohra – Create a JD for a retail IRB model development requirement. Mention that SQL is a must.
+
+Summary:
+Resume writer has reviewed the candidate's resume and job description for alignment. The summary section will remain unchanged as it provides an overview of the candidate's professional background and experience in the retail banking industry, specifically focusing on credit loss forecasting and regulatory reporting.
+
+Qualifications:
+The qualifications section is also remaining unchanged since the candidate has a degree in Economics with a strong focus on finance-related subjects (9 CGPA) and has been working as an Associate in Home Lending Credit Loss Forecasting at JPMC.
+
+Key Experience:
+The experience section is being updated to align with the job description's requirements for a Retail IRB Model Development Specialist.
+
+1. Fed Regulatory CCAR Exercise for Default Servicing Team
+•  Forecasted non-performing loans across multiple stress scenarios mandated by the Federal Reserve. •  Conducted model walks to elucidate changes in 30+ DPD, Foreclosure, Bankruptcy, and Real Estate Owned Inventory between consecutive CCAR cycles.
+2. Model Review and Ongoing Performance Monitoring
+•  Collaborated with Model Risk Governance team to successfully amend models incorporating pandemic impacts. •  Executed bi-annual back-tests to validate model accuracy, identifying opportunities for enhancement.
+3. First Republic Bank Home Lending Portfolio Integration
+•  Managed non-performing loans forecast for First Republic Bank's portfolio integration. •  Analyzed proxy assumptions using Chase's data to simulate First Republic Bank's Home Lending portfolio characteristics. •  Forecasted Government Housing and Modifications Program (HAMP) outcomes, predicting new applications, re-applications, process breaks, and completion of modifications.
+4. Automation of Monthly Portfolio Health Report
+•  Developed Tableau Dashboard for comprehensive reporting of Home Lending servicing portfolio, reducing monthly reporting time from one business day to less than ten minutes.
+5. Repurchase Reserve Forecast
+•  Forecasted Repurchase Liability stemming from representation and warranty breaches related to loan sales to Government Sponsored Enterprises (Fannie Mae & Freddie Mac).
+6. Analytic Consultant: Wells Fargo, Product, Analytics & Modelling
+•  Managed SCRA portfolio, including deployment, generation, maintenance, documentation, and performance of production reports. •  Translated and optimized 20+ scripts from Microsoft Office to SAS & SQL. •  Created a Tableau Dashboard for relationship managers to assess their sales performance and for the division managers to keep track and evaluate the performance of relationship managers.
+
+Technical Skills:
+•  Hands on experience in Tableau and SQL. •  Developed dashboard for relationship managers to assess their sales performance and for the division managers to keep track and evaluate the performance of relationship managers.

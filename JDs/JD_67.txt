@@ -1,0 +1,33 @@
+ Job Title: Retail AI/ML Model Validation Specialist
+
+Location: [City, State]
+
+Company Overview:
+[Company Name] is a leading retail organization seeking to revolutionize the industry through innovative AI and Machine Learning (AI/ML) solutions. We are committed to delivering exceptional customer experiences while driving operational efficiency.
+
+Job Description:
+
+We are currently seeking an experienced Retail AI/ML Model Validation Specialist to join our dynamic team. The ideal candidate will have a strong background in data analysis, statistics, and AI/ML model validation, with proficiency in SAS as a must-have skill set.
+
+Responsibilities:
+1. Develop, implement, and maintain AI/ML models for retail applications using SAS software.
+2. Conduct rigorous model validation to ensure accuracy, reliability, and compliance with industry standards and regulations.
+3. Collaborate with cross-functional teams to understand business needs and translate them into appropriate AI/ML solutions.
+4. Perform data analysis to identify trends, patterns, and insights that can improve our retail operations and customer experiences.
+5. Document model validation processes, assumptions, and findings for internal and external stakeholders.
+6. Participate in ongoing research and development activities to stay abreast of the latest AI/ML advancements in the retail industry.
+7. Collaborate with data scientists, software engineers, and other specialists to ensure seamless integration of models into our existing technology infrastructure.
+8. Provide training and support to other team members on model validation best practices and SAS techniques.
+
+Qualifications:
+1. Bachelor's or Master's degree in Computer Science, Mathematics, Statistics, Engineering, or a related field. Advanced degrees are preferred.
+2. Proven experience in AI/ML model validation, preferably within the retail industry.
+3. Expertise in SAS programming and data analysis.
+4. Strong understanding of machine learning algorithms, statistical modeling, and predictive analytics.
+5. Proficient in SQL and scripting languages (Python or R).
+6. Excellent problem-solving skills, attention to detail, and the ability to work independently or as part of a team.
+7. Effective communication and collaboration skills, with an ability to explain complex concepts to non-technical stakeholders.
+8. Passion for staying current on industry trends and best practices in AI/ML model validation and data analysis.
+9. Familiarity with cloud computing platforms (AWS, Azure, Google Cloud) is a plus.
+
+[Company Name] offers competitive salary packages, comprehensive benefits, and opportunities for professional growth and development. If you are a passionate and dedicated professional seeking to make a significant impact in the retail industry, we encourage you to apply today!

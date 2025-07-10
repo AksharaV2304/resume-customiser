@@ -1,0 +1,31 @@
+ Job Title: Wholesale IFRS9 Model Validation Specialist
+
+Location: [Your Location]
+
+Company Overview:
+[Briefly describe the company and its mission/vision]
+
+Job Summary:
+We are seeking an experienced Wholesale IFRS9 Model Validation Specialist to join our team. The successful candidate will be responsible for ensuring the accuracy, completeness, and compliance of our wholesale IFRS9 models. A strong proficiency in R programming is essential for this role.
+
+Responsibilities:
+1. Validate the development, implementation, maintenance, and use of wholesale IFRS9 models to ensure they are accurate, complete, and compliant with regulatory requirements.
+2. Review model design, specifications, assumptions, and data inputs to assess their appropriateness and consistency.
+3. Perform quantitative and qualitative analysis to identify any model risks or biases and develop mitigation strategies.
+4. Collaborate with the model development team to resolve identified issues and improve model performance.
+5. Document validation findings and recommendations in a clear and concise manner for various stakeholders, including senior management.
+6. Stay updated on industry trends, regulatory updates, and best practices related to IFRS9 model validation.
+7. Contribute to the development of policies and procedures for model validation.
+8. Provide support during audits and examinations by regulatory authorities.
+
+Requirements:
+1. Bachelor's or Master's degree in a quantitative field (e.g., Mathematics, Statistics, Economics, Finance).
+2. Proven experience in IFRS9 model validation within the wholesale banking sector.
+3. Strong proficiency in R programming and familiarity with other statistical software packages (e.g., SAS, Python).
+4. Knowledge of financial risk modeling, credit risk, and regulatory requirements related to IFRS9.
+5. Excellent analytical skills, attention to detail, and problem-solving abilities.
+6. Strong communication and interpersonal skills with the ability to work effectively in a team environment.
+7. Self-motivated and able to manage multiple tasks and priorities simultaneously.
+8. Willingness to learn and adapt to new technologies and methodologies.
+
+We offer a competitive salary package, opportunities for professional development, and a dynamic working environment. If you are passionate about model validation and have the skills we need, we would love to hear from you. Apply today!

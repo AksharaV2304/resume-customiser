@@ -1,0 +1,27 @@
+Senior: Vedanti Khokher
+Summary:
+Vedanti is a Senior within EY's Financial Services Risk Management practice, with close to 3 years of specialized experience in the Banking and Financial Services sector. Proficient in the end-to-end development of scorecard models using SAS and credit risk analytics. She is proficient with SAS, SQL and Python.
+
+Qualifications and training:
+
+B.Tech in Chemical Engineering, IIT Roorkee, 2022
+
+Key relevant experience:
+
+Developed PD scorecard model for UK bank (Singapore and Malaysia market)
+
+Led logistic regression scorecards across 7 customer segments
+
+Achieved AR lift of ~8%, resolved PSI/CSI breaches
+
+Validated APAC bank’s retail model and built challenger
+
+Designed approve-decline strategies for Hong Kong credit card portfolio
+
+Assigned SMV risk grades based on credit scores
+
+Logistic regression model identified riskiest 50% population with 2.5x default rate
+
+Technical Skills:
+SAS, SQL, Python, Excel
+Scorecard Modelling, Credit Risk Analytics, Credit Decisioning

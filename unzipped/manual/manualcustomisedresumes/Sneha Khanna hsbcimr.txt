@@ -1,0 +1,30 @@
+Sneha Khanna
+MSc in Economics
+GCB 6
+
+Summary
+Sneha is a Senior in EY FSRM India with 4+ years of experience. She has supported global banks on Liquidity, Credit, and Climate Risk models.
+
+Experience
+Model Validation
+
+Validated high-materiality models: Mortgage Pipeline, Wholesale Funding
+
+IFRS 9 PD & Retail Loan models: Transition Matrix, Pluto Tasche, Linear Regression
+
+Sensitivity analysis (parameter/input)
+
+Reviewed RRP model (legal frameworks, development/validation docs)
+
+Built PA scoring model (water vehicle portfolio, SAS)
+
+Other Experience
+
+Automated Testing for Unsecured Credit Model (SAS, Excel, SoapUI)
+
+Python-based Automated Data Extraction
+
+Data quality checks, stakeholder data gathering
+
+Built Climate Sector GVA models (Python, R)
+

@@ -1,0 +1,36 @@
+ Job Title: IFRS9 Model Validation Specialist
+
+Location: [City, Country]
+
+Company Overview:
+[Company Name] is a leading retail organization with a strong commitment to providing innovative financial solutions to our customers. Our success is built on a foundation of integrity, excellence, and a customer-centric approach. We are currently seeking an experienced IFRS9 Model Validation Specialist to join our team in [City, Country].
+
+Job Description:
+
+As an IFRS9 Model Validation Specialist, you will play a crucial role in ensuring the accuracy and reliability of our financial risk models. You will be responsible for validating our retail IFRS9 model, ensuring compliance with regulatory requirements, and maintaining the highest standards of model governance.
+
+Responsibilities:
+
+1. Conduct comprehensive validation of the retail IFRS9 model, including but not limited to data quality, assumptions, calculations, and outputs.
+2. Collaborate with various stakeholders, including risk management, finance, and IT teams, to understand model design, inputs, and outputs.
+3. Develop and maintain documentation for the validation process, ensuring that it is clear, comprehensive, and up-to-date.
+4. Participate in the annual model review process, providing insights and recommendations to improve model performance and risk management.
+5. Ensure compliance with regulatory requirements related to IFRS9 and model validation, including SAS guidelines.
+6. Stay abreast of industry trends, regulatory changes, and best practices in model validation.
+7. Provide training and support to other team members on model validation principles and practices.
+
+Qualifications:
+
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, Statistics, or a related field.
+2. Proven experience in IFRS9 model validation, preferably within the retail sector.
+3. Proficiency in SAS programming is essential for this role.
+4. Strong analytical skills and ability to work with complex financial data.
+5. Excellent communication skills, with the ability to explain technical concepts to non-technical stakeholders.
+6. Attention to detail and a commitment to maintaining the highest standards of model governance.
+7. Knowledge of regulatory requirements related to IFRS9 and model validation is highly desirable.
+
+We offer a competitive salary package, including benefits, and opportunities for professional development and growth. If you are passionate about financial risk management, have a strong commitment to quality, and enjoy working in a dynamic team environment, we would love to hear from you.
+
+To apply, please submit your resume and cover letter via our website by [Application Deadline]. We look forward to reviewing your application!
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

@@ -1,0 +1,43 @@
+G. N. Sindhur
+Role: Senior
+
+Summary:
+
+Sindhur is a Senior in EY’s Financial Services Risk Management practice.
+
+He has 5+ years of experience in the financial services sector.
+
+Specializes in Model Development & Validation to enhance risk management processes.
+
+Skilled in econometrics modeling, PD, EAD models under CCAR and CECL frameworks.
+
+Qualifications and Training:
+
+M.Sc. Economics, Indira Gandhi Institute of Development Research, 2020
+
+PGDM, T.A. Pai Management Institute, 2017
+
+B.E. (Hons) Mechanical Engineering, BITS Pilani Hyderabad, 2013
+
+Technical Skills:
+
+CCAR & CECL model development (PD, EAD)
+
+Econometric Model Development, Quantitative Finance Analysis
+
+Tools: R, EViews, Stata, Python, Advanced Excel
+
+Key Relevant Experience:
+
+Developed CCAR PPNR models for capital planning using stress scenarios.
+
+Built and validated credit risk models (PD, EAD) across North American credit card portfolios.
+
+Supported IFRS9 ECL system implementation for Indian banks.
+
+Led data science projects in financial risk management.
+
+Conducted model validation, back-testing, documentation, and compliance checks.
+
+Automated data extraction for CECL monitoring.
+

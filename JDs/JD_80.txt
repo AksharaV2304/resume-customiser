@@ -1,0 +1,35 @@
+ Job Title: Senior Wholesale IRB Model Validation Specialist
+
+Location: [Your City/State]
+
+Company Overview:
+[Your Company Name] is a leading financial institution with a strong commitment to excellence, integrity, and innovation. We are currently seeking a highly skilled and experienced Senior Wholesale IRB Model Validation Specialist to join our Risk Management team.
+
+Job Description:
+
+The Senior Wholesale IRB Model Validation Specialist will play a crucial role in ensuring the accuracy and reliability of our Internal Ratings-Based (IRB) models, specifically for wholesale lending products. The successful candidate will have a strong understanding of risk management principles, a deep knowledge of SQL, and exceptional analytical skills.
+
+Responsibilities:
+
+1. Conduct independent model validations of the IRB models used in our wholesale lending business, ensuring they comply with regulatory requirements and best practices.
+2. Utilize advanced statistical techniques and SQL for data analysis, model development, and validation.
+3. Collaborate with various stakeholders across the organization to understand business processes, data quality, and model assumptions.
+4. Prepare comprehensive validation reports detailing model performance, risks, and recommendations for improvements.
+5. Stay abreast of regulatory changes impacting IRB models and ensure our models are aligned with these changes.
+6. Participate in model change approvals and provide expert advice on model risk management.
+7. Contribute to the development and enhancement of model validation processes and methodologies.
+
+Requirements:
+
+1. Bachelor's or Master's degree in Mathematics, Statistics, Economics, Finance, or a related field. Advanced degrees are preferred.
+2. Minimum of 5 years of experience in model validation, preferably within a banking or financial services environment.
+3. Extensive knowledge of IRB models and wholesale lending products.
+4. Proficiency in SQL and strong analytical skills.
+5. Excellent communication and interpersonal skills, with the ability to explain complex concepts to non-technical stakeholders.
+6. Strong problem-solving abilities and attention to detail.
+7. Knowledge of banking regulations, particularly those related to model risk management.
+8. Certified in Financial Risk Manager (FRM) or similar qualifications is a plus.
+
+[Your Company Name] offers a competitive salary, comprehensive benefits, and a dynamic work environment. If you are passionate about risk management, have a strong analytical mind, and are excited about joining a forward-thinking financial institution, we would love to hear from you. Please apply with your resume and cover letter detailing your experience in model validation and SQL proficiency.
+
+[Your Company Name] is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

@@ -1,0 +1,24 @@
+ Job Description: Wholesale IRB Model Validation Specialist
+
+Position Overview:
+We are seeking a highly skilled and detail-oriented Wholesale IRB Model Validation Specialist to join our team. The ideal candidate will have a strong background in financial modeling, statistical analysis, and risk management with a focus on regulatory compliance. Proficiency in R programming is essential for this role.
+
+Responsibilities:
+1. Validate wholesale IRB (Internal Ratings-Based) models used for credit risk assessment to ensure compliance with regulatory requirements.
+2. Collaborate with the model development team to understand the structure and assumptions of the IRB models.
+3. Perform statistical analysis using R to assess model performance, robustness, and adherence to regulatory standards.
+4. Develop and maintain documentation for model validation processes and results.
+5. Participate in internal and external audits related to model validation.
+6. Stay current with regulatory updates and industry best practices regarding IRB models.
+7. Collaborate with other risk management functions to ensure the integrity of the credit risk assessment process.
+
+Qualifications:
+1. Bachelor's or Master's degree in a quantitative discipline (e.g., Mathematics, Statistics, Economics, Finance, Engineering).
+2. Minimum of 5 years of experience in model validation, preferably within a banking or financial institution.
+3. Proficiency in R programming and statistical analysis.
+4. Strong understanding of credit risk assessment methodologies and regulatory requirements (e.g., Basel III).
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and as part of a team.
+7. Knowledge of other programming languages (e.g., Python, SAS) is a plus but not required.
+
+We offer a competitive salary, comprehensive benefits, and opportunities for professional growth in a dynamic and collaborative environment. If you are passionate about financial modeling and regulatory compliance, we encourage you to apply for this exciting opportunity.

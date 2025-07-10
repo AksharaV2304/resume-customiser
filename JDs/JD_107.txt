@@ -1,0 +1,31 @@
+ Job Title: Wholesale Stress Testing Model Auditor (SAS Specialist)
+
+Location: [City, State]
+
+Company Overview:
+[Insert Company Name], a leading financial institution, is seeking a highly skilled and experienced Wholesale Stress Testing Model Auditor (SAS Specialist). The ideal candidate will have a strong background in risk management, stress testing, and model auditing with a focus on SAS programming. This role will be essential in ensuring our models are accurate, reliable, and comply with regulatory requirements.
+
+Job Responsibilities:
+1. Conduct comprehensive audits of the institution's wholesale stress testing models to ensure compliance with internal policies, industry best practices, and regulatory standards.
+2. Collaborate with model developers, risk managers, and other stakeholders in understanding the modeling framework, data sources, assumptions, and methodologies.
+3. Utilize SAS programming to analyze and validate the models' inputs, outputs, and underlying data.
+4. Identify and document any model weaknesses or deficiencies, recommend improvements, and work with the development team to implement corrective actions.
+5. Stay up-to-date with regulatory changes related to stress testing and risk management and ensure that our models are aligned with these requirements.
+6. Collaborate with internal audit teams on stress testing model audits as needed.
+7. Contribute to the continuous improvement of the institution's stress testing processes, methodologies, and tools.
+8. Maintain detailed documentation of all audit findings, recommendations, and actions taken to ensure transparency and traceability.
+9. Provide training and support to other team members on SAS programming and stress testing best practices.
+10. Participate in industry forums, conferences, and workshops to stay abreast of the latest developments in stress testing and risk management.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Mathematics, Statistics, Econometrics, Computer Science, or a related field.
+2. Minimum of 5 years of experience in model auditing, risk management, or quantitative analysis within the financial services industry.
+3. Strong proficiency in SAS programming and a proven track record of using SAS for stress testing model audits.
+4. Knowledge of wholesale stress testing methodologies and regulatory requirements.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and collaboratively within a team environment.
+7. Strong attention to detail, with the ability to handle complex data sets and perform thorough analysis.
+8. Experience working in a highly regulated industry is preferred.
+9. CFA, FRM, or similar professional designation is a plus.
+
+[Company Name] is an equal opportunity employer and encourages applications from individuals of all backgrounds. If you are passionate about risk management, have strong SAS programming skills, and are committed to maintaining the highest standards in stress testing model auditing, we would love to hear from you.

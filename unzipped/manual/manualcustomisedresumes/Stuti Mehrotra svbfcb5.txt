@@ -1,0 +1,35 @@
+Stuti Mehrotra
+Role: Senior
+
+Summary:
+Stuti is a Senior in EY’s FSRM practice with 2+ years of experience, specializing in PPNR and CCAR.
+
+Qualifications and Training:
+
+M.Sc Financial Economics, Gokhale Institute, 2022
+
+BA (H) Economics, Delhi University, 2018
+
+Key Relevant Experience:
+
+Developed CCAR PPNR models (9Q forecasting)
+
+Designed stress testing protocols
+
+Built Ongoing Monitoring framework
+
+Applied MLR on Time Series for issuance, income, opex
+
+Collaborated across risk, finance, IT
+
+Conducted back-testing, coefficient stability checks
+
+Verified datasets for regulatory submissions
+
+Built Tableau dashboards to visualize PPNR outputs
+
+Technical Skills:
+Basel II/III, CCAR, IFRS9
+SAS, Python, R, SQL
+Advanced Excel, Tableau
+

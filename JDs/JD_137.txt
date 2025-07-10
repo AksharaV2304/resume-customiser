@@ -1,0 +1,36 @@
+ Job Title: Wholesale AI/ML Model Validation Specialist
+
+Location: [Your Location]
+
+Company Overview:
+[Briefly describe your company and its mission.]
+
+Job Description:
+
+We are seeking an experienced Wholesale AI/ML Model Validation Specialist to join our team. The ideal candidate will have a strong background in statistical analysis, machine learning, and a proven ability to validate complex models using R programming language.
+
+Responsibilities:
+1. Validate and ensure the quality of AI/ML models used in wholesale operations.
+2. Collaborate with data scientists and engineers to understand model structures and assumptions.
+3. Design and implement validation strategies for various AI/ML models, focusing on robustness, interpretability, and fairness.
+4. Utilize R programming language extensively for data analysis, model building, and validation.
+5. Develop and maintain documentation for model validation processes and results.
+6. Identify and address potential issues or biases in the models.
+7. Collaborate with stakeholders across the organization to understand business needs and translate them into effective model validation strategies.
+8. Keep up-to-date with the latest trends and developments in AI/ML model validation.
+9. Contribute to the continuous improvement of our wholesale operations by providing insights and recommendations based on your findings.
+
+Qualifications:
+1. Bachelor's or Master's degree in Computer Science, Statistics, Mathematics, Engineering, or a related field. A Ph.D. is preferred.
+2. Proven experience in AI/ML model validation, preferably within the wholesale sector.
+3. Expertise in R programming language and other relevant tools for data analysis and modeling.
+4. Strong statistical knowledge, including understanding of probability theory, linear algebra, and time series analysis.
+5. Experience with machine learning algorithms and techniques.
+6. Excellent problem-solving skills and the ability to work independently as well as in a team.
+7. Strong communication skills, with the ability to explain complex technical concepts to non-technical stakeholders.
+8. Passion for staying current with the latest AI/ML research and trends.
+9. [Add any other specific qualifications relevant to your company or role]
+
+We offer a competitive salary and benefits package, a dynamic work environment, and opportunities for professional growth. If you are passionate about using your skills to drive impactful changes in our wholesale operations, we would love to hear from you!
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

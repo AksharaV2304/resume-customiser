@@ -1,0 +1,27 @@
+ Job Description: IFRS9 Model Validation Specialist
+
+Company Overview:
+[Company Name] is a leading retail organization committed to providing exceptional service and innovative products to our customers. As we continue to grow, we are seeking an experienced IFRS9 Model Validation Specialist to join our team.
+
+Position Overview:
+The IFRS9 Model Validation Specialist will be responsible for ensuring the accuracy, completeness, and compliance of our retail IFRS9 models. The successful candidate will have a strong background in financial modeling, data analysis, and regulatory requirements.
+
+Responsibilities:
+1. Conduct thorough reviews and validations of our retail IFRS9 models to ensure they are accurate, complete, and comply with all relevant regulations.
+2. Develop and implement testing strategies for model validation, using SQL as the primary tool for data extraction, manipulation, and analysis.
+3. Collaborate with various departments, including finance, risk management, and IT, to gather data and understand business processes related to our IFRS9 models.
+4. Document findings, recommendations, and action plans resulting from model validation activities.
+5. Stay abreast of regulatory changes impacting IFRS9 and ensure timely implementation of any necessary updates to our models.
+6. Provide training and support to other team members on modeling techniques and regulatory requirements.
+7. Participate in internal and external audits, providing insights and recommendations for improvement.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Economics, Mathematics, Statistics, Computer Science, or a related field.
+2. Proven experience in model validation, preferably within the retail sector and with a focus on IFRS9.
+3. Strong proficiency in SQL and other data analysis tools.
+4. Excellent analytical, problem-solving, and communication skills.
+5. Understanding of financial modeling techniques and regulatory requirements, particularly IFRS9.
+6. Ability to work independently and collaboratively in a fast-paced environment.
+7. Strong ethical standards and commitment to maintaining the integrity of our models and data.
+
+[Company Name] offers competitive compensation, a supportive work environment, and opportunities for professional growth. If you are passionate about financial modeling, regulatory compliance, and data analysis, we encourage you to apply for this exciting opportunity.

@@ -1,0 +1,29 @@
+ Title: Wholesale Scorecards Model Audit Specialist
+
+Job Description:
+
+We are seeking a highly skilled and experienced Wholesale Scorecards Model Audit Specialist to join our team. The ideal candidate will have a strong background in quantitative analysis, risk management, and statistical modeling, with proficiency in the R programming language.
+
+Responsibilities:
+
+1. Conduct thorough audits of wholesale scorecard models used within the organization to ensure compliance with regulatory requirements and internal policies.
+2. Analyze and interpret large datasets using advanced statistical techniques and machine learning algorithms, primarily in the R programming language.
+3. Identify potential issues or risks associated with current models and develop recommendations for improvements or modifications.
+4. Collaborate with various departments across the organization to understand business needs and tailor models accordingly.
+5. Document findings, recommendations, and any changes made to models in a clear and concise manner.
+6. Stay updated on industry trends, regulations, and best practices related to scorecard modeling and risk management.
+7. Provide support and guidance to other team members on model development, validation, and implementation.
+8. Contribute to the continuous improvement of the scoring models, ensuring they remain effective and efficient in their intended use.
+
+Qualifications:
+
+1. Master's degree or higher in Mathematics, Statistics, Econometrics, Finance, or a related field.
+2. Minimum of 5 years of experience in risk management, quantitative analysis, or modeling roles within the financial services industry.
+3. Proficiency in R programming language and statistical modeling techniques.
+4. Strong understanding of credit risk, wholesale lending, and regulatory requirements.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and collaboratively as part of a team.
+7. Detail-oriented with strong organizational skills and the ability to manage multiple projects simultaneously.
+8. Knowledge of other programming languages (such as Python, SAS) is a plus.
+
+If you are passionate about risk management, quantitative analysis, and leveraging data to drive business decisions, we would love to hear from you. Apply today to join our dynamic team!

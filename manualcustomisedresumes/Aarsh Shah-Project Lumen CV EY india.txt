@@ -1,0 +1,33 @@
+Aarsh Shah
+Senior
+
+Skill (Credit Risk)
+Model Validation
+IRB
+IFRS 9
+Scorecards
+Stress testing
+SAS/SQL
+Python
+PRA/ECB
+Climate Risk
+
+Aarsh is a Senior in EY India Financial Services Risk Management (FSRM) team. He has over 3 years of experience in the banking and analytics domain. He is experienced in developing and validating IRB-compliant PD models using Python, with strong expertise in scorecard design, model performance metrics, and regulatory alignment.
+
+Key Technical Skills: Python, SQL, SAS, R
+
+Relevant Experience
+Model Validation Experience:
+Validated model accuracy and predictive power through ROC-AUC, Gini coefficient, K-S statistic, and PSI analysis for population stability of wholesale portfolios for a big UK bank.
+
+Other Experience:
+Developed a logistic regression-based PD model for a UK bank’s consumer loan portfolio in Python, aligning with IRB standards; performed advanced preprocessing including classing, dummy creation, and feature selection using WoE and IV.
+
+Created a comprehensive scorecard framework, translating model coefficients into risk scores for streamlined decision-making processes.
+
+Developed a centralized Golden Data repository to standardize IRB exercises, integrating multiple data sources quarterly for capital calculation, monitoring, and model testing. Improved analysis by including short-term movements and the latest data each quarter.
+
+Supported the implementation of a segment-specific PD calibration framework for wholesale exposures in line with EBA guidelines, including data cleaning, exclusion criteria, and quality checks to ensure robust segmentation.
+
+Automated counterparty-to-segment mapping using Python and prepared detailed segment-level inputs (obligor counts, default rates) to support LRADR calculations across time periods.
+

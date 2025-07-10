@@ -1,0 +1,53 @@
+Narendra Sahu
+Role: Senior Manager
+
+Summary:
+
+Narendra is a Senior Manager in EY’s Financial Services Risk Management practice.
+
+He has 10+ years of experience in the Banking and Financial Services industry.
+
+Seasoned financial modeler with expertise in automating reporting and data controls, developing CCAR stress testing models, and implementing ECL calculations in compliance with IFRS9 standards.
+
+Qualifications and Training:
+
+IIM Executive Program: Fintech, Banking and Applied Risk Management, 2023
+
+Madras School of Economics: MSc Financial Economics, 2017
+
+Veer Surendra Sai University: Electrical Engineering, 2014
+
+Technical Skills:
+
+R, R-shiny, R-Markdown, Python, VBA, SQL, SAS, Git, Excel
+
+Tableau, Power BI, AWS, Azure
+
+Machine learning, AI
+
+Statistical modelling, Data Analysis & Visualization, BCBS239
+
+Time series, scenario analysis, IFRS9 assessment, PiT PD, PiT LGD, PiT EAD & CCF
+
+Leadership, Client management, Agile, Scrum
+
+Key Relevant Experience:
+
+Developed and monitored CCAR stress testing models, participated in BAU reporting.
+
+Built IRB models (PD, LGD, EAD, CCF) per regulatory guidelines using statistical techniques.
+
+Helped a European bank with BCBS239 transition.
+
+Built R Shiny-based ECL UI tools for Middle Eastern banks.
+
+Created credit scoring models for a major Myanmar bank using Python.
+
+Designed behavioral models with Random Forest.
+
+Built exposure-based climate risk models using Bayesian networks and Monte Carlo simulations.
+
+Led automation using R Markdown & Shiny, removing manual steps.
+
+Delivered CCAR-compliant end-to-end credit model validations.
+

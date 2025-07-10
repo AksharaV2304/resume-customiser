@@ -1,0 +1,24 @@
+3. Munna Choudhary
+MSc in Finance | GCB 5
+
+Summary
+Part of EY FSRM with 5+ years of experience in Credit Risk Modelling, IFRS 9, ECL estimation, financial forecasting, portfolio analytics, stress testing, and predictive modelling for business strategy.
+
+Model Validation
+Validated UK-based decision and behavioural models using Python – discriminatory power, trend analysis, RAG status.
+
+Contributed to SS1/23 MRM efforts for a GSIB.
+
+Built monitoring infra with PSI, CSI, Gini using Python.
+
+Other Experience
+Led IFRS9 PD/LGD/EAD model development for SME Real Estate and HNI Classic Car portfolios (15% improvement).
+
+Designed Score Lumping algorithms for model efficiency.
+
+Recalibrated Through-the-Cycle PD using Pluto Tasche approach.
+
+Developed macro forecasting models to assess borrower behavior.
+
+Supported ICAAP via stress testing, sensitivity analysis, PRA-aligned risk assessments.
+

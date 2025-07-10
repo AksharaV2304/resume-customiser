@@ -1,0 +1,38 @@
+ Job Title: Wholesale Scorecard Model Developer
+
+Location: Remote (Open to candidates worldwide)
+
+Company Overview:
+[Company Name] is a dynamic and innovative organization in the retail industry. We are committed to providing exceptional service, competitive pricing, and a wide range of products to our clients across the globe. To continue our growth and success, we are seeking a skilled Wholesale Scorecard Model Developer to join our team.
+
+Job Description:
+
+We are looking for an experienced data scientist with a strong background in Python to develop a wholesale scorecard model that will help us evaluate potential vendors, assess risk, and optimize our purchasing decisions. The successful candidate will work closely with various departments within the organization to understand business needs and translate them into robust analytical models.
+
+Responsibilities:
+
+1. Design, develop, and implement a wholesale scorecard model using Python and relevant libraries (Pandas, NumPy, Scikit-learn, etc.).
+2. Collaborate with stakeholders to gather data, understand business requirements, and define key performance indicators (KPIs).
+3. Clean, preprocess, and validate data to ensure the model's accuracy and reliability.
+4. Develop machine learning algorithms, perform feature engineering, and optimize models for improved performance.
+5. Implement automated workflows and processes to ensure seamless integration of the scorecard model into our existing systems.
+6. Provide insights, recommendations, and present results to key stakeholders in a clear and actionable manner.
+7. Continuously monitor and update the scorecard model based on changing business needs and market conditions.
+8. Collaborate with other data scientists, analysts, and IT professionals to integrate the scorecard model into our overall data strategy.
+
+Qualifications:
+
+1. Bachelor's or Master's degree in Computer Science, Mathematics, Statistics, Economics, or a related field. A PhD is a plus.
+2. Proven experience (minimum 3 years) in developing and implementing scorecard models or similar analytical models in Python.
+3. Strong proficiency in Python, with a solid understanding of its data manipulation and machine learning libraries.
+4. Experience working with large datasets and handling complex data structures.
+5. Knowledge of statistical analysis, predictive modeling, and machine learning techniques.
+6. Excellent problem-solving skills, attention to detail, and the ability to work independently and collaboratively.
+7. Strong communication and presentation skills, with the ability to explain technical concepts to non-technical stakeholders.
+8. Passion for data analysis, innovation, and continuous learning.
+
+How to Apply:
+
+Interested candidates should submit their resume, cover letter, and links to any relevant projects or portfolio work to [Email Address]. Please include "Wholesale Scorecard Model Developer" in the subject line of your email application.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

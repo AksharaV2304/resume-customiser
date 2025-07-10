@@ -1,0 +1,42 @@
+ Job Title: Wholesale AI/ML Model Validation Specialist
+
+Location: [Your Location]
+
+Company: [Your Company Name]
+
+Job Type: Full-Time
+
+About Us:
+[Your Company Name] is a dynamic and innovative company dedicated to the development, implementation, and optimization of Artificial Intelligence (AI) and Machine Learning (ML) models for various industries. We are currently seeking a Wholesale AI/ML Model Validation Specialist with a strong background in AI/ML and Python programming to join our team.
+
+Job Description:
+
+The Wholesale AI/ML Model Validation Specialist will be responsible for ensuring the accuracy, reliability, and efficiency of AI/ML models used by our clients on a wholesale basis. The ideal candidate should have a deep understanding of model validation techniques, statistical analysis, and machine learning principles to assess, improve, and maintain model performance.
+
+Responsibilities:
+1. Develop, implement, and manage various model validation strategies for AI/ML models across different sectors.
+2. Collaborate with the development team to integrate model validation into the AI/ML lifecycle.
+3. Conduct thorough analysis of model performance using statistical techniques, Python libraries (such as Scikit-learn, TensorFlow, and PyTorch), and other tools as needed.
+4. Identify and address potential issues affecting model accuracy, robustness, and fairness.
+5. Document model validation processes, results, and recommendations for clients and internal teams.
+6. Stay up-to-date with the latest AI/ML research, industry best practices, and regulatory requirements related to model validation.
+7. Contribute to the continuous improvement of our AI/ML offerings by providing valuable insights and recommendations to the product development team.
+
+Requirements:
+1. Bachelor's or Master's degree in Computer Science, Data Science, Mathematics, Statistics, Engineering, or a related field.
+2. Proven experience in AI/ML model validation (minimum 3 years).
+3. Expertise in Python programming and familiarity with relevant libraries (Scikit-learn, TensorFlow, PyTorch).
+4. Knowledge of statistical analysis techniques, machine learning principles, and model evaluation metrics.
+5. Strong problem-solving skills, attention to detail, and the ability to work independently and collaboratively.
+6. Excellent communication skills and the ability to explain technical concepts to various audiences.
+7. Familiarity with AI/ML regulations (e.g., GDPR, CCPA) is a plus.
+
+We Offer:
+1. Competitive salary and benefits package.
+2. Opportunities for professional growth and learning within the AI/ML field.
+3. A dynamic and innovative work environment with a diverse team of professionals.
+4. Flexible working hours and remote work options.
+5. Regular team-building activities, workshops, and conferences.
+6. The opportunity to contribute to cutting-edge AI/ML projects that impact various industries.
+
+[Your Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. If you meet the above requirements and are passionate about AI/ML model validation, we encourage you to apply!

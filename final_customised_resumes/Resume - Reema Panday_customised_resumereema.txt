@@ -1,0 +1,18 @@
+Resume - Reema Panday – Create a JD for a wholesale IRB model development requirement. Mention that SAS is a must.
+
+Summary:
+- Reem Panday is a Manager at Ernst & Young with 9.5 years of experience in banking and financial services.
+- She has expertise in IRB model development, IFRS9, regulatory compliance, and analytics.
+
+Qualifications:
+- Masters (M.Sc.) in Economics from the University of Calcutta, Department of Economics with a percentage of 65.2% (2013-15)
+- Bachelors (B.Sc.) in Economics from the University of Calcutta with a percentage of 65.5% (2010 - 13)
+
+Key Experience:
+- Developed IRB LGD Model for a leading bank in the UK
+- Developed models for various sub-components like probability of possession given default, Haircut, Loss given cure, etc.
+- Created IFRS9, IRB compliance models for retail and mortgage portfolios
+- Managed a three-member team to deliver business results
+
+Technical Skills:
+- SAS, SQL, Excel, PowerPoint, Descriptive Statistics, IFRS9, IRB, etc.

@@ -1,0 +1,72 @@
+Sautrik Ganguly
+Role: Senior
+
+Summary:
+Sautrik is a Senior with 2 years of experience in CCAR model development and execution. Specialized in PD, CCR, and stress testing.
+
+Qualifications and Training:
+
+MA Economics, Delhi School of Economics (2023)
+
+BSc Statistics, RKMRC Narendrapur (2020)
+
+Key Relevant Experience:
+
+Developed CCAR models (PD, Loss Aggregation)
+
+Conducted CCR monitoring using Monte Carlo simulation
+
+Validated risk models (BT Seaborg, Credit Limit Decrease)
+
+Created Card Risk Group Segmentation Model
+
+Built automation tools for model monitoring in Python
+
+Designed predictive stock clearance models
+
+Technical Skills:
+Python (certified), STATA
+MS Excel, Word
+CCAR, CCR model validation
+Candidate 16: Bhawya Mehra
+Role: Senior
+
+Summary:
+Bhawya is a Senior in EY’s Financial Services Risk Management practice. She has more than 3 years of experience in model development, performance monitoring, and financial analytics, specializing in CCAR/DFAST modeling, stress testing, and economic data-driven forecasting.
+
+Qualifications and Training:
+
+MA Economics, Madras School of Economics, Delhi (2019 – 2021)
+
+BA (H) Economics, University of Delhi (2016 – 2019)
+
+Key Relevant Experience:
+
+Developed and implemented a consolidated PPNR modeling framework for a leading US Bank, improving forecasting accuracy for CCAR submissions and business planning.
+
+Integrated macroeconomic indicators and strategic business drivers (ECM, M&A pipeline data) to optimize revenue prediction models.
+
+Redeveloped CCAR FX models for ICG Markets portfolios, designing OLS-based econometric models using Python/SAS to project total revenue and client revenue based on macroeconomic variables such as currency volatility index.
+
+Applied advanced econometric and statistical methodologies, including time-series analysis, residual diagnostics, seasonality adjustments, outlier detection, and regression with dummy variables, to capture portfolio sensitivities to economic shocks (COVID-19, geopolitical crises).
+
+Collaborated with Model Validation teams to achieve approval for champion models, ensuring alignment with regulatory expectations and stress-testing requirements.
+
+Pioneered a novel methodology to adjust revenue projections in response to market shifts, integrating real-time business intelligence and strategic adjustments.
+
+Led ongoing model performance monitoring, conducting back-testing, sensitivity analysis, and stability testing to assess model robustness and identify potential breaches or limitations flagged by Model Risk Management (MRM).
+
+Authored comprehensive model documentation including Model Development, Recalibration Reports, Performance Monitoring, Limitation Record Change, and Revalidation Reports, ensuring compliance with regulatory and audit requirements.
+
+Developed a predictive model for loan delinquency for a UK-based G-SIB, leveraging machine learning algorithms and advanced data treatment techniques such as outlier analysis, association analysis, oversampling, and feature selection to improve model accuracy.
+
+Implemented data visualization and statistical analysis to identify key drivers of loan defaults, enhancing risk assessment and decision-making for credit approvals.
+
+Technical Skills:
+
+Experience of regulatory regimes viz. CCAR, Stress testing models
+
+Model development, monitoring, visualization
+
+Python, R, SQL, Advanced Excel
+

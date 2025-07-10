@@ -1,0 +1,13 @@
+CV_Aarsh – JD 55
+
+Summary:
+"Aarsh Shah is a highly skilled and experienced Associate Consultant at PricewaterhouseCoopers (PwC). His expertise lies in credit risk modeling, model validation, statistical analysis, and regulatory compliance. Aarsh has experience in using programming languages such as Python, R Studio, SQL, MATLAB, C/C++, and proficiency in SAS for data analysis and reporting. He has worked on various projects in the financial services industry, including validation of CCAR models to ensure accuracy, completeness, and regulatory compliance."
+
+Qualifications:
+"Aarsh Shah holds a Bachelor's degree in Statistics from BITS Pilani K K Birla Goa Campus. He has a strong background in credit risk, statistical modeling, and regulatory compliance. Aarsh has experience in using various tools to analyze data, including Python, R Studio, SQL, MATLAB, C/C++. His educational background includes a Master's degree in Economics from BITS Pilani K K Birla Goa Campus with a CGPA of 8.1."
+
+Key Experience:
+"Aarsh Shah is an Associate Consultant at PricewaterhouseCoopers (PwC) and has experience in various projects in the financial services industry. He worked on Golden Data Creation for IRB, where he created a historical data repository to streamline and standardize IRB-related exercises. At Golden Data Creation for IRB, Aarsh integrated multiple data sources, managed data consistency, and ensured backward compatibility with accurate rating history across periods. Another project that Aarsh worked on was Credit Risk Model Development/Validation at Credit Suisse, where he used Python to migrate an R implementation of a credit risk model into Python."
+
+Technical Skills:
+"Aarsh Shah has expertise in using various programming languages such as Python, R Studio, SQL, MATLAB, C/C++. He is proficient in SAS for data analysis and reporting and has experience working with statistical tools such as NumPy, pandas, SciPy."

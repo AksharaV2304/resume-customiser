@@ -1,0 +1,26 @@
+ Job Description: Retail CCAR Model Auditor
+
+Position Overview:
+We are seeking a highly skilled and experienced Retail CCAR Model Auditor to join our team. The ideal candidate will have a strong background in risk management, financial modeling, and data analysis with proficiency in R programming language.
+
+Responsibilities:
+1. Perform comprehensive audits of retail Credit Concentration Analysis and Reporting (CCAR) models to ensure accuracy, compliance, and effectiveness.
+2. Collaborate with model developers, risk management teams, and senior management to understand the underlying assumptions, methodologies, and data sources used in CCAR models.
+3. Validate the robustness, reliability, and consistency of CCAR models across various scenarios and stress tests.
+4. Utilize R programming language for data analysis, modeling, and automation tasks related to CCAR audits.
+5. Prepare detailed reports summarizing findings, recommendations, and any identified issues or concerns with the CCAR models.
+6. Work closely with model developers to implement changes and improvements based on audit findings.
+7. Stay current with industry trends, regulations, and best practices in risk management and financial modeling.
+8. Participate in ad-hoc projects and initiatives as needed.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Mathematics, Statistics, Economics, or a related field.
+2. Proven experience in CCAR model auditing or risk management within the financial services industry.
+3. Strong proficiency in R programming language and experience using R for data analysis and modeling tasks.
+4. Excellent analytical skills, problem-solving abilities, and attention to detail.
+5. Strong communication skills, both written and verbal, with the ability to present complex information clearly and effectively to various audiences.
+6. Ability to work independently as well as collaboratively within a team environment.
+7. Familiarity with banking regulations such as Dodd-Frank Act and CCAR guidelines is a plus.
+8. CFA or similar professional designation is preferred.
+
+This role offers an excellent opportunity for a motivated individual to grow their career in risk management and financial modeling within a dynamic organization. If you are passionate about risk analysis, have strong R programming skills, and enjoy working in a collaborative environment, we encourage you to apply.

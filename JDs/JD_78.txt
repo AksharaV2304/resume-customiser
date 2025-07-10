@@ -1,0 +1,35 @@
+ Job Title: Wholesale IRB Model Validation Specialist
+
+Location: [City, State]
+
+Company Overview:
+[Company Name] is a leading financial institution committed to providing innovative solutions in the financial market. Our success is built on our ability to attract and retain top talent who share our commitment to excellence. We are currently seeking a highly skilled Wholesale IRB Model Validation Specialist to join our team.
+
+Job Description:
+
+As a Wholesale IRB Model Validation Specialist, you will play a critical role in ensuring the integrity and accuracy of our risk models. You will be responsible for the validation, documentation, and ongoing monitoring of our Wholesale IRB models, focusing on Python-based solutions.
+
+Responsibilities:
+
+1. Conduct thorough and independent validation of the institution's Wholesale IRB models, ensuring compliance with regulatory requirements and industry best practices.
+2. Develop and implement validation plans for new and existing models, including identification of key risks and validation methods.
+3. Utilize Python to build scripts and tools for model testing, analysis, and documentation.
+4. Collaborate with various stakeholders across the organization to understand business processes and ensure model outputs align with expected results.
+5. Document validation findings, recommendations, and actions taken to address identified issues.
+6. Stay updated on industry developments, regulatory changes, and best practices in model validation.
+7. Contribute to the continuous improvement of the model validation process, promoting efficiency and effectiveness.
+
+Qualifications:
+
+1. Bachelor's degree in Mathematics, Statistics, Computer Science, Economics, Finance, or a related field. Advanced degrees are preferred.
+2. Proven experience in model validation, preferably within a banking or financial services environment. Experience with Wholesale IRB models is highly desirable.
+3. Proficiency in Python and other programming languages for data manipulation, analysis, and modeling.
+4. Strong understanding of risk management principles, banking regulations, and industry best practices.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and collaboratively within a team environment.
+7. Attention to detail, with the ability to manage multiple projects simultaneously.
+8. Regulatory certification (e.g., PRMIA, FRM) is a plus.
+
+[Company Name] offers a competitive salary and benefits package, along with opportunities for professional growth and development. If you are passionate about model validation and have a strong background in Python, we encourage you to apply for this exciting opportunity.
+
+[Company Name] is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

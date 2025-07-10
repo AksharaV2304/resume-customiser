@@ -1,0 +1,34 @@
+ Job Title: Senior Financial Risk Analyst - IFRS9 Model Development
+
+Location: [City, Country]
+
+Company Overview:
+[Company Name] is a leading retail organization with a strong commitment to innovation and growth. We are currently seeking a highly skilled and experienced Senior Financial Risk Analyst to join our team and lead the development of our IFRS9 models using SAS.
+
+Job Description:
+
+The successful candidate will be responsible for the design, development, and implementation of IFRS9 models for [Company Name]. This role requires a deep understanding of financial risk management, accounting standards (specifically IFRS9), and advanced analytics using SAS.
+
+Responsibilities:
+1. Lead the development and implementation of IFRS9 models using SAS, ensuring compliance with regulatory requirements and company policies.
+2. Collaborate with various stakeholders, including finance, risk management, and IT teams, to understand business needs and integrate model results into decision-making processes.
+3. Perform data analysis, model validation, and stress testing to ensure the accuracy and reliability of models.
+4. Develop and maintain documentation for all models, including technical specifications, assumptions, and limitations.
+5. Stay abreast of industry trends, regulatory changes, and best practices in IFRS9 modeling and risk management.
+6. Provide training and support to other team members on the use of SAS and IFRS9 models.
+7. Participate in periodic model reviews and validation processes to ensure ongoing compliance and accuracy.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Economics, Mathematics, Statistics, or a related field. A professional qualification such as FRM, CFA, or ACT would be advantageous.
+2. Minimum of 5 years of experience in financial risk modeling, preferably within the retail sector.
+3. Extensive knowledge of IFRS9 and its impact on financial institutions.
+4. Advanced SAS programming skills with a proven track record of developing and implementing complex models.
+5. Strong analytical skills, attention to detail, and the ability to work in a fast-paced environment.
+6. Excellent communication and collaboration skills, with the ability to explain complex concepts to non-technical stakeholders.
+7. Proficiency in SQL and experience with other data analysis tools is beneficial.
+
+[Company Name] offers a competitive salary package, including benefits such as [healthcare coverage, retirement plans, etc.]. If you are passionate about financial risk management, have a strong technical skill set, and are eager to make an impact in a dynamic retail environment, we would love to hear from you.
+
+To apply, please submit your resume and cover letter detailing your relevant experience and qualifications for this role. [Company Name] is an equal opportunity employer committed to fostering a diverse and inclusive workplace. We welcome applications from all qualified candidates regardless of race, color, national origin, religion, sex, gender identity, age, marital status, sexual orientation, or any other characteristic protected by law.
+
+Note: Due to the high volume of applications, only those selected for an interview will be contacted. No phone calls please.

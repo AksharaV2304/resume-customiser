@@ -1,0 +1,20 @@
+CV_Arnab Roy_Model_Validation – Create a JD for a retail IFRS9 model validation requirement. Mention that SQL is a must.
+
+Summary:
+Arnab Roy is a proactive Credit Risk Analyst with 2.5 years of experience as a consultant in model validation, revalidation, and performance monitoring of wholesale/retail models for a leading North-American banking client. Arnab has strong statistical skills and knowledge in regulatory standards such as AIRB, Basel, CCAR & SR 11-7 guidelines. He can produce technical reports and present analysis findings to stakeholders using tools such as SAS, SQL, Power-BI, and MS Office Suite.
+
+Qualifications:
+Arnab has a Bachelor's degree in Economics from Calcutta University and a Master's degree in Economics with a specialization in Trade & Finance from the Indian Institute of Foreign Trade. He obtained First Class Distinctions in both degrees, with courses including Econometrics, Statistics, Derivatives & Risk Management, Banking & Intermediation, International Trade, Micro & Macro Economics, among others.
+
+Key Experience:
+- Conducted validation of AIRB models for wholesale portfolios of a leading North American bank.
+- Calculated Long Run Default Rate, Target PD, in-production PD using logistic/linear regression, addition of margin of conservatism adjustments due to sources of uncertainty.
+- Conducted validation of Low Default Portfolios (LDPs) & Effectiveness Assessment for AIRB & ST models.
+- Remediated Category 2 model issue using additional data, consistency checks ensuring fit for use for extended geographical range of model use.
+- Produced validation reports highlighting key findings, validity of model methodology, model assumptions, categorize model issues (CAT 2/CAT 3) along with validators’ recommendations.
+
+Technical Skills:
+• Model Validation & Statistical Knowledge: Data assessment, assumption testing, KPI monitoring, Back-testing, issues & recommendations
+• Regulatory Knowledge: AIRB, Basel, CCAR & SR 11-7 guidelines
+• Reporting: Technical reporting and presenting analysis, issue description, findings & recommendation to stakeholders.
+• Tools: SAS, SQL, Power-BI, MS Office Suite"

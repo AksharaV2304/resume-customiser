@@ -1,0 +1,35 @@
+ Job Title: Retail AI/ML Model Developer
+
+Location: [City, State] or Remote
+
+Company Overview:
+[Insert company name and short description] is a dynamic and innovative company in the retail sector that is seeking to harness the power of Artificial Intelligence (AI) and Machine Learning (ML) to revolutionize our business operations. We are on a mission to create an intelligent, data-driven retail environment that delivers unparalleled customer experiences.
+
+Job Description:
+
+We are looking for an exceptional AI/ML Model Developer to join our team. The ideal candidate will have a strong background in developing advanced models using Python and SQL, as well as a passion for leveraging data to drive business decisions.
+
+Responsibilities:
+1. Design, develop, and implement AI/ML models to support various retail functions such as demand forecasting, personalized recommendations, and pricing optimization.
+2. Collaborate with cross-functional teams to understand business needs and translate them into actionable data models.
+3. Utilize SQL for data extraction, transformation, and loading (ETL) processes, ensuring data quality and integrity.
+4. Perform exploratory data analysis to identify trends, patterns, and insights that can inform model development.
+5. Implement machine learning algorithms and techniques to improve model performance and accuracy.
+6. Develop, maintain, and optimize production-ready models using cloud platforms such as AWS or Google Cloud.
+7. Collaborate with data scientists and engineers to integrate AI/ML models into our existing systems and workflows.
+8. Continuously monitor model performance and make necessary adjustments to ensure optimal results.
+9. Stay abreast of the latest AI/ML trends, best practices, and technologies, and apply them to enhance our retail solutions.
+10. Contribute to a positive and collaborative work environment by mentoring junior team members and participating in knowledge-sharing activities.
+
+Qualifications:
+1. Bachelor's or Master's degree in Computer Science, Mathematics, Statistics, Engineering, or a related field.
+2. Proven experience in AI/ML model development using Python, SQL, and cloud platforms such as AWS or Google Cloud.
+3. Strong understanding of machine learning algorithms, statistical analysis, and predictive modeling techniques.
+4. Excellent problem-solving skills and the ability to work independently and collaboratively within a team.
+5. Strong written and verbal communication skills, with the ability to explain complex concepts to non-technical stakeholders.
+6. Passionate about data-driven decision making and using AI/ML to drive business value.
+7. Familiarity with retail industry trends and challenges is a plus.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+To apply, please submit your resume, cover letter, and examples of past projects or work demonstrating your AI/ML model development skills.

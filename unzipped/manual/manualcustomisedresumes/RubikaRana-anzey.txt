@@ -1,0 +1,53 @@
+Senior Manager: Rubika Rana
+Summary
+Rubika works as a Senior Manager in the Financial Services Risk Management practice. She has 10+ years of experience in Credit risk and data science. Seasoned Credit Risk Analyst, specializing in model validation and optimization, skilled in data analysis, quality assurance, and predictive modelling for robust credit risk assessment and management.
+
+Qualifications and training
+
+Bachelors of Engineering, Thapar University, 2013
+
+Key relevant experience
+
+Mentored new joiners as vertical expanded from 1 to 50-member team; led a 5-member team.
+
+Validated OCR models (RNN, LSTM, NLP) for Global Technology & Ops.
+
+Validated high-risk models using Linear & Time Series Regression (Market Risk, PPNR).
+
+Validated AML models using quantitative methods.
+
+Led Decision Science Team for monitoring Credit Risk & Regulatory models (Application, Behavioural, Basel/IFRS9 – PD, EAD, LGD), repayment models – for S.A and U.K banks.
+
+Developed K-Means clustering algorithms for:
+
+Mobile/online developers (churn prevention)
+
+Seller/client zone clustering
+
+Built application & behavioural models using logistic regression to reduce portfolio default rate.
+
+Created model for order prediction (rider allocation based on traffic).
+
+Built client performance adjustment system based on weight factor.
+
+Led IRB PD model development (DQ analysis, variable treatment, segmentation, calibration, MoC).
+
+Assessed regulatory compliance of IRB models to CRDIV; prepared compliance plan.
+
+Developed PPNR & Balance Sheet models for CCAR submission under various market scenarios.
+
+Modeled Global Rates Trading revenue under IFRS9.
+
+Realigned business strategies based on model performance insights.
+
+Technical Skills
+
+R, Python, SQL, SAS EG
+
+IRB/CCAR Model Development, Monitoring, Validation
+
+Model risk management, governance
+
+AI/ML modelling, MS Office
+
+Statistical modelling techniques

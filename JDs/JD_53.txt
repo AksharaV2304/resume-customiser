@@ -1,0 +1,26 @@
+ Job Description: Retail Credit Card Account Review (CCAR) Model Validation Specialist
+
+Position Overview:
+We are seeking a highly skilled and experienced Retail CCAR Model Validation Specialist to join our team. The ideal candidate will have a strong background in risk management, data analysis, and regulatory compliance with expertise in R programming. This role is essential for ensuring the accuracy, reliability, and compliance of our retail credit card models.
+
+Responsibilities:
+1. Validate and ensure the integrity of retail credit card models, adhering to CCAR guidelines and regulatory requirements.
+2. Conduct thorough model risk assessments to identify potential issues and develop mitigation strategies.
+3. Utilize R programming language to perform data analysis, statistical modeling, and simulations.
+4. Collaborate with various stakeholders across the organization to understand business processes, data sources, and model assumptions.
+5. Document validation results, findings, and recommendations in a clear and concise manner for senior management and regulatory bodies.
+6. Stay updated on industry trends, best practices, and regulatory changes related to CCAR model validation.
+7. Participate in ongoing monitoring and testing of models to ensure continued accuracy and compliance.
+8. Contribute to the development and improvement of our CCAR model validation framework.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, Statistics, or a related field.
+2. Proven experience in retail credit card model validation, preferably within a banking or financial services environment.
+3. Expertise in R programming and proficiency in other relevant software such as SAS, Python, or SQL.
+4. Strong understanding of CCAR guidelines, risk management principles, and regulatory compliance requirements.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and collaboratively in a fast-paced environment.
+7. Attention to detail and commitment to maintaining high-quality work.
+8. CFA, FRM, or similar professional certifications are preferred but not required.
+
+We offer a competitive salary, comprehensive benefits, and opportunities for professional growth. If you are passionate about risk management and have a strong background in data analysis using R, we encourage you to apply for this exciting opportunity!

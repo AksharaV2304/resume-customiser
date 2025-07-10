@@ -1,0 +1,40 @@
+ Arjun KM
+Masters – Statistics and ML | GCB 4
+
+Summary
+Arjun is a part of the Financial Services Risk Management practice of EY India with 10 years of experience. He specializes in credit risk modelling, treasury and marketing analytics, scorecard development, and proficiency in machine learning, deep learning, statistical modelling, and programming.
+
+Experience
+Risk Modelling and Analytics:
+
+Pioneered Basel Modelling initiatives: developed PD, LGD, and EAD models for Auto business RWA calculation
+
+PCA-based scorecards for MFI Centre risk assessment
+
+Adaboost classifiers for customer delinquency prediction
+
+MFI Risk scorecard to evaluate customer risk
+
+Survival & AFT models, CAP segmentation, heuristic optimization
+
+Aircraft engine maintenance prediction using Time Series & Regression
+
+Data Science and ML:
+
+Led PySpark modelling ecosystem with Bokeh dashboard
+
+Delivered ML 101 to 300+ employees in 4 years
+
+Random Forest classifiers for multichannel shopper prediction
+
+Proprietary recommendation engine for US retail clients
+
+ML models for US bank health and Fair Lending compliance
+
+Other:
+
+Reviewed and replicated PD models
+
+Involved in model monitoring, stakeholder management
+
+Conducted research on novel analytics techniques

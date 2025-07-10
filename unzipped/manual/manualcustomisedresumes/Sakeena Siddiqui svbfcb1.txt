@@ -1,0 +1,30 @@
+2. Sakeena Siddiqui — Senior
+Summary
+Sakeena is a Senior in EY’s Financial Services Risk Management practice. She has 5+ years of experience in the Banking and Financial Services industry. Proficient in CCAR/DFAST PD/LGD/EAD model development, and stress testing as per CCAR/CECL norms for Commercial portfolio.
+
+Qualifications and training
+
+B.Tech, Computer Science and Engineering, GGSIPU, Delhi
+
+Key relevant experience
+
+Implemented wholesale credit risk models for CCAR.
+
+Authored model documentation for CCAR audits.
+
+Refined PPNR estimates under macroeconomic stress.
+
+Designed economic scenarios for stress testing (UK G-SIB).
+
+Developed IFRS9 PD scorecard for personal exposure portfolio (Middle East Central Bank).
+
+Built PD scorecards for Large Corporate & ABL portfolios for US banks under CECL.
+
+End-to-end model development: data prep, segmentation, macro impacts, backtesting.
+
+Validated models across retail/commercial, aligned with CCAR.
+
+Highlighted data quality issues and recommended MRM resolution strategies.
+
+Technical Skills
+Basel II/III, CCAR, IFRS9, Credit Risk Models, Stress Testing, Capital Planning, Risk Analytics, Excel, SAS, Python, Model Risk Management, Model Audit

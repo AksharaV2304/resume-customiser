@@ -1,0 +1,13 @@
+Kundan_Kumar – Create a JD for a retail IRB model validation requirement. Mention that SQL is a must.
+
+Summary:
+The candidate is a Retail Model Validation Specialist with strong SQL skills required. Experience with model validation preferred but not required. The candidate possesses solid analytical skills and attention to detail. Ability to work effectively in a team environment and collaborate with cross-functional teams. Familiarity with regulatory requirements for model validation is a plus.
+
+Qualifications:
+The candidate has a bachelor's degree in a related field (such as computer science, mathematics, or statistics).
+
+Key Experience:
+The candidate has worked in the retail industry and played an integral role in ensuring that models adhere to regulatory requirements while providing reliable and accurate insights for business partners. The candidate conducts regular model validation reviews, identifies issues, collaborates with stakeholders, reviews documentation, maintains records of activities, communicates findings, and has experience working in a team environment.
+
+Technical Skills:
+The candidate's technical skills include strong SQL skills required. Experience with model validation preferred but not required. The candidate has solid analytical skills and attention to detail. Ability to manage multiple tasks and priorities is also mentioned. Passion for data and a commitment to delivering high-quality work are additional strengths of the candidate.

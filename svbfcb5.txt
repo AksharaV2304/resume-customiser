@@ -1,0 +1,570 @@
+Candidate 1: Rubika Rana
+Role: Senior Manager
+
+Summary:
+Rubika is a Senior Manager in EY. She has 10+ years of experience in model development, monitoring and validation of credit risk models.
+She is proficient in predictive analytics, statistical modelling and has good exposure to CCAR & PPNR models, along with model development and validation of credit risk models.
+
+Qualifications and Training:
+B.Tech from Thapar University, 2013
+
+Key Relevant Experience:
+Model Development and validation experience:
+
+Led development of PPNR and Balance Sheet models for annual CCAR submissions, including data preparation, variable selection, and multi-scenario calibration across Base, Adverse, and Severely Adverse scenarios.
+
+Developed models using Linear Regression, Time Series Regression (ARIMA), and panel data techniques in R and Python to predict revenues across Investment Banking business units.
+
+Developed CCAR EWS model by validating a suite of Early Warning Indicators (EWIs) to monitor credit deterioration under stress scenarios.
+
+Combined rating migration analysis, portfolio clustering (K-means), and trend analysis using Python to enhance risk detection frameworks within CCAR models.
+
+Conducted back-testing, sensitivity analysis, and scenario-based performance assessments for PPNR, Balance Sheet, and PD models used in CCAR submissions.
+
+Validated forecast accuracy, stability under stress, and macroeconomic sensitivity using historical performance data and supervisory scenarios.
+
+Utilized KS, Gini, ROC-AUC, and PSI to assess model discriminatory power, ranking performance, and population stability across CCAR baseline and stressed conditions to undertake model performance testing.
+
+Developed interactive Python dashboards to track CCAR model performance, visualize key validation test results, and monitor PD migrations, revenue forecast deviations, and realized vs. projected outcomes.
+
+Developed Python pipelines to automate CCAR model execution.
+
+Authored model development documentation, validation reports, and performance summaries.
+
+Addressed regulatory feedback per SR 11-7 and CCAR expectations.
+
+Conducted workshops with Risk, Treasury, Finance, and Model Governance teams.
+
+Supported regulatory exams and walkthroughs.
+
+Technical Skills:
+IRB/CCAR Credit Risk Model Development, Monitoring and Validation
+Model risk management, model governance
+Deep understanding of statistical modelling techniques
+SAS EG, SQL, and Python
+
+Candidate 2: Narendra Sahu
+Role: Senior Manager
+
+Summary:
+Narendra is a Senior Manager in EY’s Financial Services Risk Management practice. He has 10+ years of experience in the Banking and Financial Services industry.
+Seasoned financial modeler with expertise in automating reporting and data controls, developing CCAR stress testing models, and implementing ECL calculations in compliance with IFRS9 standards.
+
+Qualifications and Training:
+
+IIM Executive Program: Fintech, Banking and Applied Risk Management, 2023
+
+Madras School of Economics MSc: Financial Economics, 2017
+
+Veer Surendra Sai University: Electrical Engineering, 2014
+
+Key Relevant Experience:
+Model Development and validation experience:
+
+Development and monitoring of stress testing CCAR models.
+
+Developed stress testing models using Python.
+
+Developed IRB models (PD, LGD, EAD, CCF).
+
+Worked with European bank on BCBS239 compliance.
+
+Built ECL UI application using R Shiny.
+
+Developed credit scoring models for Myanmar bank.
+
+Built behavioral models with Random Forest.
+
+Developed climate risk models with Bayesian networks and Monte Carlo simulation.
+
+Created R Shiny-based UI tools.
+
+Led automation initiatives in R Markdown and R Shiny.
+
+Delivered full-cycle model validations and documentation.
+
+Technical Skills:
+R, R-shiny, R-Markdown, Python, VBA, SQL, SAS, Git, Excel
+Tableau, Power BI, AWS, Azure
+Machine learning, AI
+Statistical modelling, Data Analysis & Visualization, BCBS239
+Time series, scenario analysis, IFRS9, PiT PD, PiT LGD, PiT EAD & CCF
+Leadership, Client management, Agile, scrum
+
+Candidate 3: Praveen R
+Role: Manager
+
+Summary:
+Praveen is a Manager in EY’s Financial Services Risk Management practice. He has 7+ years of experience in the Banking and Financial Services industry.
+Experienced in stakeholder management, CCAR model validation, execution and analysis of CCAR, IFRS9, scorecards and rating models.
+
+Qualifications and Training:
+
+MBA/PGDM – Banking and Finance, NIBM Pune
+
+B.Tech – IT, Government Engineering College, Thiruvananthapuram
+
+Key Relevant Experience:
+
+Validated PD, EAD, Recovery models for CCAR/DFAST/CECL
+
+Conducted Annual Model Review, evaluated model assumptions
+
+Reviewed credit rating, behavioral models, scorecards
+
+Led CCAR/CECL model backtesting
+
+Participated in automation initiatives using Python
+
+Technical Skills:
+CCAR/DFAST, PPNR, ICAAP, CECL, IFRS9
+Behavioral models and scorecards
+Python, SAS, SQL
+
+Candidate 4: Debsubhra Ghosh
+Role: Manager
+
+Summary:
+Debsubhra is a seasoned professional in EY’s Financial Services Risk Management practice.
+He has 5+ years of experience in PPNR, CCAR models, credit risk scorecards.
+
+Qualifications and Training:
+
+M.Sc. in Statistics, Ballygunge Science College, 2017
+
+B.Sc. in Statistics, Ramakrishna Mission Residential College, 2015
+
+Key Relevant Experience:
+
+Developed PPNR models to forecast 9-quarter balances under macroeconomic scenarios
+
+Led revenue forecasting for Investment Banking division
+
+Managed CCAR/CECL stress testing for retail banking
+
+Developed scorecards using logistic regression
+
+Built automation tools in SAS and PySpark
+
+Technical Skills:
+PPNR, CCAR, CECL, Scorecards
+SAS, Python, MS Office
+
+Candidate 5: Rahul Kushwaha
+Role: Senior
+
+Summary:
+Rahul Kushwaha is a Senior in EY's Financial Services Risk Management practice with 2+ years of experience.
+Worked on credit risk model validation, time-series analytics, and financial decision-making models.
+
+Qualifications and Training:
+
+MSc. Quantitative Economics, ISI New Delhi, 2023
+
+B.A. Hons (Economics), University of Delhi, 2020
+
+Key Relevant Experience:
+
+Time series model validation for Securities, IB, Lending
+
+Created interactive validation dashboards in Python
+
+Designed loan disbursement analytics leading to ₹30Cr+ increase
+
+Technical Skills:
+Python, R, SQL, STATA, LaTeX, MS Office
+Candidate 6: Shashwata Mondal
+Role: Senior
+
+Summary:
+Shashwata is a Senior in EY’s Financial Services Risk Management practice. He has close to 2 years of experience in the Banking and Financial Services industry.
+
+Qualifications and Training:
+
+M.Tech in Cryptology and Security, ISI Kolkata, 2023
+
+M.Sc in Mathematics, RKM Vivekananda University, 2020
+
+B.Sc in Mathematics, RKM Residential College, 2018
+
+Key Relevant Experience:
+
+Executed CCAR/CECL stress testing and forecasting
+
+Delivered outputs for 9 cohort recovery and GCLR models (CCAR 2020)
+
+Developed scorecards using XGBoost (classification + regression), validated using K-Fold
+
+Modeled PD (logistic regression), LGD (linear regression)
+
+Applied feature scaling, outlier handling, encoding for preprocessing
+
+Computed Expected Loss with PD, LGD, fixed EAD
+
+Analyzed expected premium vs actual premium (marine insurance)
+
+Created monthly zonal rate monitoring systems
+
+Technical Skills:
+Python, R, SQL, C, Git, Excel
+ML, AI, Deep Learning, NLP, Time Series
+
+Candidate 7: Isha Porwal
+Role: Senior
+
+Summary:
+Isha is a Senior in EY’s Financial Services Risk Management practice with around 4 years of BFSI experience.
+
+Qualifications and Training:
+
+PGDM (Banking & FS), NIBM Pune, 2021
+
+BBA, IIPS DAVV Indore, 2019
+
+Key Relevant Experience:
+
+Delivered PPNR projections for FINMA Loss Potential & Risk Appetite
+
+Forecasted revenue under macro stress, presented to CFO/COO
+
+Executed 80+ PPNR models
+
+Participated in ESAF Governance Forum
+
+Reconciled LPA & Pillar 3 disclosures
+
+Assessed MSME loans (up to ₹20 Cr) using Perfios, Karza, Highmark
+
+Evaluated credit risk, legal, and technical parameters
+
+Technical Skills:
+PPNR Modelling & Execution
+IFRS9, ICAAP
+Python, R, SPSS, Stata, MS Office
+
+Candidate 8: Sahil Patil
+Role: Senior
+
+Summary:
+Sahil is a Senior in EY’s FSRM practice with ~3 years of experience in credit risk model validation, ICAAP, and stress testing.
+
+Qualifications and Training:
+
+FRM Certified (GARP), 2024
+
+MBA (Decision Sciences & Analytics), NMIMS, 2021
+
+B.Com, R.A. Podar College, 2018
+
+Key Relevant Experience:
+
+Revalidated PD, EAD, LGD models for CCAR
+
+Built delinquency bucket model using Python for RWA
+
+Built stress testing, scenario analysis frameworks
+
+Developed models for liquidity, credit, interest rate risk
+
+Validated models via R-Ratio, Stress Ratio
+
+Developed PD/LGD models per Ind AS 109 / IFRS 9
+
+Drafted risk appetite statements
+
+Built VAR model for trading book
+
+Technical Skills:
+Python, SAS, SQL, Power BI, Tableau
+Linear/Logistic Regression, Decision Trees, Survival Analysis
+IFRS9, CCAR, CECL, ICAAP, IRB, SR 11-7/15-18/15-19
+
+Candidate 9: Stuti Mehrotra
+Role: Senior
+
+Summary:
+Stuti is a Senior in EY’s FSRM practice with 2+ years of experience, specializing in PPNR and CCAR.
+
+Qualifications and Training:
+
+M.Sc Financial Economics, Gokhale Institute, 2022
+
+BA (H) Economics, Delhi University, 2018
+
+Key Relevant Experience:
+
+Developed CCAR PPNR models (9Q forecasting)
+
+Designed stress testing protocols
+
+Built Ongoing Monitoring framework
+
+Applied MLR on Time Series for issuance, income, opex
+
+Collaborated across risk, finance, IT
+
+Conducted back-testing, coefficient stability checks
+
+Verified datasets for regulatory submissions
+
+Built Tableau dashboards to visualize PPNR outputs
+
+Technical Skills:
+Basel II/III, CCAR, IFRS9
+SAS, Python, R, SQL
+Advanced Excel, Tableau
+
+Candidate 10: Vaibhav Yadav
+Role: Senior
+
+Summary:
+Vaibhav is a Senior in EY’s FSRM practice with 4+ years of BFSI experience. Skilled in CCAR, macro-modelling, data lineage.
+
+Qualifications and Training:
+
+MA Economics, Delhi University, 2021
+
+BA (H) Economics, Delhi University, 2019
+
+Key Relevant Experience:
+
+Reviewed macro projections under CCAR BHC & FRB
+
+Validated PPNR models under CCAR, SR 11-7
+
+Validated CECL models for consumer lending
+
+Built long-term forecasts for Climate Fed Pilot
+
+Created geopolitical macro scenarios
+
+Handled data production (~1300 variables)
+
+Automated DQ checks (reduced false flags by 98%)
+
+Led macro monitoring and stakeholder flash reports
+
+Technical Skills:
+Basel II/III, CCAR, IFRS9
+Advanced Excel, SAS, Python
+Model Risk Management, Capital Planning
+Candidate 11: Priyajit Bishayee
+Role: Senior
+
+Summary:
+Priyajit is a Senior in EY’s Financial Services Risk Management practice. He has 8+ years of experience in Banking and Financial Services.
+
+Qualifications and Training:
+
+MSc Statistics, IIT Kanpur (2014–2016)
+
+BSc Statistics, St. Xavier’s College, University of Calcutta (2011–2014)
+
+Key Relevant Experience:
+
+Validated $10B energy sector scorecard
+
+Basel capital model validations (PD, EAD, LGD)
+
+Operational Risk: Monte Carlo simulations, $30B RWA impact
+
+Stress testing models for CCAR
+
+ML/AI model validations (Logistic, Gradient Boosting)
+
+Built account-level survival models, EAD trees
+
+Developed CECL, IFRS9 models
+
+Estimated Weighted Average Life (WAL) for CCAR reports
+
+Mentored interns, drove audit resolution
+
+Technical Skills:
+
+Regulatory: Basel II/III, CCAR, IFRS9
+
+Tools: R, SAS, Python, Excel
+
+ML: Random Forest, Gradient Boosting, SVM, CART
+
+Modeling: GLM, spline, logistic regression
+
+Documentation: LaTeX, MS Word
+
+Candidate 12: Subhadip Acharyya
+Role: Senior
+
+Summary:
+Subhadip has over 10 years of experience in model development, monitoring, and validation. Expert in stress testing, scenario generation, and market risk.
+
+Qualifications and Training:
+
+MSc Statistics, IIT Kanpur
+
+BSc Statistics, Presidency College, CU
+
+Key Relevant Experience:
+
+Scenario expansion modeling for CCAR, LPA
+
+Built time-series models for asset class forecasts
+
+Closed NFRI, audit/validation issues
+
+Delivered LIBOR transition, climate risk models
+
+Owned end-to-end model lifecycle, including governance
+
+Developed scenario path models (daily price shocks)
+
+Built Value at Risk (VaR) and PD models for US portfolios
+
+Technical Skills:
+
+Credit Risk, PPNR, IRB Modeling
+
+Time Series, Econometrics, Market Risk
+
+Tools: R, SAS, Python
+
+Strong in documentation and project management
+
+Candidate 13: Sulagna Paul
+Role: Senior Manager
+
+Summary:
+Sulagna is a Senior Manager with 9+ years of experience in credit risk. Expert in CECL, CCAR, IFRS9, and Basel models.
+
+Qualifications and Training:
+
+Masters in Economics, Calcutta University (2014)
+
+B.Sc (H) Economics, Asutosh College (2012)
+
+Key Relevant Experience:
+
+Developed & validated CCAR/CECL/IFRS9 models
+
+Built State Transition Models (Logistic, Linear Regression)
+
+Validated stress testing models under extreme scenarios
+
+Reviewed FRB-compliant secured portfolio models
+
+Built PD model for UK mortgage (approved by PRA)
+
+Led behavioral credit risk models using clustering/factor analysis
+
+Drove process automation and mentoring
+
+Technical Skills:
+CCAR, IFRS9, Basel
+Base SAS, SAS E-miner, R, Excel
+
+Candidate 14: Nidhika Tomar
+Role: Manager
+
+Summary:
+Nidhika is a Manager with ~5 years of BFSI experience. Specialized in PD/LGD model development, stress testing, RWA, and ICAAP.
+
+Qualifications and Training:
+
+Masters in Economics, Delhi School of Economics, 2019
+
+BA Economics, Delhi University, 2017
+
+Key Relevant Experience:
+
+Built secured portfolio evolution models feeding into RWA/ECL
+
+Developed capital emulator suite (PD, EAD, LGD)
+
+Engineered impairment emulator with FL overlays (PPD, FSD)
+
+Implemented modeling using PyCharm
+
+Built hybrid PD model for BUK Home Finance
+
+Assessed affordability on 1.2M accounts (~£6B exposure)
+
+Measured HPI impact on £150B property value
+
+Managed RWA tracking for internal/external stress tests
+
+Technical Skills:
+SAS, SQL, PyCharm, Python, GIT
+Modeling: PD/LGD, Stress Testing, ICAAP, RWA
+
+Candidate 15: Sautrik Ganguly
+Role: Senior
+
+Summary:
+Sautrik is a Senior with 2 years of experience in CCAR model development and execution. Specialized in PD, CCR, and stress testing.
+
+Qualifications and Training:
+
+MA Economics, Delhi School of Economics (2023)
+
+BSc Statistics, RKMRC Narendrapur (2020)
+
+Key Relevant Experience:
+
+Developed CCAR models (PD, Loss Aggregation)
+
+Conducted CCR monitoring using Monte Carlo simulation
+
+Validated risk models (BT Seaborg, Credit Limit Decrease)
+
+Created Card Risk Group Segmentation Model
+
+Built automation tools for model monitoring in Python
+
+Designed predictive stock clearance models
+
+Technical Skills:
+Python (certified), STATA
+MS Excel, Word
+CCAR, CCR model validation
+Candidate 16: Bhawya Mehra
+Role: Senior
+
+Summary:
+Bhawya is a Senior in EY’s Financial Services Risk Management practice. She has more than 3 years of experience in model development, performance monitoring, and financial analytics, specializing in CCAR/DFAST modeling, stress testing, and economic data-driven forecasting.
+
+Qualifications and Training:
+
+MA Economics, Madras School of Economics, Delhi (2019 – 2021)
+
+BA (H) Economics, University of Delhi (2016 – 2019)
+
+Key Relevant Experience:
+
+Developed and implemented a consolidated PPNR modeling framework for a leading US Bank, improving forecasting accuracy for CCAR submissions and business planning.
+
+Integrated macroeconomic indicators and strategic business drivers (ECM, M&A pipeline data) to optimize revenue prediction models.
+
+Redeveloped CCAR FX models for ICG Markets portfolios, designing OLS-based econometric models using Python/SAS to project total revenue and client revenue based on macroeconomic variables such as currency volatility index.
+
+Applied advanced econometric and statistical methodologies, including time-series analysis, residual diagnostics, seasonality adjustments, outlier detection, and regression with dummy variables, to capture portfolio sensitivities to economic shocks (COVID-19, geopolitical crises).
+
+Collaborated with Model Validation teams to achieve approval for champion models, ensuring alignment with regulatory expectations and stress-testing requirements.
+
+Pioneered a novel methodology to adjust revenue projections in response to market shifts, integrating real-time business intelligence and strategic adjustments.
+
+Led ongoing model performance monitoring, conducting back-testing, sensitivity analysis, and stability testing to assess model robustness and identify potential breaches or limitations flagged by Model Risk Management (MRM).
+
+Authored comprehensive model documentation including Model Development, Recalibration Reports, Performance Monitoring, Limitation Record Change, and Revalidation Reports, ensuring compliance with regulatory and audit requirements.
+
+Developed a predictive model for loan delinquency for a UK-based G-SIB, leveraging machine learning algorithms and advanced data treatment techniques such as outlier analysis, association analysis, oversampling, and feature selection to improve model accuracy.
+
+Implemented data visualization and statistical analysis to identify key drivers of loan defaults, enhancing risk assessment and decision-making for credit approvals.
+
+Technical Skills:
+
+Experience of regulatory regimes viz. CCAR, Stress testing models
+
+Model development, monitoring, visualization
+
+Python, R, SQL, Advanced Excel
+

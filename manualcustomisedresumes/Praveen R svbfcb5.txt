@@ -1,0 +1,29 @@
+Praveen R
+Role: Manager
+
+Summary:
+Praveen is a Manager in EY’s Financial Services Risk Management practice. He has 7+ years of experience in the Banking and Financial Services industry.
+Experienced in stakeholder management, CCAR model validation, execution and analysis of CCAR, IFRS9, scorecards and rating models.
+
+Qualifications and Training:
+
+MBA/PGDM – Banking and Finance, NIBM Pune
+
+B.Tech – IT, Government Engineering College, Thiruvananthapuram
+
+Key Relevant Experience:
+
+Validated PD, EAD, Recovery models for CCAR/DFAST/CECL
+
+Conducted Annual Model Review, evaluated model assumptions
+
+Reviewed credit rating, behavioral models, scorecards
+
+Led CCAR/CECL model backtesting
+
+Participated in automation initiatives using Python
+
+Technical Skills:
+CCAR/DFAST, PPNR, ICAAP, CECL, IFRS9
+Behavioral models and scorecards
+Python, SAS, SQL

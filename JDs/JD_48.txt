@@ -1,0 +1,24 @@
+ Job Description: Retail Scorecards Model Audit Specialist
+
+Position Overview:
+We are seeking a highly skilled and detail-oriented Retail Scorecards Model Audit Specialist to join our team. The ideal candidate will have strong proficiency in SQL, data analysis, and retail industry knowledge. This role is critical for ensuring the accuracy and integrity of our retail scorecards models.
+
+Responsibilities:
+1. Conduct audits of existing retail scorecard models, identifying any potential issues or areas for improvement.
+2. Utilize SQL to extract, manipulate, and analyze large datasets related to retail operations, sales, and customer behavior.
+3. Collaborate with data scientists, analysts, and business stakeholders to understand the underlying assumptions, methodologies, and performance of the scorecards models.
+4. Develop and implement strategies for improving the accuracy and reliability of the models.
+5. Document findings, recommendations, and any necessary corrections or updates to the models.
+6. Provide ongoing support and maintenance for the retail scorecard models.
+7. Stay abreast of industry trends, best practices, and advancements in data analysis and modeling to ensure our models remain competitive and effective.
+
+Qualifications:
+1. Bachelor's degree in Statistics, Mathematics, Computer Science, Economics, or a related field. Advanced degrees are a plus.
+2. Minimum of 3 years of experience in data analysis, preferably within the retail industry.
+3. Strong proficiency in SQL and data manipulation tools. Experience with Python, R, or other programming languages is a plus.
+4. Knowledge of statistical modeling, predictive analytics, and machine learning techniques.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and collaboratively in a fast-paced environment.
+7. Strong attention to detail and commitment to maintaining data integrity.
+
+This is an exciting opportunity for a data-driven professional to make a significant impact on our retail operations. If you are passionate about data analysis, have a keen eye for detail, and thrive in a challenging environment, we would love to hear from you!

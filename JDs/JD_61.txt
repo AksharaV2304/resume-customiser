@@ -1,0 +1,33 @@
+ Job Title: AI/ML Model Development Specialist - Retail Domain (R Programming Skills Required)
+
+Company Overview:
+[Company Name] is a leading retail organization that seeks to revolutionize the shopping experience for our customers through innovative technology solutions. We are currently seeking an experienced and talented AI/ML Model Development Specialist to join our dynamic team in developing, implementing, and maintaining state-of-the-art predictive analytics models.
+
+Job Description:
+As an AI/ML Model Development Specialist, you will play a crucial role in driving the strategic direction of our data science initiatives. You will work collaboratively with various teams across the organization to create, test, implement, and maintain advanced AI/ML models that improve our retail operations and enhance customer experiences.
+
+Key Responsibilities:
+1. Develop, test, and deploy AI/ML models using R programming language to support a wide range of retail-related tasks such as sales forecasting, inventory management, customer segmentation, and personalization.
+2. Collaborate with cross-functional teams to identify business problems and define opportunities for model development and optimization.
+3. Work closely with data engineers to ensure the availability and quality of data required for model building and testing.
+4. Implement best practices in model development, including feature engineering, cross-validation, hyperparameter tuning, and model evaluation.
+5. Document model architectures, assumptions, and performance metrics for knowledge sharing and transparency.
+6. Collaborate with data scientists, engineers, and business stakeholders to integrate models into production environments, ensuring scalability and reliability.
+7. Continuously monitor and improve the performance of existing models, as well as develop new models to address evolving business needs.
+8. Stay updated on industry trends, emerging technologies, and best practices in AI/ML model development and share insights with the team.
+9. Participate in knowledge sharing sessions, workshops, and conferences to strengthen your expertise and contribute to the growth of the organization.
+10. Mentor junior data scientists and support their professional development.
+
+Qualifications:
+1. Master's degree or higher in Computer Science, Mathematics, Statistics, Engineering, or a related field.
+2. Proven experience (3+ years) in AI/ML model development, with a strong focus on R programming language.
+3. Demonstrated proficiency in machine learning algorithms, deep learning architectures, and statistical methods.
+4. Experience working on retail-related projects is highly desirable.
+5. Strong problem-solving skills, attention to detail, and the ability to work independently and collaboratively.
+6. Excellent communication skills, with the ability to explain complex concepts to non-technical stakeholders.
+7. Passion for continuous learning and staying abreast of emerging technologies in AI/ML.
+8. Strong team player who fosters a positive, collaborative environment.
+
+[Company Name] offers competitive compensation packages, comprehensive benefits, and opportunities for growth and professional development. If you are passionate about using your AI/ML skills to drive retail innovation, we encourage you to apply.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

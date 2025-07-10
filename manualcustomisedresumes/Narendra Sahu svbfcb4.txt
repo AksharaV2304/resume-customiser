@@ -1,0 +1,36 @@
+2. Narendra Sahu – Senior Manager
+Summary:
+
+10+ years in BFSI with expertise in CCAR stress testing, ECL (IFRS9), IRB models, and automation.
+
+Qualifications:
+
+Executive Program, IIM (2023)
+
+M.Sc. Financial Economics, Madras School of Economics (2017)
+
+B.E. Electrical, Veer Surendra Sai University (2014)
+
+Key Experience:
+
+Built CCAR stress testing models, quarterly BAU reporting.
+
+IRB (PD, LGD, EAD, CCF) model calibration.
+
+ECL app in R Shiny (Middle Eastern banks).
+
+Credit scoring for a Myanmar bank (Python).
+
+Climate risk modeling using Bayesian networks.
+
+Model deployment, UAT, automation via R Markdown, R Shiny.
+
+Delivered end-to-end model validations.
+
+Technical Skills:
+
+Python, R, R-Shiny, SQL, VBA, SAS, Git, Excel
+
+Power BI, Tableau, AWS, Azure
+
+Machine learning, scenario analysis, BCBS239

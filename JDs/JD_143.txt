@@ -1,0 +1,35 @@
+ Job Title: Senior AI/ML Model Auditor
+
+Location: [Your Location]
+
+Company Overview:
+[Your Company Name] is a leading innovator in the field of artificial intelligence and machine learning, committed to delivering cutting-edge solutions for businesses worldwide. We are currently seeking a Senior AI/ML Model Auditor with a strong focus on SAS to join our dynamic team.
+
+Job Description:
+
+As a Senior AI/ML Model Auditor, you will be responsible for ensuring the integrity and effectiveness of our AI/ML models by conducting comprehensive audits. You will work closely with various departments to understand their AI/ML needs, evaluate model performance, identify potential issues, and recommend improvements.
+
+Responsibilities:
+
+1. Conduct thorough audits of AI/ML models across multiple domains using SAS as the primary tool.
+2. Analyze model performance metrics, data quality, and validation techniques to ensure compliance with industry standards.
+3. Identify potential risks, biases, or errors in the models and develop corrective actions.
+4. Collaborate with data scientists, AI/ML engineers, and business stakeholders to understand model requirements and provide guidance on best practices.
+5. Document audit findings, recommendations, and implementation status for each project.
+6. Stay abreast of industry trends, emerging technologies, and regulatory changes related to AI/ML model auditing.
+7. Contribute to the development and improvement of our AI/ML model auditing framework and processes.
+
+Qualifications:
+
+1. Master's degree in Computer Science, Statistics, Mathematics, Engineering, or a related field. A PhD is preferred.
+2. Minimum of 5 years of experience in AI/ML model auditing with a strong focus on SAS.
+3. Proficient in using SAS for data analysis, model validation, and reporting.
+4. Knowledge of machine learning algorithms, deep learning techniques, and statistical methods.
+5. Strong understanding of AI/ML model lifecycle, from development to deployment to retirement.
+6. Excellent communication skills with the ability to explain complex concepts in a simple and understandable manner.
+7. Proactive, detail-oriented, and able to work independently as well as collaboratively.
+8. Familiarity with regulatory requirements related to AI/ML model auditing (e.g., GDPR, CCPA) is a plus.
+
+[Your Company Name] offers a competitive salary package, comprehensive benefits, and a dynamic work environment that fosters innovation and growth. If you are passionate about AI/ML and eager to make an impact in this rapidly evolving field, we encourage you to apply for this exciting opportunity.
+
+[Your Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

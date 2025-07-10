@@ -1,0 +1,138 @@
+🔹 Manager: Nidhika Tomar
+Summary:
+Nidhika is a Manager in EY’s Financial Services Risk Management practice. She has more than 5 years of experience in the Banking and Financial Services industry. She is proficient in model development and implementation of credit risk models with exposure to regulations like Stress Testing, ICAAP, etc.
+
+Qualifications and training:
+
+Masters in Economics, Delhi School of Economics, 2019
+
+Bachelors in Economics, Delhi University, 2017
+
+Key relevant experience:
+
+Worked on model development of Stress-testing portfolio evolution model (s166 secured book-shape model) which feeds into the capital (RWA/EL) and impairment (ECL) engines to predict the forecast compliant to the most recent usage of ICAAP across base/stress
+
+Developed Capital suite (capital emulator- PD, EAD, LGD) implemented on portfolio evolution model
+
+Engineered a comprehensive Impairment Emulator integrating Forward-Looking PD, EAD, LGD
+
+Added sub-models like PPD and FSD to improve accuracy of impairment forecasts
+
+Implemented stress-testing modelling using PyCharm
+
+Developed BUK Home Finance Hybrid PD model
+
+Recalibrated income models for unsecured loans and overdraft facilities
+
+Guided 1.2 mn accounts’ affordability (£6bn exposure)
+
+Investigated HPI changes’ impact on collateral value
+
+Monitored RWA requirement for 1mn accounts (£150bn exposure)
+
+Technical Skills:
+PD/LGD Model Development, Stress Testing, ICAAP, RWA Computation
+SAS, SQL, Excel, PyCharm, Python, GIT & MS Office
+
+🔹 Senior: Kshitij Sahdev
+Summary:
+Kshitij is a Senior within EY's Financial Services Risk Management practice, with over 3 years of specialized experience in the Banking and Financial Services sector. Proficient in leveraging advanced machine learning techniques for data analysis and predictive modelling. He is proficient with SAS, Python and Pyspark.
+
+Qualifications and training:
+
+Masters in Environmental Economics, Madras School of Economics, 2021
+
+Bachelors in Economics, Delhi University, 2018
+
+Key relevant experience:
+
+Developed PD model for retail portfolio (UK bank) using XGBoost
+
+Validated PD model for US bank retail portfolio
+
+Created Geographic/Industry scores for business health
+
+Automated Country Risk/MDA scores using PCA & RapidFuzz
+
+Converted SAS scorecard codes to PySpark
+
+Performed multivariate time-series forecasting using SARIMAX
+
+Estimated economic impact on workforce and GDP
+
+Analyzed maritime shipment delays and bridge collapse effects
+
+Used Denoising Autoencoders (MIDAS) for missing value imputation
+
+Applied HuggingFace LLMs for text summarization and sentiment analysis
+
+Created Covid-19 Impact Index
+
+Produced monthly investigative reports on identity theft/misrepresentation
+
+Technical Skills:
+Predictive modelling, Scorecards, Machine Learning
+SAS, Python, Pyspark
+Deep Learning, Deep statistical modelling
+
+🔹 Senior: Vedanti Khokher
+Summary:
+Vedanti is a Senior within EY's Financial Services Risk Management practice, with close to 3 years of specialized experience in the Banking and Financial Services sector. Proficient in the end-to-end development of scorecard models using SAS and credit risk analytics. She is proficient with SAS, SQL and Python.
+
+Qualifications and training:
+
+B.Tech in Chemical Engineering, IIT Roorkee, 2022
+
+Key relevant experience:
+
+Developed PD scorecard model for UK bank (Singapore and Malaysia market)
+
+Led logistic regression scorecards across 7 customer segments
+
+Achieved AR lift of ~8%, resolved PSI/CSI breaches
+
+Validated APAC bank’s retail model and built challenger
+
+Designed approve-decline strategies for Hong Kong credit card portfolio
+
+Assigned SMV risk grades based on credit scores
+
+Logistic regression model identified riskiest 50% population with 2.5x default rate
+
+Technical Skills:
+SAS, SQL, Python, Excel
+Scorecard Modelling, Credit Risk Analytics, Credit Decisioning
+
+🔹 Senior: Stuti Mehrotra
+Summary:
+Stuti is a Senior within EY's Financial Services Risk Management practice, with over 2 years of specialized experience in the Banking and Financial Services sector. Proficient in the development and validation of scorecard models, PPNR models within the CCAR framework. She is proficient with SAS, Python, Tableau.
+
+Qualifications and training:
+
+M.Sc. Financial Economics, Gokhale Institute of Politics and Economics, 2022
+
+BA Honors Economics, University of Delhi, 2018
+
+Key relevant experience:
+
+Validated retail scorecard model for US bank
+
+Developed PD scorecard model for UK bank
+
+Developed and implemented PPNR models for CCAR 9Q forecasting
+
+Conducted stress testing for model resilience
+
+Developed ongoing monitoring framework
+
+Used multivariate linear regression on time-series data
+
+Designed Tableau dashboards to visualize CCAR outputs
+
+Resolved data inconsistencies in revenue forecasting
+
+Technical Skills:
+Scorecard Model Development/Validation, PPNR, Stress Testing, Risk Analytics
+SAS, Python, R & SQL, Advanced Excel, Tableau
+Model Risk Management, Regulatory Regimes (Basel II/III, CCAR, IFRS9)
+

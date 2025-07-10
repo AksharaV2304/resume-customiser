@@ -1,0 +1,15 @@
+Aarti Chaba – Create a JD for a retail IRB model development requirement. Mention that SQL is a must.
+
+Summary:
+The candidate is a data analyst and credit risk analyst with experience in implementing and validating retail IRB models using SQL.
+
+Qualifications:
+The candidate holds a Bachelor's degree in Commerce and a Master's degree in Business Administration.
+
+Key Experience:
+The candidate has experience working in the credit risk sector for a large US banking customer, contributing to portfolio strategies through model development and building, implementation of PCLI strategy leading to an increase in match percentage from 89% to 97%, monitoring Quarterly Model Validation MIS reports, and documenting AMR (Annual Model Review) for High Risk Trigger, Reactive Credit Line Increase, Inactive CLD, and Closure and Marketing strategies.
+
+Technical Skills:
+The candidate is proficient in SAS programming language, SAS Macros, Proc SQL, SQL, Tableau, Microsoft Excel, and Microsoft Office. 
+
+The output format may vary depending on the requirements of the job posting or the specific job description being applied for.

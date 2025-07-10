@@ -1,0 +1,35 @@
+ Job Title: Senior AI/ML Model Developer (Wholesale Focus)
+
+Location: Remote/Hybrid (Open to Negotiation)
+
+Company Overview:
+[Company Name] is a dynamic and innovative organization in the wholesale industry, leveraging cutting-edge technology to deliver exceptional results for our clients. We are currently seeking a skilled Senior AI/ML Model Developer to join our team and help drive our AI strategy forward.
+
+Job Description:
+
+As a Senior AI/ML Model Developer at [Company Name], you will be responsible for designing, developing, and implementing advanced machine learning models to support our wholesale business operations. You will work closely with cross-functional teams, data analysts, and subject matter experts to identify opportunities for process automation, predictive modeling, and decision optimization.
+
+Key Responsibilities:
+1. Design, develop, test, and deploy AI/ML models using Python, TensorFlow, PyTorch, or similar frameworks.
+2. Collaborate with data scientists, engineers, and business stakeholders to understand requirements and translate them into effective machine learning solutions.
+3. Ensure the models are scalable, maintainable, and meet the business's needs while adhering to industry best practices.
+4. Implement SQL-based ETL pipelines for data preprocessing, feature engineering, and model training/evaluation.
+5. Continuously monitor model performance, iterate on solutions, and implement improvements as needed.
+6. Develop documentation for models, including architecture diagrams, usage guidelines, and evaluation results.
+7. Collaborate with the data infrastructure team to ensure models are integrated into our production environment efficiently.
+8. Participate in code reviews and knowledge sharing sessions to maintain a high level of technical excellence within the team.
+9. Stay up-to-date with industry trends, emerging technologies, and best practices in AI/ML model development.
+
+Qualifications:
+1. Bachelor's or Master's degree in Computer Science, Engineering, Mathematics, Statistics, or a related field. Advanced degrees are a plus.
+2. Proven experience (5+ years) in developing and deploying AI/ML models for production use.
+3. Strong proficiency in Python, TensorFlow, PyTorch, or similar machine learning frameworks.
+4. Expertise in SQL and experience with ETL pipelines.
+5. Knowledge of wholesale industry is a plus but not required.
+6. Excellent problem-solving skills, attention to detail, and the ability to work independently as well as collaboratively.
+7. Strong communication skills and the ability to explain technical concepts to non-technical stakeholders.
+8. Passion for staying current with AI/ML research and trends.
+
+[Company Name] is an equal opportunity employer and encourages applications from candidates of all backgrounds. We offer a competitive salary, comprehensive benefits, and a dynamic work environment that values innovation, collaboration, and continuous learning. If you are passionate about AI/ML model development and excited to make a meaningful impact on our wholesale business, we would love to hear from you!
+
+To apply, please submit your resume, cover letter, and links to any relevant projects or code repositories. We look forward to reviewing your application!

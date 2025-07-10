@@ -1,0 +1,32 @@
+Sulagna Paul
+Role: Senior Manager
+
+Summary:
+Sulagna is a Senior Manager with 9+ years of experience in credit risk. Expert in CECL, CCAR, IFRS9, and Basel models.
+
+Qualifications and Training:
+
+Masters in Economics, Calcutta University (2014)
+
+B.Sc (H) Economics, Asutosh College (2012)
+
+Key Relevant Experience:
+
+Developed & validated CCAR/CECL/IFRS9 models
+
+Built State Transition Models (Logistic, Linear Regression)
+
+Validated stress testing models under extreme scenarios
+
+Reviewed FRB-compliant secured portfolio models
+
+Built PD model for UK mortgage (approved by PRA)
+
+Led behavioral credit risk models using clustering/factor analysis
+
+Drove process automation and mentoring
+
+Technical Skills:
+CCAR, IFRS9, Basel
+Base SAS, SAS E-miner, R, Excel
+

@@ -1,0 +1,35 @@
+Kundan Kumar
+Manager
+
+Skill (Credit Risk)
+Model Validation
+IRB
+IFRS 9
+Scorecards
+Stress Testing
+SAS/SQL
+Python
+PRA/ECB
+Climate Risk
+
+Kundan is a Manager in EY India Financial Services Risk Management (FSRM) team. He has 5+ years of experience in presenting complex insights to stakeholders, translating technical findings into strategic recommendations, ensuring delivery of quality work in terms of accuracy, performance and regulatory compliance (Basel 3.1, SS11/13).
+
+Key Technical Skills: Python, SQL, SAS, R
+
+Relevant Experience
+
+Model Validation Experience
+
+Facilitated PRA model approval while adhering to industry best practices for a mid-sized UK bank. Involved in performing model validation for Internal Ratings-Based (IRB) models, with a primary focus on wholesale IRB, by critically assessing model assumptions, mathematical formulations, and implementation.
+
+Other Experience
+
+Monitored wholesale IRB PD models for mid-sized UK bank to identify performance issues, redevelopment triggers, and improvement areas in validation and documentation; prepared high-quality validation reports clearly communicating model risks and key findings to stakeholders and senior management.
+
+Involved in End-to-End model development Internal Ratings-Based (IRB) Probability of Default (PD) and Exposure at Default (EAD) models for an unsecured lending portfolio, ensuring compliance with regulatory standards (Basel 3.1, SS11/13 & CP16/22).
+
+Involved in development of Rating System Perimeter for unsecured portfolios, ensuring robust assessment of credit risk, compliance with regulatory requirements, and alignment with organizational risk management objectives.
+
+Involved in performing IFRS 9 audit focusing on unsecured lending portfolios, ensuring compliance with impairment provisioning and expected credit loss (ECL) models.
+
+Assisting and delivering the ongoing impairments forecasting requirements as per IFRS 9 accounting standards.

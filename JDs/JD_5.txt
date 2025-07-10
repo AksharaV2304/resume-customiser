@@ -1,0 +1,36 @@
+ Job Title: Retail IRB Model Validation Specialist
+
+Location: [Your Location]
+
+Company Overview:
+[Insert Company Name and Brief Description] is a leading company in the retail industry, dedicated to providing innovative solutions for our customers. We are currently seeking a skilled and experienced Retail IRB Model Validation Specialist to join our team.
+
+Job Description:
+
+The Retail IRB Model Validation Specialist will be responsible for ensuring the accuracy, reliability, and regulatory compliance of our retail risk models. The ideal candidate will have extensive experience in model validation, statistical analysis, and a strong understanding of the retail industry. Proficiency in R programming is essential for this role.
+
+Responsibilities:
+1. Conduct comprehensive model validation assessments to ensure the accuracy and reliability of our retail IRB (Internal Ratings-Based) models.
+2. Utilize R programming for data analysis, modeling, and model validation tasks.
+3. Collaborate with various departments to understand the business requirements and ensure alignment with regulatory standards.
+4. Develop and maintain documentation of validation processes, procedures, and results.
+5. Identify potential issues or weaknesses in models and propose solutions to mitigate risks.
+6. Stay updated on industry trends, regulatory changes, and best practices related to model validation and risk management.
+7. Provide training and support to other team members on model validation techniques and R programming.
+
+Qualifications:
+1. Bachelor's or Master's degree in Mathematics, Statistics, Econometrics, Actuarial Science, or a related field. A PhD is preferred.
+2. Proven experience in model validation within the retail sector.
+3. Proficiency in R programming for statistical analysis and modeling.
+4. Strong understanding of IRB models and risk management principles.
+5. Excellent analytical skills and the ability to interpret complex data.
+6. Exceptional communication skills, both written and verbal.
+7. Ability to work independently and as part of a team in a fast-paced environment.
+8. Knowledge of relevant regulatory frameworks such as Basel III, CCAR, and Dodd-Frank Act.
+
+How to Apply:
+Interested candidates are invited to submit their resume and cover letter detailing their experience and qualifications for the Retail IRB Model Validation Specialist position. Please apply via our career portal. [Insert Career Portal Link]
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+Note: Only candidates selected for an interview will be contacted. No phone calls, please.

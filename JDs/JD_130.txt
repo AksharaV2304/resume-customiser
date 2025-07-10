@@ -1,0 +1,23 @@
+ Job Description: Wholesale CCAR Model Auditor
+
+Company Overview:
+[Your Company Name] is seeking a highly skilled and motivated Wholesale CCAR Model Auditor to join our team. The ideal candidate will have a strong background in risk management, banking regulations, and a proven ability to work with complex financial models. Proficiency in Python is a must for this role.
+
+Job Responsibilities:
+1. Conduct thorough audits of Wholesale CCAR models, ensuring compliance with regulatory requirements.
+2. Collaborate with model risk management, quantitative analysis, and other relevant teams to understand the design, assumptions, and functionality of complex financial models.
+3. Identify potential issues or risks within the models and work with the relevant teams to develop solutions for remediation.
+4. Document findings and recommendations in a clear and concise manner, ensuring all stakeholders are kept informed about the status of audits.
+5. Stay current with changes in banking regulations and industry best practices related to model risk management.
+6. Contribute to the continuous improvement of our CCAR model auditing processes and methodologies.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, Statistics, or a related field. Advanced degrees preferred.
+2. Minimum of 5 years of experience in model risk management, preferably within a banking environment.
+3. Proficiency in Python is essential for this role; familiarity with other programming languages such as R, SAS, or Matlab would be beneficial.
+4. Strong understanding of Wholesale CCAR regulations and risk management principles.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and collaboratively within a team environment.
+7. Experience in leading and conducting complex model audits is preferred.
+
+[Your Company Name] offers a competitive salary and benefits package, as well as opportunities for professional development and career advancement. If you are passionate about risk management, banking regulations, and the use of technology to drive business success, we encourage you to apply for this exciting opportunity.

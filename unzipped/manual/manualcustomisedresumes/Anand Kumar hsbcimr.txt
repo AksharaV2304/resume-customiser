@@ -1,0 +1,33 @@
+Anand Kumar
+M.Sc. in Statistics
+GCB 5
+
+Summary
+Anand has more than 10 years of experience in statistical analysis and credit risk modelling for global banks and Indian PSBs. He has deep expertise in both model validation and development, leveraging Python to deliver robust solutions across credit risk domain and regulatory capital frameworks.
+
+Experience
+Model Validation
+
+Validated redeveloped IFRS 9 model for Middle East banks; automated analysis and documentation using Python
+
+Validated by external auditors; strong IFRS 9 and retail credit risk knowledge
+
+Used Python to replicate model logic, test assumptions, benchmark performance
+
+Documented validation reports for European bank (SS 1/23 compliance)
+
+Designed/implemented Model Validation & Monitoring framework for Indian PSBs per RBI guidelines
+
+Conducted model monitoring in Middle Eastern institutions (drift detection, stability, visual reporting)
+
+Other Experience
+
+Led scorecard development for PSU and Middle East banks (R, SAS, Excel)
+
+Redeveloped IFRS 9 models per SAMA guidelines
+
+Macro-economic modelling using R and Excel
+
+Built ML models to predict bad accounts (R, SAS)
+
+Developed scorecards per CBUAE for Middle East and Indian banks

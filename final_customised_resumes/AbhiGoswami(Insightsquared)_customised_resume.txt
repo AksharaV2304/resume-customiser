@@ -1,0 +1,19 @@
+AbhiGoswami(Insightsquared) – Create a JD for a retail IRB model development requirement. Mention that SQL is a must.
+
+Summary:
+Abhi Goswami is a qualified database developer with extensive experience in SQL and big data technologies such as Spark, Hadoop, and Hive. His expertise lies in the development of cutting-edge data management solutions for retail businesses, including the design and implementation of new Retail IRB models using SQL.
+
+Qualifications:
+Abhi Goswami holds a B.E. (Hons.) degree in Manufacturing Engineering from the Birla Institute of Technology & Science, Pilani, and has completed a Minor in Finance. He also possesses a PRISM Program certification, which is a 160-hour comprehensive data science training program organized by ICICI Bank.
+
+Key Experience:
+Abhi Goswami has worked previously as an Assistant Manager for MountainView Risk & Analytics, Mumbai, India, where he conducted statistical testing methodologies to validate CECL models for leading Banks and Credit Unions in the US. He also served as a Manager for ICICI Bank's Model Validation team, where he developed and monitored various models for the bank's ZCT (Zero Credit Touch) model to automate credit card applications approval or rejection, reducing manual intervention of Credit Managers by more than 50%.
+
+Technical Skills:
+Abhi Goswami is proficient in several programming languages, including Python (scikit/numpy/pandas/statsmodel), R, SQL, and SAS. His big data expertise lies in Spark, Hadoop, and Hive, as well as ETL, Maven, and PySpark tools. He has also achieved proficiency in several data science-related certifications such as PRISM Program (160 hour comprehensive Data Science Training Program organized by ICICI Bank), Google Analytics - Analytics Academy, Data Analytics using R, Python, SQL, and Tableau - KPMG, and Modelling in R using Tidymodels - DataCamp.
+
+The following is a list of achievements that demonstrate Abhi's expertise in his field:
+
+●  Top Performer in PRISM program at ICICI Bank
+●  I-Vigilante award in recognition of vigilance demonstrated by identifying and reporting a security incident (ICICI Bank, November 2021)
+●  Abhi has been recognized with the Modelling in R using Tidymodels - DataCamp certification for his proficiency in data science.

@@ -1,0 +1,41 @@
+Jessica Thacker
+Role: Manager
+
+Summary:
+
+Jessica is a Manager in EY's Financial Services Risk Management practice.
+
+She has 6+ years of experience in the Banking and Financial Services industry.
+
+Proficient in CCAR model development and data analytics.
+
+Qualifications and Training:
+
+PhD Economics, South Asian University
+
+MA Economics, South Asian University
+
+BA Hons (Economics), University of Delhi
+
+Technical Skills:
+
+Statistics, Econometrics (Cross-Section, Panel Data, Non-Linear Regression, Time-Series)
+
+Machine Learning (CART, Bagging, Boosted Trees)
+
+Statistical Software: Stata, SAS, MS Office
+
+Programming: Python, R
+
+Key Relevant Experience:
+
+Led PPNR CCAR econometric model development for revenue projections (SR15-18 compliant).
+
+Conducted ongoing monitoring and back-testing of PPNR models.
+
+Managed data analysis, variable selection, econometric strategy, and robustness checks.
+
+Initiated machine learning-based revenue forecasting (Random Forest, XGBoost, CART).
+
+Applied econometric and ML methods to predict firm performance, distress, and productivity.
+

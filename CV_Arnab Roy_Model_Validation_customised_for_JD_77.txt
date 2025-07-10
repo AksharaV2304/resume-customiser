@@ -1,0 +1,17 @@
+CV_Arnab Roy_Model_Validation – JD 77
+
+Summary:
+As a Wholesale IRB Model Validation Specialist, I have a strong background in financial modeling, statistical analysis, and risk management with a focus on regulatory compliance. With 5 years of experience in model validation within the banking industry, I am proficient in R programming and statistical analysis. My expertise lies in validating wholesale IRB models used for credit risk assessment to ensure compliance with regulatory requirements.
+
+Qualifications:
+* Bachelor's or Master's degree in a quantitative discipline (e.g., Mathematics, Statistics, Economics, Finance, Engineering)
+* Minimum of 5 years of experience in model validation, preferably within a banking or financial institution
+* Proficiency in R programming and statistical analysis
+* Strong understanding of credit risk assessment methodologies and regulatory requirements (e.g., Basel III)
+
+Key Experience:
+...
+
+Technical Skills:
+* R Programming
+* Statistical Analysis

@@ -1,0 +1,24 @@
+ Job Description: Retail Scorecard Model Auditor (R Specialization)
+
+Position Overview:
+We are seeking a highly skilled and experienced Retail Scorecard Model Auditor with proficiency in R programming to join our dynamic team. The ideal candidate will be responsible for evaluating, validating, and improving the performance of our retail scorecard models.
+
+Responsibilities:
+1. Conduct thorough audits of existing retail scorecard models using R programming language.
+2. Identify potential issues, inconsistencies, or biases within the models and propose solutions to improve their accuracy and effectiveness.
+3. Develop new models as needed to address specific business challenges and opportunities in the retail industry.
+4. Collaborate with data scientists, analysts, and other stakeholders to ensure model outcomes align with business objectives.
+5. Document findings, recommendations, and implementation steps in a clear and concise manner for effective communication within the organization.
+6. Stay up-to-date with industry trends, best practices, and advancements in retail analytics and R programming.
+7. Contribute to the continuous improvement of our modeling processes and tools.
+
+Qualifications:
+1. Master's degree in Statistics, Mathematics, Econometrics, Computer Science, or a related field.
+2. Proven experience in retail data analysis and model auditing using R.
+3. Strong understanding of statistical modeling techniques, machine learning algorithms, and predictive analytics.
+4. Excellent problem-solving skills and the ability to work independently as well as collaboratively in a team environment.
+5. Exceptional communication and presentation skills.
+6. Proficiency in SQL for data extraction and manipulation is a plus.
+7. Familiarity with other retail analytics tools (e.g., SAS, Python) is a bonus but not required.
+
+By joining our team, you will have the opportunity to make a significant impact on our business and gain valuable experience in a growing and innovative company. We offer competitive compensation, a supportive work environment, and opportunities for professional development. If you are passionate about retail analytics and excited to leverage your skills using R programming, we encourage you to apply!

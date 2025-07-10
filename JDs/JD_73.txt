@@ -1,0 +1,34 @@
+ Job Title: Wholesale IRB Model Development Specialist (R Programming Skills Required)
+
+Location: [Your Company Location]
+
+Company Overview:
+[Provide a brief overview of the company and its mission, if applicable.]
+
+Job Description:
+We are seeking a highly skilled and motivated Wholesale IRB Model Development Specialist to join our team. The ideal candidate will have a strong background in quantitative analysis, statistical modeling, and risk management with proficiency in R programming. In this role, you will be responsible for developing and enhancing wholesale IRB models that will support our business operations and strategic decision-making processes.
+
+Responsibilities:
+1. Design, develop, and maintain wholesale IRB models using R programming.
+2. Collaborate with various teams to understand business requirements, gather data, and validate model assumptions.
+3. Apply advanced statistical techniques and financial modeling methods to create accurate and efficient models.
+4. Conduct sensitivity analyses, stress testing, and backtesting of the developed models.
+5. Document model development process, assumptions, and results in a clear and concise manner.
+6. Provide training and support to stakeholders on the use of the developed models.
+7. Stay abreast of industry trends, regulatory changes, and best practices related to IRB modeling.
+8. Collaborate with data scientists and model validation teams to ensure compliance with internal policies and external regulations.
+
+Qualifications:
+1. Bachelor's or Master's degree in Mathematics, Statistics, Economics, Finance, or a related field. Advanced degrees are preferred.
+2. Proven experience in developing IRB models within the wholesale banking sector.
+3. Proficiency in R programming and statistical software packages (e.g., ggplot2, dplyr, lmtest, caret).
+4. Strong knowledge of financial risk management, credit risk assessment, and portfolio management.
+5. Excellent analytical skills, attention to detail, and the ability to work under tight deadlines.
+6. Strong communication and collaboration skills with the ability to explain complex concepts to non-technical stakeholders.
+7. Experience working in a highly regulated environment is beneficial.
+
+Our company offers a competitive salary, comprehensive benefits package, and an inspiring work environment that values creativity, innovation, and professional growth. If you are passionate about IRB modeling and are proficient in R programming, we encourage you to apply for this exciting opportunity.
+
+[Company Name] is an equal opportunity employer and welcomes applications from all qualified individuals regardless of race, color, religion, gender, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+
+To apply, please submit your resume, cover letter, and examples of your R code via our online application system. If you have any questions about this position, please contact [Your Contact Information]. We look forward to hearing from you!

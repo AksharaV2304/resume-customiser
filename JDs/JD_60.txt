@@ -1,0 +1,25 @@
+ Job Description: Retail CCAR Model Auditor
+
+Position Overview:
+We are seeking a highly skilled and experienced Retail CCAR Model Auditor to join our team. The successful candidate will be responsible for reviewing, testing, and validating the risk models used in our retail business to ensure compliance with regulatory requirements and internal policies. SQL proficiency is essential for this role as it will be primarily focused on data analysis and model validation.
+
+Responsibilities:
+1. Conduct thorough audits of CCAR models used in the retail business, identifying areas of risk and ensuring regulatory compliance.
+2. Collaborate with model developers to understand model assumptions, methodologies, and results.
+3. Perform comprehensive data analysis using SQL, extracting and validating data from various sources to support the audit process.
+4. Develop and execute test plans for model validation, including stress testing scenarios and sensitivity analyses.
+5. Document findings, recommendations, and actions taken to address identified issues or risks.
+6. Collaborate with stakeholders across the organization to ensure effective communication and alignment of objectives.
+7. Keep abreast of industry trends and regulatory updates related to CCAR model auditing and risk management.
+
+Qualifications:
+1. Bachelor's degree in Finance, Mathematics, Economics, Statistics, Computer Science, or a related field. Advanced degrees are preferred.
+2. Minimum of 5 years of experience in CCAR model auditing or risk management within the financial services industry.
+3. Extensive knowledge of retail banking and associated risk management practices.
+4. Proficiency in SQL and strong analytical skills. Experience with other programming languages is a plus.
+5. Strong problem-solving abilities and attention to detail.
+6. Excellent communication and interpersonal skills, with the ability to explain complex concepts to non-technical stakeholders.
+7. Knowledge of CCAR regulations and guidelines, including those set by the Federal Reserve and other regulatory bodies.
+8. CFA, FRM, or similar professional certification is a plus.
+
+If you are a detail-oriented individual with strong analytical skills and a passion for risk management in the financial services industry, we encourage you to apply for this exciting opportunity. SQL proficiency is essential for this role as it will involve significant data analysis and model validation.

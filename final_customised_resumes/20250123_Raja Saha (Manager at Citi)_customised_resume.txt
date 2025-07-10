@@ -1,0 +1,17 @@
+20250123_Raja Saha (Manager at Citi) – Create a JD for a retail IRB model development requirement. Mention that SQL is a must.
+
+Summary:
+Raja Saha is an experienced model developer and validator skilled in Statistics and various programming languages. He has worked on projects such as the Early Warning System (EWS) for LitMass, which uses scorecard models to identify stressed borrowers, and risk and compliance validation for Citi's US unsecure portfolio, where he assesses newly developed models and reviews annual/quarterly model performance. Raja also developed an online training portal on statistical analytics with R covering Basic Statistics, t-test, ANOVA, Linear Regression, Time Series etc.
+
+Qualifications:
+Raja holds a M.Sc in Statistics from the University of Kalyani and a B.Sc in Statistics from the University of Calcutta, Asutosh College. His skills include Model Development, Statistics, R, Automation, and Other Skills such as Programming Language (Python, SQL) and OS (Windows, Linux).
+
+Key Experience:
+1. Manager at MRM - Jan'2022 – Present
+2. Assistant Manager at MRM - Jun'2019 – Dec'2021
+3. Analyst at LitMass - Apr'2018 – Jun'2019
+4. Analyst at Predictive Analytics Solutions - Jan'2015 – Jan'2016
+5.
+
+Technical Skills:
+Model Development, Statistics, R, Programming Language (Python, SQL), Automation, OS (Windows, Linux)."

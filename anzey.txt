@@ -1,0 +1,152 @@
+🔹 Senior Manager: Rubika Rana
+Summary
+Rubika works as a Senior Manager in the Financial Services Risk Management practice. She has 10+ years of experience in Credit risk and data science. Seasoned Credit Risk Analyst, specializing in model validation and optimization, skilled in data analysis, quality assurance, and predictive modelling for robust credit risk assessment and management.
+
+Qualifications and training
+
+Bachelors of Engineering, Thapar University, 2013
+
+Key relevant experience
+
+Mentored new joiners as vertical expanded from 1 to 50-member team; led a 5-member team.
+
+Validated OCR models (RNN, LSTM, NLP) for Global Technology & Ops.
+
+Validated high-risk models using Linear & Time Series Regression (Market Risk, PPNR).
+
+Validated AML models using quantitative methods.
+
+Led Decision Science Team for monitoring Credit Risk & Regulatory models (Application, Behavioural, Basel/IFRS9 – PD, EAD, LGD), repayment models – for S.A and U.K banks.
+
+Developed K-Means clustering algorithms for:
+
+Mobile/online developers (churn prevention)
+
+Seller/client zone clustering
+
+Built application & behavioural models using logistic regression to reduce portfolio default rate.
+
+Created model for order prediction (rider allocation based on traffic).
+
+Built client performance adjustment system based on weight factor.
+
+Led IRB PD model development (DQ analysis, variable treatment, segmentation, calibration, MoC).
+
+Assessed regulatory compliance of IRB models to CRDIV; prepared compliance plan.
+
+Developed PPNR & Balance Sheet models for CCAR submission under various market scenarios.
+
+Modeled Global Rates Trading revenue under IFRS9.
+
+Realigned business strategies based on model performance insights.
+
+Technical Skills
+
+R, Python, SQL, SAS EG
+
+IRB/CCAR Model Development, Monitoring, Validation
+
+Model risk management, governance
+
+AI/ML modelling, MS Office
+
+Statistical modelling techniques
+
+🔹 Senior Manager: Arjun KM
+Summary
+Arjun is a part of the Financial Services Risk Management practice of EY India with 10 years of experience. He specializes in credit risk modelling, treasury and marketing analytics, scorecard development, and has proficiency in machine learning, deep learning, statistical modelling, and programming.
+
+Qualifications and training
+
+Masters - Statistics and Machine learning, Indian Institute of Science, Bangalore
+
+B Tech - Mechanical Engineering, School of Engineering, CUSAT
+
+Key relevant experience
+
+IFRS 9 ECL modelling (time series, segmentation, macroeconomic analysis)
+
+Basel Modelling: PD, LGD, EAD models for Auto business RWA
+
+Reviewed & validated PD quantification model for US bank
+
+Monitored production models & portfolio exercises (Business, Governance, Audit)
+
+Built PCA-based scorecard for MFI Centre
+
+Developed Adaboost classifiers for delinquency prediction
+
+Created MFI Risk scorecard for MFI Bureau customer evaluation
+
+Built ML-based warning indicators for large US bank health monitoring
+
+Built Fair Lending compliance framework (logistic/linear regression)
+
+Developed Digital Index (score-based segmentation) for US retailers
+
+Built Naïve Bayes classifiers for enrolment prediction
+
+Proprietary Recommendation Engine for US retail clients
+
+Built predictive analytics models for aircraft engine maintenance
+
+Led PySpark modelling ecosystem development with Bokeh dashboards
+
+Built Random Forest models for shopper prediction
+
+Designed ML 101 certification; trained over 300 employees
+
+Technical Skills
+
+R, Python, SQL, C, Git, Excel
+
+EDA, AI/ML modelling
+
+Credit risk model validation
+
+MS Office
+
+🔹 Senior: Shashwata Mondal
+Summary
+Shashwata is a Senior in EY’s Financial Services Risk Management practice. He has 1+ years of experience in the Banking and Financial Services industry. Experienced Credit Risk Analyst with a strong background in predictive modelling adept at validating and refitting credit models, with hands-on expertise in various ML techniques.
+
+Qualifications and training
+
+M.Tech in Cryptology and Security, ISI Kolkata, 2023
+
+M.Sc in Mathematics, Ramakrishna Mission Vivekananda Educational and Research Institute, 2020
+
+B.Sc in Mathematics, Ramakrishna Mission Residential College, 2018
+
+Key relevant experience
+
+Data preprocessing (outlier handling, missing values, scaling, encoding)
+
+Used XGBoost (classification: claim/no-claim; regression: claim amount)
+
+Tuned hyperparameters, validated with K-Fold Cross-Validation
+
+Evaluated using metrics like Confusion Matrix, R², TPR, Adjusted R²
+
+Logistic Regression for PD modelling; Linear Regression for LGD
+
+Computed Expected Loss using PD, LGD, fixed EAD
+
+Feature mapping for marine insurance: PSL, sum insured, claims, commodities
+
+Used internal calculator to estimate expected premium
+
+Compared expected vs actual premium rates
+
+Built system for month-on-month zonal rate computation
+
+Monitored geographic rate trends for pricing strategy
+
+Technical Skills
+
+R, Python, SQL, C, Git, Excel
+
+Machine Learning, AI
+
+Statistics, Deep Learning, NLP, Time Series
+

@@ -1,0 +1,28 @@
+Saumya Bhardwaj
+M.Sc. in Economics | GCB 5
+
+Summary
+Saumya is part of EY FSRM with 4+ years of experience. Her expertise lies in credit risk modelling, risk analytics, and Expected Loss Computation under IFRS9, with knowledge of SR11/7 and SS 1/23.
+
+Experience
+HSBC:
+
+Developed IFRS9 model suite for SME portfolio
+
+Performed data quality checks, variable selection, segmentation, model testing
+
+LGD model development using SAS and Python
+
+Sensitivity, stability analysis (bootstrapping, k-fold cross-validation)
+
+Forecast model for PD projections and IFRS9 ECL
+
+Model Validation:
+
+Digital scorecard validation for Indian bank (Auto Loans)
+
+ML scorecard models (GBM, XGBoost) for US G-SIB
+
+Capital risk model validation for Principal Investments (FV, RWA, PVA under stress)
+
+CLI/CLD impairment and credit strategy model validation (UK G-SIB)

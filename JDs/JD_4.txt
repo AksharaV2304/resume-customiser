@@ -1,0 +1,33 @@
+ Job Title: Retail IRB Model Development Specialist
+
+Location: [Your Company's Location]
+
+Job Type: Full-Time
+
+About Us:
+[Your Company Name] is a leading innovator in the retail industry, dedicated to providing superior customer experiences through cutting-edge technology solutions. We are currently seeking a skilled Retail IRB Model Development Specialist to join our dynamic team.
+
+Responsibilities:
+1. Develop and maintain retail Inventory Replenishment (IRB) models using SQL as the primary programming language.
+2. Collaborate with data scientists, engineers, and business analysts to design, implement, and optimize IRB model algorithms.
+3. Analyze large datasets to identify trends, patterns, and anomalies that could impact retail inventory management.
+4. Design and implement SQL scripts for data extraction, transformation, and loading (ETL) processes.
+5. Work closely with the business stakeholders to understand their needs and translate them into actionable models.
+6. Continuously improve the accuracy and efficiency of IRB models through ongoing testing, validation, and optimization.
+7. Document model development processes, assumptions, and results for transparency and auditing purposes.
+8. Collaborate with IT teams to ensure the scalability and security of the models in a production environment.
+9. Stay updated on industry trends, best practices, and emerging technologies related to retail IRB modeling.
+
+Qualifications:
+1. Bachelor's or Master's degree in Computer Science, Mathematics, Statistics, Econometrics, or a related field.
+2. Proven experience in developing and maintaining inventory management models, with a strong focus on SQL programming.
+3. Excellent analytical skills and proficiency in statistics, probability theory, and machine learning concepts.
+4. Strong problem-solving abilities and the ability to work independently as well as in a team environment.
+5. Exceptional communication skills, with the ability to explain complex technical concepts to non-technical stakeholders.
+6. Knowledge of retail operations and supply chain management is a plus.
+7. Familiarity with cloud computing platforms (e.g., AWS, Azure) is a plus.
+8. Experience with data visualization tools (e.g., Tableau, Power BI) is a plus.
+
+[Your Company Name] offers a competitive salary and benefits package, including medical, dental, vision, and 401(k) plans. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+To apply, please submit your resume, cover letter, and examples of previous work (if available) through our online application system.

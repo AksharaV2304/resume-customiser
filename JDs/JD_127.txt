@@ -1,0 +1,29 @@
+ Job Title: Wholesale CCAR Model Validation Specialist
+
+Location: [City, State]
+
+Company Overview:
+[Company Name] is a leading financial institution seeking a highly skilled and experienced Wholesale CCAR Model Validation Specialist to join our team. The successful candidate will play a crucial role in ensuring the integrity of our risk models within the Capital Adequacy Risk (CCAR) framework, primarily focusing on wholesale businesses.
+
+Key Responsibilities:
+1. Validate and verify wholesale CCAR model outputs, assumptions, and methodologies to ensure accuracy, consistency, and compliance with regulatory requirements.
+2. Collaborate closely with various business lines, risk management, and control functions to understand the underlying drivers of the models and identify potential risks or issues.
+3. Utilize SAS programming language for data manipulation, model development, and validation tasks.
+4. Document all validation procedures, findings, and recommendations in a clear and concise manner.
+5. Participate in CCAR stress testing activities, including scenario analysis, backtesting, and sensitivity analysis.
+6. Stay up-to-date with regulatory changes impacting CCAR model validation and ensure compliance within the wholesale business.
+7. Collaborate with other model validation teams to share best practices and promote a strong risk management culture across the organization.
+8. Support the development of internal model documentation and help in the preparation for regulatory examinations.
+9. Contribute to the continuous improvement of our CCAR model validation processes, tools, and methodologies.
+
+Qualifications:
+1. Bachelor's degree in Finance, Mathematics, Statistics, Economics, or a related field; advanced degree preferred.
+2. Minimum of 5 years of experience in model validation or risk management within the financial services industry.
+3. Proficiency in SAS programming language is essential.
+4. Strong analytical and problem-solving skills, with the ability to understand complex models and data structures.
+5. Excellent communication and interpersonal skills, with the ability to work effectively with various stakeholders.
+6. Detail-oriented with strong organizational and project management skills.
+7. Knowledge of CCAR regulations and stress testing methodologies is advantageous.
+8. CFA or FRM certification is a plus.
+
+[Company Name] offers competitive compensation, comprehensive benefits, and a dynamic work environment. If you are passionate about risk management, model validation, and making an impact in the financial services industry, we encourage you to apply for this exciting opportunity.

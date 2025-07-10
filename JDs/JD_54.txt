@@ -1,0 +1,31 @@
+ Job Description: Retail CCAR Model Validation Specialist
+
+Company Overview:
+[Company Name] is a leading player in the retail industry, and we are committed to delivering high-quality products to our customers. To achieve this, we rely on advanced data analysis and modeling techniques to make informed decisions. As part of our continued growth and improvement, we are seeking a skilled Retail CCAR Model Validation Specialist to join our team.
+
+Position Overview:
+The Retail CCAR Model Validation Specialist will be responsible for validating the accuracy and robustness of our Credit Risk models in accordance with Capital Adequacy Rules (CCAR). This role requires a strong understanding of financial risk modeling, data analysis, and Python programming.
+
+Responsibilities:
+1. Validate CCAR models by comparing results with actual outcomes, stress test results, and benchmark data to ensure model accuracy.
+2. Collaborate with various departments to understand the business and ensure that model assumptions align with real-world scenarios.
+3. Develop Python scripts for model validation, automating routine tasks, and creating efficient workflows.
+4. Conduct sensitivity analyses to assess model risk and robustness under various stress tests.
+5. Document findings, recommendations, and any necessary improvements for the models.
+6. Stay updated on regulatory changes related to CCAR and ensure that our models comply with the latest requirements.
+7. Collaborate with IT teams to implement model validation results in the production environment.
+8. Provide training and support to other team members regarding model validation techniques and best practices.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, Statistics, or a related field. Advanced degrees are preferred.
+2. Minimum of 3 years of experience in risk modeling, preferably within the retail industry.
+3. Strong knowledge of Credit Risk and CCAR regulations.
+4. Proficiency in Python, with a focus on data analysis libraries such as NumPy, Pandas, Scikit-learn, and Matplotlib.
+5. Familiarity with SQL for database management.
+6. Excellent analytical, problem-solving, and communication skills.
+7. Ability to work independently and collaboratively in a fast-paced environment.
+8. Strong attention to detail and ability to manage multiple projects simultaneously.
+
+[Company Name] is an equal opportunity employer and welcomes applicants from diverse backgrounds. If you are passionate about financial modeling, have strong Python skills, and are excited about joining a dynamic team, we encourage you to apply for this position.
+
+To apply, please submit your resume, cover letter, and examples of previous work (if available) through our online application system. We look forward to hearing from you!

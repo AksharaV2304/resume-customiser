@@ -1,0 +1,38 @@
+ Job Title: Retail Stress Testing Model Validation Specialist
+
+Location: [Your Location]
+
+Company Overview:
+[Insert Company Name and Brief Description]
+
+Job Summary:
+We are seeking a highly skilled and motivated Retail Stress Testing Model Validation Specialist to join our team. The ideal candidate will have a strong background in financial modeling, data analysis, and Python programming. In this role, you will be responsible for validating the accuracy and robustness of our retail stress testing models, ensuring compliance with regulations, and identifying areas for improvement.
+
+Responsibilities:
+1. Validate the accuracy and robustness of retail stress testing models using Python programming language.
+2. Conduct comprehensive analysis of model inputs, assumptions, and outputs to ensure they are reasonable and consistent.
+3. Identify and address potential risks and issues within the models, implementing corrective actions as necessary.
+4. Collaborate with various stakeholders across the organization to understand business needs and translate them into appropriate modeling requirements.
+5. Develop and maintain documentation for all models, including assumptions, methodologies, and results.
+6. Stay current on industry best practices, regulatory changes, and new developments in retail stress testing and model validation.
+7. Participate in model audits and reviews to ensure compliance with internal policies and external regulations.
+8. Provide support and guidance to other team members regarding model validation procedures and Python programming techniques.
+9. Contribute to the continuous improvement of our risk management framework, helping to drive innovation and efficiency within the organization.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, Statistics, Computer Science, or a related field.
+2. Proven experience in model validation, ideally within the retail sector.
+3. Strong proficiency in Python and experience with other programming languages such as R, SQL, or SAS is a plus.
+4. Knowledge of financial markets, products, and risk management principles.
+5. Excellent analytical, problem-solving, and decision-making skills.
+6. Strong communication and teamwork abilities, with the ability to explain complex concepts to non-technical stakeholders.
+7. Detail-oriented with strong organizational skills and the ability to manage multiple projects simultaneously.
+8. Self-motivated and able to work independently as well as in a team environment.
+9. Familiarity with regulatory requirements related to model validation, such as Basel III and CCAR, is preferred.
+
+How to Apply:
+Interested candidates are invited to submit their resume, cover letter, and examples of Python code relevant to the role via our online application system. Please include any relevant certifications or additional qualifications in your application.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+We appreciate your interest in joining our team and look forward to reviewing your application!

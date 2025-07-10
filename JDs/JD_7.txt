@@ -1,0 +1,28 @@
+ Job Description: Retail IRB Model Validation Specialist
+
+Company Overview:
+[Company Name] is a leading retail organization with a strong commitment to innovation and excellence. We are seeking a talented and experienced Retail IRB Model Validation Specialist to join our team.
+
+Job Role:
+The Retail IRB Model Validation Specialist will be responsible for ensuring the accuracy, reliability, and compliance of our risk models within the retail banking sector. The ideal candidate should have a strong background in statistical analysis, risk management, and regulatory compliance.
+
+Key Responsibilities:
+1. Validate and ensure the integrity of IRB model outputs using appropriate validation methodologies and techniques.
+2. Conduct sensitivity analyses to assess the robustness of models under various stress tests and scenarios.
+3. Collaborate with cross-functional teams to understand business requirements, data needs, and regulatory expectations.
+4. Ensure compliance with relevant regulatory guidelines, such as Basel III and CCAR, regarding model validation.
+5. Utilize SAS for statistical analysis, modeling, and reporting purposes.
+6. Document all validation activities in a clear, concise manner to ensure transparency and traceability.
+7. Provide ongoing support for model maintenance, including identifying and implementing improvements to enhance model performance.
+8. Stay abreast of industry developments and regulatory updates related to risk modeling and validation.
+
+Qualifications:
+1. Bachelor's or Master's degree in Statistics, Mathematics, Economics, Finance, or a related field.
+2. Proven experience in model validation, preferably within the retail banking sector.
+3. Expertise in SAS for statistical analysis and modeling.
+4. Strong understanding of risk management principles and regulatory requirements.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work collaboratively in a team environment and manage multiple tasks effectively.
+7. Self-motivated with a strong attention to detail and the ability to work independently.
+
+[Company Name] offers a competitive salary package, a supportive work environment, and opportunities for professional growth. If you are passionate about risk modeling and validation, and have a strong proficiency in SAS, we encourage you to apply for this exciting opportunity.

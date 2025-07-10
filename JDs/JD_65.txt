@@ -1,0 +1,28 @@
+ Job Description: Retail AI/ML Model Validation Specialist
+
+Company Overview:
+[Company Name] is a dynamic and innovative organization in the retail sector, dedicated to leveraging technology to enhance customer experience and drive business growth. We are currently seeking a skilled and enthusiastic Retail AI/ML Model Validation Specialist to join our Data Science team.
+
+Job Responsibilities:
+1. Collaborate with data scientists, business analysts, and other stakeholders to validate the performance and robustness of AI/ML models developed for retail applications.
+2. Utilize R programming language for model validation, statistical analysis, and reporting. Familiarity with other languages like Python or SQL is a plus but not mandatory as we primarily focus on R.
+3. Develop and implement validation strategies to ensure the accuracy and reliability of machine learning models in predicting retail trends, customer behavior, and inventory management.
+4. Conduct thorough analysis of model performance metrics such as precision, recall, F1 score, AUC-ROC, etc., to identify potential issues and opportunities for improvement.
+5. Collaborate with the data engineering team to ensure seamless integration of validated models into our production systems.
+6. Document all validation processes, findings, and recommendations in a clear and concise manner for easy understanding by stakeholders.
+7. Stay updated on industry trends, best practices, and advancements in AI/ML model validation techniques.
+8. Contribute to the continuous improvement of our data science practice by providing insights and suggestions for optimizing model performance and efficiency.
+9. Collaborate with cross-functional teams to ensure that validated models are aligned with business objectives and meet regulatory requirements.
+
+Qualifications:
+1. Master's degree in Computer Science, Statistics, Mathematics, or a related field. A PhD is preferred but not mandatory.
+2. Minimum of 3 years of experience in AI/ML model validation, preferably within the retail sector.
+3. Proficient in R programming language and familiarity with other data science tools such as Python, SQL, and TensorFlow.
+4. Strong understanding of machine learning concepts, statistical analysis techniques, and model evaluation metrics.
+5. Excellent problem-solving skills and ability to work independently as well as part of a team.
+6. Strong communication skills, both written and verbal, with the ability to explain complex technical concepts to non-technical stakeholders.
+7. Passion for data science and AI/ML technology, with a commitment to continuous learning and improvement.
+
+We offer a competitive salary package, flexible work hours, and opportunities for professional growth. If you are an innovative thinker who is passionate about using AI/ML to drive retail success, we would love to hear from you!
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

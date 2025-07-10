@@ -1,0 +1,33 @@
+ Job Title: Wholesale Stress Testing Model Auditor (Python Specialist)
+
+Location: [Your Location]
+
+Company Overview:
+[Insert company name and brief description] is seeking a highly skilled and experienced Wholesale Stress Testing Model Auditor with expertise in Python programming to join our dynamic team. The successful candidate will play an integral role in ensuring the accuracy, integrity, and compliance of our wholesale stress testing models.
+
+Key Responsibilities:
+1. Conduct thorough audits of existing wholesale stress testing models, identifying potential weaknesses, inconsistencies, or non-compliance issues.
+2. Utilize Python programming skills to develop, test, and implement solutions for identified issues in the models.
+3. Collaborate with various departments to understand business needs and ensure that models align with those requirements.
+4. Implement best practices for model design, validation, and documentation to maintain high levels of accuracy and transparency.
+5. Stay up-to-date with industry regulations, guidelines, and emerging trends related to stress testing and financial modeling.
+6. Provide expert advice and guidance on model risk management and compliance matters.
+7. Contribute to the development of new stress testing models as needed.
+8. Participate in regular meetings and discussions with internal stakeholders, regulators, and external auditors.
+9. Document all work thoroughly and maintain accurate records for future reference.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Economics, Mathematics, Statistics, Computer Science, or a related field.
+2. Proven experience in wholesale stress testing model auditing and validation, preferably within the financial services industry.
+3. Expertise in Python programming is essential, with strong skills in data analysis, modeling, and algorithm development.
+4. Knowledge of financial markets, instruments, and risk management principles is highly desirable.
+5. Strong problem-solving abilities and attention to detail are required.
+6. Excellent communication and collaboration skills, with the ability to explain complex concepts in a clear and concise manner.
+7. Familiarity with regulatory requirements related to stress testing and model risk management is an advantage.
+8. Certifications such as FRM, CFA, or similar are considered a plus.
+
+We offer a competitive salary, comprehensive benefits package, and opportunities for professional growth in a dynamic and supportive work environment. If you are passionate about financial modeling, Python programming, and ensuring the integrity of our wholesale stress testing models, we would love to hear from you. Please submit your application, including a cover letter, resume, and examples of your Python coding work (if available).
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+Note: This job description is not intended to be all-inclusive. Employees may perform other related duties as negotiated to meet the ongoing needs of the organization.

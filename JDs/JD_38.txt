@@ -1,0 +1,32 @@
+ Job Title: Retail Scorecards Model Developer
+
+Location: [Your Location]
+
+Department: Data Science & Analytics
+
+Job Summary:
+We are seeking a highly skilled and motivated Retail Scorecards Model Developer to join our Data Science & Analytics team. The successful candidate will be responsible for designing, developing, and implementing retail scorecard models using Python. This role requires strong analytical skills, a deep understanding of data mining techniques, and the ability to work independently as well as collaboratively within cross-functional teams.
+
+Responsibilities:
+1. Develop and maintain retail scorecards models using Python and other relevant tools for various business applications such as credit risk assessment, customer segmentation, and marketing campaign optimization.
+2. Collaborate with stakeholders to understand business requirements and translate them into technical specifications for model development.
+3. Conduct exploratory data analysis to identify patterns and trends, and use these insights to improve existing models or develop new ones.
+4. Implement machine learning algorithms and statistical models to build accurate and scalable scorecard solutions.
+5. Validate models using appropriate techniques such as cross-validation, bootstrap resampling, and A/B testing.
+6. Collaborate with other teams to ensure the successful integration of scorecards into existing business systems.
+7. Continuously monitor model performance and make adjustments as necessary to maintain accuracy and relevance.
+8. Document models and provide training materials for end-users.
+9. Stay up-to-date with industry trends, best practices, and advancements in data science and machine learning.
+
+Qualifications:
+1. Bachelor's or Master's degree in Computer Science, Mathematics, Statistics, Econometrics, Engineering, or a related field. Advanced degrees are preferred.
+2. Proven experience in developing retail scorecards models using Python (e.g., scikit-learn, TensorFlow, PyTorch).
+3. Strong understanding of machine learning algorithms and statistical modeling techniques.
+4. Experience with data preprocessing, feature engineering, and model evaluation.
+5. Knowledge of database systems and SQL.
+6. Excellent problem-solving skills and the ability to work in a fast-paced environment.
+7. Strong communication skills with the ability to explain complex concepts to non-technical stakeholders.
+8. Ability to work collaboratively within cross-functional teams.
+9. Proactive, results-oriented, and passionate about data science and analytics.
+
+We offer a competitive salary, comprehensive benefits, and opportunities for professional development and growth. If you are a dedicated and innovative professional looking to make an impact in the retail industry, we encourage you to apply today!

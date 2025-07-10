@@ -1,0 +1,25 @@
+ Job Title: Senior Financial Risk Analyst - IFRS9 Model Development
+
+Company Overview:
+[Company Name] is a leading financial institution committed to providing innovative solutions and exceptional service to our clients. We are currently seeking a skilled Senior Financial Risk Analyst to join our team, focusing on the development of wholesale IFRS9 models utilizing SAS as our primary tool for model implementation and validation.
+
+Job Responsibilities:
+1. Lead the design, development, and implementation of sophisticated wholesale IFRS9 models using SAS programming language.
+2. Collaborate with various stakeholders, including risk management, finance, and IT teams, to understand business needs and ensure model alignment.
+3. Conduct thorough data analysis and model validation to ensure the accuracy, reliability, and compliance of the developed IFRS9 models.
+4. Stay abreast of industry trends, regulatory requirements, and best practices related to financial risk modeling and IFRS9.
+5. Document and communicate model methodologies, assumptions, and results effectively to various stakeholders.
+6. Participate in model validation activities and respond to queries from internal audit and regulators.
+7. Collaborate with other teams on ad-hoc projects related to financial risk analysis and reporting.
+8. Contribute to the continuous improvement of our modeling framework, processes, and tools.
+
+Qualifications:
+1. Master's degree in Finance, Mathematics, Economics, Statistics, or a related quantitative field.
+2. Minimum of 5 years of experience in financial risk modeling, preferably within a banking environment.
+3. Expertise in SAS programming and a strong understanding of IFRS9 requirements.
+4. Strong problem-solving skills and the ability to work independently and collaboratively in a dynamic environment.
+5. Excellent communication and interpersonal skills with the ability to explain complex concepts to non-technical stakeholders.
+6. Knowledge of wholesale banking products and risk management practices is preferred.
+7. Experience working within a regulated financial institution is highly desirable.
+
+[Company Name] offers a competitive salary, benefits package, and opportunities for professional growth. If you are passionate about financial risk modeling, have a strong SAS skillset, and are looking to join an innovative and supportive team, we encourage you to apply for this exciting opportunity.

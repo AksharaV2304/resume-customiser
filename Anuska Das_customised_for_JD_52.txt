@@ -1,0 +1,15 @@
+Anuska Das – JD 52
+
+Summary:
+The candidate is a highly skilled and experienced CCAR Model Developer with 5+ years of experience in financial modeling, risk management, and data analysis. They have a strong background in retail credit card portfolios and are proficient in SQL and other programming languages such as Python, R, or SAS.
+
+Qualifications:
+The candidate has a bachelor's degree in Finance, Mathematics, Statistics, Economics, or a related field with advanced degree preferred. They have 5+ years of experience in financial modeling, risk management, and data analysis, with a focus on retail credit card portfolios.
+
+Key Experience:
+The candidate has developed, maintained, and enhanced complex financial models that support the risk management and regulatory reporting needs of their retail credit card business. They have conducted complex data analysis to identify trends, risks, and opportunities within the retail credit card portfolio. They have ensured models are accurate, robust, and compliant with applicable regulations and industry standards.
+
+Technical Skills:
+The candidate is proficient in SQL and programming languages such as Python, R, or SAS. They have knowledge of CCAR regulations, stress testing methodologies, and risk management principles.
+
+Overall, the candidate's strong background in financial modeling, risk management, and data analysis makes them an excellent candidate for a CCAR Model Developer role.'

@@ -1,0 +1,36 @@
+Manager: Nidhika Tomar
+Summary:
+Nidhika is a Manager in EY’s Financial Services Risk Management practice. She has more than 5 years of experience in the Banking and Financial Services industry. She is proficient in model development and implementation of credit risk models with exposure to regulations like Stress Testing, ICAAP, etc.
+
+Qualifications and training:
+
+Masters in Economics, Delhi School of Economics, 2019
+
+Bachelors in Economics, Delhi University, 2017
+
+Key relevant experience:
+
+Worked on model development of Stress-testing portfolio evolution model (s166 secured book-shape model) which feeds into the capital (RWA/EL) and impairment (ECL) engines to predict the forecast compliant to the most recent usage of ICAAP across base/stress
+
+Developed Capital suite (capital emulator- PD, EAD, LGD) implemented on portfolio evolution model
+
+Engineered a comprehensive Impairment Emulator integrating Forward-Looking PD, EAD, LGD
+
+Added sub-models like PPD and FSD to improve accuracy of impairment forecasts
+
+Implemented stress-testing modelling using PyCharm
+
+Developed BUK Home Finance Hybrid PD model
+
+Recalibrated income models for unsecured loans and overdraft facilities
+
+Guided 1.2 mn accounts’ affordability (£6bn exposure)
+
+Investigated HPI changes’ impact on collateral value
+
+Monitored RWA requirement for 1mn accounts (£150bn exposure)
+
+Technical Skills:
+PD/LGD Model Development, Stress Testing, ICAAP, RWA Computation
+SAS, SQL, Excel, PyCharm, Python, GIT & MS Office
+

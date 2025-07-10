@@ -1,0 +1,30 @@
+ Job Description: Wholesale Scorecards Model Developer
+
+Company Overview:
+[Company Name] is a leading player in the [Industry] sector, committed to delivering innovative solutions and services. We are currently seeking a skilled and motivated Wholesale Scorecards Model Developer to join our dynamic team.
+
+Job Role: Wholesale Scorecards Model Developer
+
+Location: [Location]
+
+Key Responsibilities:
+1. Develop, maintain, and enhance wholesale scorecard models using SQL as the primary programming language.
+2. Collaborate with business stakeholders to understand data requirements and translate them into technical specifications for model development.
+3. Design, implement, and optimize database structures and processes to ensure efficient data flow and accurate model outcomes.
+4. Validate and document models, ensuring compliance with industry standards and company policies.
+5. Conduct regular testing and analysis of scorecard models to identify areas for improvement and implement necessary changes.
+6. Collaborate with the data team to ensure timely and accurate data extraction and processing.
+7. Provide technical support and guidance to other teams on model usage, interpretation, and troubleshooting.
+8. Stay updated with industry trends and best practices in wholesale scorecard modeling and database management.
+9. Participate in project meetings and present model results and recommendations to stakeholders.
+
+Qualifications:
+1. Bachelor's or Master's degree in Computer Science, Information Systems, Mathematics, Statistics, Econometrics, or a related field.
+2. Proven experience in wholesale scorecard modeling using SQL.
+3. Strong understanding of database management systems and data warehousing.
+4. Excellent analytical skills and proficiency in statistical analysis.
+5. Ability to work independently and collaboratively in a fast-paced environment.
+6. Strong communication skills, both written and verbal.
+7. Experience working with wholesale finance or banking is preferred but not essential.
+
+[Company Name] offers a competitive salary package, including benefits, flexible working hours, and opportunities for professional growth. If you are a passionate and skilled Wholesale Scorecards Model Developer, ready to make an impact in our organization, we would love to hear from you. Apply today!

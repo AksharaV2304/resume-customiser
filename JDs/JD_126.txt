@@ -1,0 +1,40 @@
+ Job Title: Senior CCAR Model Validation Specialist
+
+Location: [City, State]
+
+Company Overview:
+[Company Name] is a leading organization in the financial services industry. We are committed to providing innovative solutions and maintaining the highest standards of regulatory compliance, including the Comprehensive Capital Analysis and Review (CCAR) process.
+
+Job Description:
+
+We are seeking an experienced Senior CCAR Model Validation Specialist to join our dynamic Risk Management team. The ideal candidate will have a strong background in financial modeling, risk management, and a deep understanding of regulatory requirements, particularly CCAR.
+
+Responsibilities:
+1. Lead the validation of wholesale models used for CCAR submission, ensuring accuracy, completeness, and compliance with regulatory guidelines.
+2. Collaborate with various business units to understand model inputs, assumptions, and methodologies.
+3. Conduct thorough reviews of model design, data quality, and results, identifying potential errors or inconsistencies.
+4. Develop and maintain documentation for models, including validation procedures, findings, and remediation plans.
+5. Stay updated on CCAR guidelines, industry best practices, and emerging trends in model risk management.
+6. Contribute to the continuous improvement of the model validation process and related policies.
+7. Collaborate with IT teams to ensure effective integration of models within the company's technology infrastructure.
+8. Provide support during regulatory examinations, audits, and stress tests.
+9. Mentor junior team members in model validation techniques and regulatory requirements.
+10. Ensure compliance with internal policies and procedures related to model risk management.
+
+Qualifications:
+1. Bachelor's degree in a quantitative field such as Mathematics, Statistics, Econometrics, or Computer Science; advanced degree preferred.
+2. Minimum of 7 years of experience in model validation, preferably within the financial services industry.
+3. Proficiency in Python and other programming languages is essential for automating model testing and documentation processes.
+4. Strong understanding of risk management principles, CCAR guidelines, and stress testing methodologies.
+5. Excellent analytical skills, attention to detail, and problem-solving abilities.
+6. Effective communication skills with the ability to explain complex concepts to various stakeholders.
+7. Ability to work independently and as part of a team in a fast-paced environment.
+8. Knowledge of financial markets, products, and regulatory requirements is highly desirable.
+9. Certified Financial Risk Manager (FRM) or similar professional certification is a plus.
+10. Experience with cloud computing platforms (e.g., AWS, Azure) would be beneficial.
+
+[Company Name] offers a competitive salary, comprehensive benefits, and opportunities for professional growth. If you are passionate about model validation, risk management, and regulatory compliance, we encourage you to apply for this exciting opportunity.
+
+To apply, please submit your resume and cover letter detailing your relevant experience and qualifications. We look forward to reviewing your application!
+
+[Company Name] is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

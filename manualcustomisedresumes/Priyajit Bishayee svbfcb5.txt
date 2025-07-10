@@ -1,0 +1,44 @@
+Priyajit Bishayee
+Role: Senior
+
+Summary:
+Priyajit is a Senior in EY’s Financial Services Risk Management practice. He has 8+ years of experience in Banking and Financial Services.
+
+Qualifications and Training:
+
+MSc Statistics, IIT Kanpur (2014–2016)
+
+BSc Statistics, St. Xavier’s College, University of Calcutta (2011–2014)
+
+Key Relevant Experience:
+
+Validated $10B energy sector scorecard
+
+Basel capital model validations (PD, EAD, LGD)
+
+Operational Risk: Monte Carlo simulations, $30B RWA impact
+
+Stress testing models for CCAR
+
+ML/AI model validations (Logistic, Gradient Boosting)
+
+Built account-level survival models, EAD trees
+
+Developed CECL, IFRS9 models
+
+Estimated Weighted Average Life (WAL) for CCAR reports
+
+Mentored interns, drove audit resolution
+
+Technical Skills:
+
+Regulatory: Basel II/III, CCAR, IFRS9
+
+Tools: R, SAS, Python, Excel
+
+ML: Random Forest, Gradient Boosting, SVM, CART
+
+Modeling: GLM, spline, logistic regression
+
+Documentation: LaTeX, MS Word
+

@@ -1,0 +1,40 @@
+Yash Rai
+Summary
+Yash is a Senior in EY’s Financial Services Risk Management practice. He has 4 years of experience in data analytics projects, collaborating with cross functional teams and ensuring the accuracy and integrity of data and actionable insight. Skilled in statistical modelling, data analysis, predictive modelling, text mining, machine learning and deep learning.
+
+Qualifications and training
+
+B.E, Chitkara University
+
+Key relevant experience
+
+Applied SAS to construct and calibrate CCAR models, simulating balance sheet and P&L impacts under various stress scenarios to inform capital planning decisions for mid-size commercial loan portfolios.
+
+Designed SQL queries to retrieve and cleanse financial data, ensuring the integrity and consistency of inputs used in PPNR models for accurate revenue forecasting.
+
+Refined PPNR models using Python to incorporate new product features and changing business strategies, ensuring models remained relevant and aligned with market conditions.
+
+Conducted robust back-testing and sensitivity analysis for CCAR models using SAS, identifying key risk drivers and enhancing the predictive power of capital stress tests.
+
+Implemented CECL models in compliance with accounting standards, leveraging Python to integrate historical loss data with forward-looking economic indicators for consumer loan portfolios.
+
+Enhanced PPNR forecasting models with advanced econometric techniques in SAS, capturing the nuances of non-interest income and expense streams for asset management divisions.
+
+Collaborated with risk management teams to align CCAR model outputs with enterprise-wide risk appetite frameworks, providing critical input for risk mitigation strategies.
+
+Developed comprehensive documentation for CECL model methodologies, assumptions, and validation results, facilitating clear communication with auditors and regulatory examiners.
+
+Technical Skills
+
+Experience of regulatory regimes viz. Basel II/III, CCAR, IFRS9
+
+Model development and validation of credit risk models
+
+Stress Testing, Capital Policy & Capital Planning, CCAR Risk Analytics
+
+Advanced Excel, SAS, Python
+
+Model Risk Management
+
+Model Audit
+

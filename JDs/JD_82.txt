@@ -1,0 +1,33 @@
+ Job Title: Wholesale IRB Model Auditor (Python Specialist)
+
+Location: Remote/Hybrid (open to negotiation)
+
+Company Overview:
+[Company Name] is a leading financial institution specializing in investment banking and asset management services. Our success is driven by our commitment to innovation, regulatory compliance, and excellence in service delivery. We are currently seeking a skilled Wholesale IRB Model Auditor with proficiency in Python to join our Risk Management team.
+
+Job Overview:
+In this role, you will be responsible for conducting comprehensive audits of the Wholesale IRB (Internal Ratings-Based) models used within our organization. You will work closely with various departments to ensure that our models comply with regulatory requirements and industry best practices. Your expertise in Python will be essential in analyzing, validating, and documenting complex model structures and processes.
+
+Responsibilities:
+1. Conduct rigorous audits of the Wholesale IRB models, focusing on risk assessment methodologies, model calibration, and validation techniques.
+2. Collaborate with business units to understand their model requirements and ensure alignment with regulatory expectations.
+3. Develop Python scripts to automate model testing and validation processes, improving efficiency and accuracy.
+4. Analyze large datasets to identify trends, patterns, and potential issues within the models.
+5. Prepare detailed reports outlining findings, recommendations, and action plans for addressing any identified concerns.
+6. Stay updated on regulatory developments related to IRB modeling and maintain a deep understanding of industry best practices.
+7. Participate in various projects aimed at improving model risk management and governance frameworks across the organization.
+
+Qualifications:
+1. Bachelor's or Master's degree in Mathematics, Statistics, Economics, Finance, or a related quantitative field.
+2. Proven experience (minimum 5 years) in IRB modeling within the banking sector, with a focus on wholesale lending.
+3. Expertise in Python and strong programming skills. Familiarity with other relevant languages such as R, SAS, or SQL is a plus.
+4. Excellent analytical, problem-solving, and critical thinking abilities.
+5. Strong communication skills, both written and verbal, with the ability to explain complex concepts to non-technical stakeholders.
+6. Self-motivated and able to work independently as well as collaboratively in a team environment.
+7. Knowledge of risk management principles and regulatory requirements related to IRB modeling (e.g., Basel III).
+8. Experience working with various databases and data warehousing systems.
+9. Certification as a Financial Risk Manager (FRM) or similar is highly desirable.
+
+[Company Name] offers a competitive salary, comprehensive benefits package, and opportunities for professional development and growth. If you are passionate about risk management, data analysis, and Python, we encourage you to apply for this exciting opportunity.
+
+To apply, please submit your resume, cover letter, and any relevant examples of your Python work or projects through our online application system. We look forward to reviewing your application!

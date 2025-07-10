@@ -1,0 +1,21 @@
+Archit_Resume – Create a JD for a retail IRB model development requirement. Mention that SQL is a must.
+
+Summary:
+Archit Gupta is a Data Scientist with 6 years of experience in predictive modeling, machine learning, and advanced analytics. He has worked on various projects involving credit risk modeling, ticket volume prediction, demand forecasting, and more. His expertise includes SQL, Python, R, SAS, Logistic Regression, Natural Language Processing (NLP), and Machine Learning (ML).
+
+Qualifications:
+Archit Gupta has a Bachelor's degree in Economics from the University of Delhi and a MA in Financial Economics from the Madras School of Economics.
+
+Key Experience:
+- Citi Corp, Assistant Manager, Risk Modelling Unit (2022 - Present)
+- KPMG India, Consultant, FRM (2021 - 2022)
+- Cognizant Technology Solutions, Associate Data Scientist (2018 - 2021)
+
+Technical Skills:
+- SQL
+- Python
+- R
+- SAS
+- Logistic Regression
+- Natural Language Processing (NLP)
+- Machine Learning (ML)

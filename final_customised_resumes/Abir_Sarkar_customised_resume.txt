@@ -1,0 +1,13 @@
+Abir_Sarkar – Create a JD for a retail IRB model development requirement. Mention that SQL is a must.
+
+Summary:
+Abir is a highly skilled and experienced developer with expertise in SQL. His skills include designing, developing, testing and maintaining database schema, queries, reports and applications. He has previously worked on several projects where he successfully implemented retail IRB systems using SQL. Abir's technical skills include programming languages such as C, R, Python and LATEX.
+
+Qualifications:
+Abir holds a Masters of Statistics (M.Stat) from the Indian Statistical Institute in Kolkata with a specialization in Finance. He has previously interned at Big Data Summer Institute, University of Michigan, JPMorgan Chase & Co. and Capital One among others. His academic achievements include ranking 3rd in his B.Stat batch, qualifying for CMI Entrance, JEE ADVANCED, etc. He has also volunteered as a faculty member at the Ramanujan School of Mathematics for JEE, ISI and CMI Entrance exams.
+
+Key Experience:
+Abir has gained significant experience in SQL development through his work on retail IRB systems. His previous work includes full scope initial validation of Collateral Loss Given Default (LGD), full scope revalidation of Municipal LGD model, and peer review of TDRR PD models among others.
+
+Technical Skills:
+Abir is proficient in several programming languages such as C, R, Python and LATEX.

@@ -1,0 +1,33 @@
+ Job Title: Wholesale Scorecards Model Audit Specialist
+
+Company Overview:
+[Your Company Name] is a dynamic and fast-growing organization specializing in wholesale operations. We are currently seeking a skilled Wholesale Scorecards Model Audit Specialist to join our team. The ideal candidate will possess strong analytical skills, proficiency in SQL, and experience in auditing financial models.
+
+Job Description:
+
+As a Wholesale Scorecards Model Audit Specialist, you will be responsible for reviewing, validating, and ensuring the accuracy of our wholesale scorecard models. You will work closely with various departments to understand their needs and ensure that the models support effective decision-making.
+
+Key Responsibilities:
+
+1. Conduct thorough audits of wholesale scorecards models using SQL, identifying potential errors or inconsistencies.
+2. Collaborate with data analysts and financial modelers to improve the accuracy and efficiency of our models.
+3. Develop and implement best practices for model audit processes to ensure consistency across all departments.
+4. Identify opportunities for improvements in our scorecard models, and work with other teams to implement these changes.
+5. Provide training and support to colleagues on modeling techniques and audit procedures.
+6. Ensure compliance with industry standards and regulations related to financial modeling and reporting.
+7. Document findings and recommendations from audits, and present them to management for decision-making.
+8. Contribute to the continuous improvement of our wholesale operations by identifying trends and patterns in data.
+
+Qualifications:
+
+1. Bachelor's degree in Finance, Mathematics, Statistics, Economics, or a related field. An advanced degree is preferred.
+2. Proven experience in auditing financial models, preferably within the wholesale sector.
+3. Expert-level proficiency in SQL and strong knowledge of other statistical analysis tools.
+4. Strong analytical skills and attention to detail.
+5. Excellent communication skills, with the ability to explain complex concepts to non-technical audiences.
+6. Ability to work independently and manage multiple projects simultaneously.
+7. Knowledge of wholesale operations is a plus.
+
+[Your Company Name] values diversity and is an equal opportunity employer. We welcome applications from all qualified individuals regardless of race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+
+If you are passionate about financial modeling and auditing, and you want to make a significant impact in a growing company, we encourage you to apply for this exciting opportunity!

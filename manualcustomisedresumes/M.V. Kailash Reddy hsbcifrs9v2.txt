@@ -1,0 +1,26 @@
+1. M.V. Kailash Reddy
+B Tech., Mechanical Engineering | GCB 5
+
+Summary
+Kailash is a part of the Financial Services Risk Management practice of EY India with 5+ years of experience. He has expertise in credit analytics, data analytics, data science and risk analytics/decision sciences spanning multiple industries like Banking, Insurance.
+
+HSBC Experience
+Recalibration/redevelopment of scorecard models for HSBC retail portfolios (Credit Card, Personal Loans – EMEA region) using SAS.
+
+Collaborated with HBUK MMR team to support SS1/23 guideline implementation, perform PMA reviews, and generate RWA impact assessment reports.
+
+Model Validation
+IFRS9 LGD model validation for mortgages across Irish Bank geographies.
+
+Designed monitoring metrics (PSI, transfer criteria, PD/Loss curves, LGD, ECL) using Python.
+
+Conducted IFRS9 model reviews for Middle East banks including desktop review, reperformance, sensitivity testing, and benchmarking.
+
+Other Experience
+Developed IRB LGD model for a UK mortgage portfolio (data prep, EDA, calibration, testing, documentation).
+
+Used Python for performance testing – homogeneity, HHI, PSI, Spearman, AUC, etc.
+
+Built ELBE model for Irish bank’s IRB LGD using Python.
+
+IRB EAD and PD remediation for a UK bank.

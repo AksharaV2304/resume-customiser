@@ -1,0 +1,30 @@
+ Job Description: IFRS9 Model Auditor
+
+Company Overview:
+[Your Company Name] is a leading financial institution committed to delivering innovative solutions in the financial sector. We are currently seeking a skilled and experienced IFRS9 Model Auditor to join our team.
+
+Position Overview:
+The IFRS9 Model Auditor will be responsible for evaluating, testing, and verifying the accuracy and reliability of our retail IFRS9 models. The ideal candidate should have a strong background in financial modeling and risk management, with proficiency in using advanced statistical software such as R.
+
+Responsibilities:
+1. Conduct comprehensive audits of the retail IFRS9 models, identifying potential issues and recommending improvements.
+2. Design and implement audit methodologies to test model assumptions, data quality, and validation procedures.
+3. Collaborate with the modeling team to understand the underlying structures and logic of our IFRS9 models.
+4. Perform stress tests and sensitivity analyses to assess the robustness and resilience of the models under various scenarios.
+5. Document findings, conclusions, and recommendations in clear and concise reports for senior management.
+6. Keep abreast of regulatory developments related to IFRS9 and banking risk management.
+7. Participate in projects aimed at improving our model governance framework and ensuring compliance with relevant regulations.
+
+Requirements:
+1. Master's degree in Finance, Economics, Mathematics, Statistics, or a related field.
+2. Minimum of 5 years of experience in IFRS9 modeling, risk management, or financial analysis within the banking sector.
+3. Proficiency in R and other statistical software packages.
+4. Strong analytical skills and the ability to interpret complex data sets.
+5. Excellent communication skills with the ability to explain technical concepts to non-technical stakeholders.
+6. Knowledge of IFRS9, banking regulations, and risk management principles.
+7. Ability to work independently and collaboratively in a fast-paced environment.
+8. Strong problem-solving abilities and attention to detail.
+
+We offer a competitive salary and benefits package, along with opportunities for professional growth and development. If you are passionate about financial modeling, risk management, and IFRS9, we would love to hear from you.
+
+[Your Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

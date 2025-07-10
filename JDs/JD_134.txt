@@ -1,0 +1,36 @@
+ Job Title: Wholesale AI/ML Model Developer (Python Specialist)
+
+Location: [Your Location or Remote]
+
+Company Overview:
+[Briefly describe your company, its mission, and its place in the industry.]
+
+Job Description:
+
+We are seeking an experienced and skilled Wholesale AI/ML Model Developer with a strong proficiency in Python to join our dynamic team. The successful candidate will be responsible for designing, developing, testing, and deploying state-of-the-art machine learning models that drive business growth in our wholesale division.
+
+Key Responsibilities:
+1. Collaborate with data scientists, engineers, and business stakeholders to understand and solve complex AI/ML problems within the wholesale domain.
+2. Develop and maintain high-quality AI/ML models using Python and various machine learning libraries such as TensorFlow, Scikit-learn, or PyTorch.
+3. Work on improving existing models, optimizing for performance, and implementing new features.
+4. Design and implement machine learning algorithms to solve business problems, such as demand forecasting, customer segmentation, and fraud detection.
+5. Collaborate with data engineering teams to ensure seamless integration of AI/ML models into production environments.
+6. Document all development processes, models, and code in a clear and concise manner for future reference.
+7. Continuously research and stay updated on the latest trends, developments, and best practices in AI/ML model development.
+8. Collaborate with cross-functional teams to understand business needs and translate them into technical solutions.
+9. Participate in code reviews and contribute to a positive team culture focused on continuous improvement and learning.
+10. Work closely with data analysts and data scientists to identify opportunities for model improvement and innovation.
+
+Qualifications:
+1. Bachelor's or Master's degree in Computer Science, Mathematics, Statistics, Engineering, or a related field.
+2. Proven experience in AI/ML model development using Python and popular machine learning libraries.
+3. Strong understanding of machine learning algorithms, deep learning, reinforcement learning, and natural language processing.
+4. Familiarity with cloud platforms (e.g., AWS, Google Cloud, Azure) and containerization technologies (e.g., Docker, Kubernetes).
+5. Excellent problem-solving skills and the ability to work in a fast-paced environment.
+6. Strong communication skills, both written and verbal, with an ability to effectively collaborate with diverse teams.
+7. Passion for AI/ML technologies and a commitment to continuous learning and improvement.
+8. Experience working within the wholesale industry is preferred but not essential.
+
+We offer a competitive salary, comprehensive benefits, and a dynamic work environment that encourages innovation, collaboration, and personal growth. If you are passionate about AI/ML and ready to make an impact in the wholesale industry, we would love to hear from you!
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

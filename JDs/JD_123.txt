@@ -1,0 +1,39 @@
+ Job Title: Senior Wholesale CCAR Model Developer (SAS Expert)
+
+Location: [City, State]
+
+Company Overview:
+[Company Name] is a leading financial institution committed to delivering innovative solutions in the banking industry. We are currently seeking a highly skilled and experienced Senior Wholesale CCAR Model Developer with expertise in SAS to join our team.
+
+Job Description:
+
+As a Senior Wholesale CCAR Model Developer, you will be responsible for developing, maintaining, and enhancing wholesale Credit Risk Analytic Review (CCAR) models using SAS. You will collaborate closely with various business units, risk management teams, and model validation groups to ensure the accuracy, reliability, and regulatory compliance of our CCAR models.
+
+Responsibilities:
+
+* Develop and maintain wholesale CCAR models using SAS programming languages (SAS Base, SAS/MACRO, SAS/IML, and SAS/ETS)
+* Collaborate with stakeholders to understand and address business requirements for CCAR modeling
+* Validate and ensure the integrity of data used in CCAR models
+* Participate in stress testing exercises and scenario analyses
+* Provide support in model documentation and model validation processes
+* Contribute to the continuous improvement of our CCAR models and processes
+
+Qualifications:
+
+* Bachelor's or Master's degree in Mathematics, Statistics, Econometrics, Computer Science, Finance, or a related field
+* Minimum of 5 years of experience in wholesale CCAR model development using SAS
+* Strong knowledge of credit risk modeling, stress testing, and regulatory requirements (DFAST, Dodd-Frank Act)
+* Familiarity with various credit risk measures such as Expected Credit Losses (ECL), Value-at-Risk (VaR), and Economic Capital (EC)
+* Proven ability to work collaboratively in a cross-functional team environment
+* Excellent problem-solving skills and strong analytical abilities
+* Strong communication, presentation, and interpersonal skills
+* Validated experience with CCAR model development is preferred
+
+We Offer:
+
+* Competitive salary and benefits package
+* Opportunities for professional growth and career advancement
+* Collaborative work environment that values innovation and diversity
+* Flexible working arrangements to ensure work-life balance
+
+[Company Name] is an Equal Employment Opportunity (EEO) employer and welcomes all qualified applicants. If you are passionate about CCAR model development and have a strong background in SAS, we would love to hear from you!

@@ -1,0 +1,31 @@
+ Job Title: IFRS9 Model Developer (Python Specialist)
+
+Company Overview:
+[Company Name] is a leading retail organization committed to innovation and excellence in the financial sector. We are seeking an experienced and dedicated IFRS9 Model Developer with expertise in Python to join our dynamic team.
+
+Job Description:
+
+We are looking for an exceptional IFRS9 Model Developer who will be responsible for designing, developing, testing, and implementing advanced IFRS9 models using Python. The ideal candidate should have a strong understanding of financial instruments, accounting principles (specifically IFRS9), and risk management.
+
+Responsibilities:
+1. Develop, maintain, and enhance the retail IFRS9 model using Python.
+2. Collaborate with quantitative analysts, actuaries, and other stakeholders to ensure the accuracy, reliability, and efficiency of the models.
+3. Perform data analysis to identify trends, patterns, and potential issues in the financial data.
+4. Validate the models against regulatory requirements and industry best practices.
+5. Participate in model risk management activities, including scenario analyses, stress testing, and backtesting.
+6. Document the development process, assumptions, and results for regulatory reporting and internal review purposes.
+7. Stay updated on industry trends, regulatory changes, and emerging technologies that could impact the models.
+
+Qualifications:
+1. Master's degree in Finance, Mathematics, Statistics, Econometrics, or a related quantitative field.
+2. Minimum of 5 years of experience in financial modeling, preferably in a retail environment.
+3. Proficiency in Python, with a strong understanding of libraries such as NumPy, Pandas, and Scikit-learn.
+4. Knowledge of IFRS9 accounting standards and financial risk management principles.
+5. Strong problem-solving skills, attention to detail, and the ability to work under pressure.
+6. Excellent communication and collaboration skills.
+7. Experience working with large datasets and SQL databases is a plus.
+8. Familiarity with cloud computing platforms (e.g., AWS, Azure) would be advantageous.
+
+[Company Name] offers competitive compensation packages, including comprehensive benefits and opportunities for professional growth. If you are passionate about financial modeling, have strong Python skills, and are excited to join a dynamic team, we encourage you to apply for this exciting opportunity.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

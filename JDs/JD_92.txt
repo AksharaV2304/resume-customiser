@@ -1,0 +1,28 @@
+ Job Title: Senior IFRS9 Model Validation Specialist
+
+Location: [City, Country]
+
+Company Overview:
+[Company Name] is a leading financial institution committed to providing top-tier financial services. We are currently seeking a highly skilled and experienced Senior IFRS9 Model Validation Specialist to join our team. The successful candidate will have a strong understanding of IFRS9 regulations, exceptional SQL skills, and the ability to ensure the integrity and compliance of our model validations.
+
+Responsibilities:
+1. Conduct thorough validation of the institution's IFRS9 models, ensuring they comply with regulatory requirements and industry best practices.
+2. Utilize advanced SQL techniques for data extraction, manipulation, and analysis to support model validation tasks.
+3. Collaborate with various departments, including Risk Management, Finance, and IT, to understand the functionalities of IFRS9 models, identify potential issues, and recommend improvements.
+4. Develop and maintain documentation detailing the validation process, findings, and recommendations.
+5. Stay updated on industry trends, regulatory changes, and best practices related to IFRS9 model validations.
+6. Participate in internal and external audits, providing expert insights and assistance.
+7. Contribute to the continuous improvement of our model validation processes and tools.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, Statistics, Computer Science, or a related field.
+2. Proven experience in IFRS9 model validation within a financial institution.
+3. Strong SQL skills, with the ability to write complex queries and handle large datasets.
+4. Knowledge of financial modeling, risk management, and regulatory requirements, particularly IFRS9.
+5. Excellent analytical and problem-solving skills.
+6. Strong communication and interpersonal skills, with the ability to explain complex concepts in a clear and concise manner.
+7. Ability to work independently and as part of a team in a fast-paced environment.
+8. Certifications such as CFA, FRM, or MSCR are considered a plus.
+
+How to Apply:
+Interested candidates are invited to submit their resume, cover letter, and transcripts (if applicable) through our online application system. Only qualified candidates will be contacted for an interview. [Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

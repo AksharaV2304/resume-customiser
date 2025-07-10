@@ -1,0 +1,25 @@
+ Job Description: Retail CCAR Model Auditor
+
+Position Overview:
+We are seeking a highly skilled and experienced Retail Credit Risk and Capital Adequacy Ratio (CCAR) Model Auditor to join our team. The successful candidate will be responsible for the independent review of our retail credit risk models, ensuring their accuracy, reliability, and compliance with regulatory requirements. Python programming skills are essential for this role.
+
+Responsibilities:
+1. Review and validate retail credit risk models, including probability of default (PD), loss given default (LGD), and exposure at default (EAD) models, using Python and other relevant tools.
+2. Perform stress tests and scenario analyses to assess the robustness and sensitivity of the models under various economic conditions.
+3. Identify and document any issues or weaknesses in the models and work with the model development team to address them.
+4. Prepare comprehensive reports detailing the findings of the audits, including recommendations for improvements.
+5. Stay abreast of regulatory changes related to credit risk modeling and capital adequacy ratios, and ensure that our models are in compliance with these changes.
+6. Collaborate with other teams within the organization to integrate model outcomes into overall risk management decisions.
+7. Participate in CCAR submission process, providing input and support as needed.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, Statistics, Computer Science, or a related field.
+2. Minimum of 5 years of experience in credit risk modeling, preferably within the retail banking sector.
+3. Strong Python programming skills and experience with other relevant tools such as R, SQL, SAS, or Matlab.
+4. In-depth understanding of credit risk concepts, including PD, LGD, EAD, and expected credit losses (ECL).
+5. Knowledge of regulatory requirements related to CCAR, Basel III, and Dodd-Frank Act.
+6. Excellent analytical, problem-solving, and communication skills.
+7. Ability to work independently as well as in a team environment.
+8. Strong attention to detail and ability to handle confidential information with discretion.
+
+We offer a competitive salary and benefits package, opportunities for professional development, and a dynamic work environment. If you are passionate about credit risk modeling and have the required skills and experience, we encourage you to apply for this exciting opportunity.

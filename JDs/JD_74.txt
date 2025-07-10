@@ -1,0 +1,28 @@
+ Job Title: Wholesale IRB Model Developer (Python Specialist)
+
+Company Overview:
+[Your Company Name] is a leading financial institution seeking a highly skilled and motivated Wholesale IRB Model Developer with a focus on Python programming to join our team. Our company is committed to fostering an innovative environment that encourages continuous learning, collaboration, and growth.
+
+Job Description:
+We are currently seeking a talented and dedicated Wholesale IRB Model Developer (Python Specialist) to design, develop, and implement advanced credit risk models for our wholesale lending portfolio. The successful candidate will be responsible for leveraging their technical expertise in Python to create and maintain cutting-edge IRB models that enhance our risk assessment capabilities.
+
+Responsibilities:
+1. Collaborate with the risk management, quantitative analysis, and IT teams to develop advanced IRB models for wholesale lending portfolios.
+2. Design, code, test, and deploy high-quality Python scripts and models that meet business requirements and regulatory standards.
+3. Conduct model validation and backtesting to ensure accuracy, robustness, and compliance with relevant regulations.
+4. Collaborate on the documentation of models and associated methodologies for internal and external stakeholders.
+5. Stay abreast of industry developments and best practices in credit risk modeling and Python programming.
+6. Contribute to the development and improvement of our model governance framework.
+7. Provide support and guidance to other team members, as needed.
+
+Qualifications:
+1. Bachelor's or Master's degree in Mathematics, Statistics, Economics, Computer Science, or a related field.
+2. Proven experience in credit risk modeling, preferably within the wholesale lending sector.
+3. Strong Python programming skills, including expertise in libraries such as NumPy, SciPy, and pandas.
+4. Knowledge of credit risk frameworks (Basel II/III) and IRB approach.
+5. Familiarity with statistical analysis and machine learning techniques.
+6. Excellent problem-solving abilities and attention to detail.
+7. Strong communication skills, both written and verbal, with the ability to explain complex concepts clearly to various stakeholders.
+8. Self-motivated, adaptable, and able to work effectively in a team environment.
+
+[Your Company Name] is an equal opportunity employer that values diversity and inclusion. We welcome applicants from all backgrounds to apply for this exciting opportunity. If you are passionate about credit risk modeling and Python programming, we encourage you to join our dynamic team!

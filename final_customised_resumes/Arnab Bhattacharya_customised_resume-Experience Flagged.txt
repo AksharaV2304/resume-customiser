@@ -1,0 +1,18 @@
+Arnab Bhattacharya – Create a JD for a retail IRB model development requirement. Mention that SQL is a must.
+
+Summary:
+"The candidate's current position is as Data Analyst, and possesses expertise in financial modeling, market research, machine learning, R, SAS, SPSS, Python, ERP, Tableau, and advanced Excel. The job description requires a specialist in IRB model development for the retail industry with proficiency in SQL and large datasets analysis. Therefore, the candidate would be an excellent fit for this role."
+
+Qualifications:
+• Degree in Computer Science, Data Analytics, Mathematics, Statistics or related field
+• At least 3 years of experience developing IRB models using SQL and other related technologies
+• Strong analytical skills and ability to work with large datasets
+
+Key Experience:
+• More than 2 years of experience as a data analyst
+• Experience in financial modeling, market research, machine learning, R, SAS, SPSS, Python, ERP, Tableau, and advanced Excel.
+
+Technical Skills:
+• Proficient in SQL and large datasets analysis
+• Strong analytical skills
+• Ability to work with advanced technologies such as R, SAS, SPSS, Python, ERP, Tableau, and advanced Excel.

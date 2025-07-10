@@ -1,0 +1,138 @@
+Senior – Vaibhav Yadav
+Summary
+Vaibhav is a Senior in EY’s Financial Services Risk Management practice. He has 4+ years of experience in the Banking and Financial Services industry. Proficient in CCAR/DFAST PD/LGD/EAD model development, and stress testing as per CCAR/CECL norms for Commercial portfolio.
+
+Qualifications and training
+
+MA Economics, Delhi University, 2021
+
+BA(H) Economics, Delhi University, 2019
+
+Key relevant experience
+
+Contributed to Macro Modelling and model monitoring for Interest Rates and Macro variables.
+
+Quarterly reviewed and adjusted projection paths for these variables under different scenarios including CCAR BHC & FRB, 5 Firm internal Macro Scenarios, and Climate FRBCSA pilot project scenarios.
+
+Worked on Climate Fed Pilot Project to create long term (40Q) forecasts for variables, along with Modelling granular sector level GVAs to better capture Climate scenario impact.
+
+Owned Geopolitical Asia Escalation scenario with in Firm Macro Scenarios and delivered quarterly forecasts.
+
+Worked on dataset production for ~1300 user claimed variables.
+
+Engaged in DQ checks, usual data fixes, sourcing data from multiple data providers, running scenarios and creating projection sets.
+
+Worked on python script to make the DQ checks process more focused by significantly detecting 98% (350k Standalone Issues and 700k comparison issues) as non-material and recurring and introduced priority segmentation of issues significantly reducing the effort.
+
+Engaged in quantitative model validation of PPNR models in accordance with CCAR and SR 11-7 Guidelines.
+
+Analysed model methodology and formulation; risk associated with model assumptions and limitations.
+
+Appraising the input data; conducting statistical testing of variables and model residuals using SAS.
+
+Evaluating model outputs; overrides and overlays.
+
+Assisted in the validation and back-testing of CECL models for consumer lending portfolios, ensuring compliance with accounting standards and regulatory expectations.
+
+Led monthly macro monitoring, prepared deck and Flash Reports (presented to downstream users) regarding recent developments in economic environment.
+
+Technical Skills
+
+Experience of regulatory regimes viz. Basel II/III, CCAR, IFRS9
+
+Model development and validation of credit risk models
+
+Stress Testing, Capital Policy & Capital Planning, CCAR Risk Analytics
+
+Advanced Excel, SAS, Python
+
+Model Risk Management
+
+Model Audit
+
+Senior – Susmita Misra
+Summary
+Susmita is a Senior in the Financial Services Risk Management practice of EY India focusing on Credit Risk Analytics, regulatory modelling, Model monitoring and validation with 3 years of experience. She has worked largely with credit model development and validation team for Global Banks in financial services domain.
+
+Qualifications and training
+
+B.Sc. in Statistics from Guwahati University in 2018
+
+Post Graduation Diploma in Statistics and Analytics from ISI in 2019
+
+Key relevant experience
+
+For a European Bank, worked with the ERM PPNR Stress testing team.
+
+Responsible for the syndication of PPNR-stressed projections for the IB division.
+
+Quantified and assessed the capital requirements for business risk under semi-annual and quarterly internal group stress testing exercises.
+
+Contributed to the design and calibration of econometric models for PPNR forecasting, focusing on deposit and fee income portfolios.
+
+Supported the execution of CCAR scenario analysis for trading and asset management portfolios, providing insights into market and operational risks.
+
+Managed the PPNR modelling process for consumer credit portfolios, incorporating behavioural and macroeconomic variables to improve forecast accuracy.
+
+Coordinated with risk management and finance teams to integrate CCAR stress testing results into the bank's capital planning and risk appetite framework.
+
+Played a pivotal role in the end-to-end process of CECL model development, from data collection to model deployment, for mortgage and commercial loan portfolios.
+
+For a G-SIB bank, validated their logistic regression-based PD models for unsecured Credit portfolio.
+
+Conducted back-testing, benchmarking, and sensitivity analysis of the CCAR models for the bank’s quarterly and annual reviews.
+
+Technical Skills
+
+Experience of regulatory regimes viz. Basel II/III, CCAR, IFRS9
+
+Model development and validation of credit risk models
+
+Stress Testing, Capital Policy & Capital Planning, CCAR Risk Analytics
+
+Advanced Excel, SAS, Python
+
+Model Risk Management
+
+Model Audit
+
+Senior – Yash Rai
+Summary
+Yash is a Senior in EY’s Financial Services Risk Management practice. He has 4 years of experience in data analytics projects, collaborating with cross functional teams and ensuring the accuracy and integrity of data and actionable insight. Skilled in statistical modelling, data analysis, predictive modelling, text mining, machine learning and deep learning.
+
+Qualifications and training
+
+B.E, Chitkara University
+
+Key relevant experience
+
+Applied SAS to construct and calibrate CCAR models, simulating balance sheet and P&L impacts under various stress scenarios to inform capital planning decisions for mid-size commercial loan portfolios.
+
+Designed SQL queries to retrieve and cleanse financial data, ensuring the integrity and consistency of inputs used in PPNR models for accurate revenue forecasting.
+
+Refined PPNR models using Python to incorporate new product features and changing business strategies, ensuring models remained relevant and aligned with market conditions.
+
+Conducted robust back-testing and sensitivity analysis for CCAR models using SAS, identifying key risk drivers and enhancing the predictive power of capital stress tests.
+
+Implemented CECL models in compliance with accounting standards, leveraging Python to integrate historical loss data with forward-looking economic indicators for consumer loan portfolios.
+
+Enhanced PPNR forecasting models with advanced econometric techniques in SAS, capturing the nuances of non-interest income and expense streams for asset management divisions.
+
+Collaborated with risk management teams to align CCAR model outputs with enterprise-wide risk appetite frameworks, providing critical input for risk mitigation strategies.
+
+Developed comprehensive documentation for CECL model methodologies, assumptions, and validation results, facilitating clear communication with auditors and regulatory examiners.
+
+Technical Skills
+
+Experience of regulatory regimes viz. Basel II/III, CCAR, IFRS9
+
+Model development and validation of credit risk models
+
+Stress Testing, Capital Policy & Capital Planning, CCAR Risk Analytics
+
+Advanced Excel, SAS, Python
+
+Model Risk Management
+
+Model Audit
+

@@ -1,0 +1,37 @@
+Sahil Patil
+Role: Senior
+
+Summary:
+Sahil is a Senior in EY’s FSRM practice with ~3 years of experience in credit risk model validation, ICAAP, and stress testing.
+
+Qualifications and Training:
+
+FRM Certified (GARP), 2024
+
+MBA (Decision Sciences & Analytics), NMIMS, 2021
+
+B.Com, R.A. Podar College, 2018
+
+Key Relevant Experience:
+
+Revalidated PD, EAD, LGD models for CCAR
+
+Built delinquency bucket model using Python for RWA
+
+Built stress testing, scenario analysis frameworks
+
+Developed models for liquidity, credit, interest rate risk
+
+Validated models via R-Ratio, Stress Ratio
+
+Developed PD/LGD models per Ind AS 109 / IFRS 9
+
+Drafted risk appetite statements
+
+Built VAR model for trading book
+
+Technical Skills:
+Python, SAS, SQL, Power BI, Tableau
+Linear/Logistic Regression, Decision Trees, Survival Analysis
+IFRS9, CCAR, CECL, ICAAP, IRB, SR 11-7/15-18/15-19
+

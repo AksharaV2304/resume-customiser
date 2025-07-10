@@ -1,0 +1,23 @@
+Rahul Kushwaha
+Role: Senior
+
+Summary:
+Rahul Kushwaha is a Senior in EY's Financial Services Risk Management practice with 2+ years of experience.
+Worked on credit risk model validation, time-series analytics, and financial decision-making models.
+
+Qualifications and Training:
+
+MSc. Quantitative Economics, ISI New Delhi, 2023
+
+B.A. Hons (Economics), University of Delhi, 2020
+
+Key Relevant Experience:
+
+Time series model validation for Securities, IB, Lending
+
+Created interactive validation dashboards in Python
+
+Designed loan disbursement analytics leading to ₹30Cr+ increase
+
+Technical Skills:
+Python, R, SQL, STATA, LaTeX, MS Office

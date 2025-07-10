@@ -1,0 +1,33 @@
+3. Debsubhra Ghosh – Manager
+Summary:
+
+5+ years in BFSI with focus on PPNR, CCAR models, credit risk scorecards.
+
+Qualifications:
+
+M.Sc. Statistics, Ballygunge Science College (2017)
+
+B.Sc. Statistics, RKM Residential College (2015)
+
+Key Experience:
+
+PPNR model development for 9-quarter forecasts (AUM, AUC).
+
+Revenue forecasting for Investment Banking under macro stress.
+
+Worked on CECL and CCAR with PD, LGD, EAD models.
+
+Built scorecards using logistic regression, reject inference.
+
+Created automation tools for WOE binning and data quality.
+
+Technical Skills:
+
+SAS, Python
+
+Time Series Analysis
+
+Credit Risk Scorecards
+
+MS Office
+

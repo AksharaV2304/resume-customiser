@@ -1,0 +1,28 @@
+ Job Description: Retail Stress Testing Model Auditor
+
+Company Overview:
+[Company Name] is a leading retail organization seeking an experienced and highly skilled Retail Stress Testing Model Auditor. The successful candidate will play a crucial role in ensuring the integrity, accuracy, and compliance of our risk management models.
+
+Responsibilities:
+1. Conduct thorough audits of retail stress testing models, identifying potential issues or areas for improvement.
+2. Utilize R programming language extensively to analyze and manipulate data, develop models, and perform stress tests.
+3. Collaborate with various departments to understand business requirements and ensure model outputs align with expectations.
+4. Assess the robustness of models under different scenarios, including adverse market conditions.
+5. Document findings and recommendations in a clear and concise manner, providing actionable insights to improve model performance.
+6. Stay updated on industry best practices, regulatory guidelines, and emerging trends in retail risk management.
+7. Participate in the development of internal policies and procedures related to stress testing models.
+
+Qualifications:
+1. Bachelor's or Master's degree in Mathematics, Statistics, Economics, Finance, or a related field. Advanced degrees are preferred.
+2. Proven experience in auditing or validating risk management models within the retail sector.
+3. Expertise in R programming language is essential; knowledge of other languages such as Python and SAS is a plus.
+4. Strong understanding of stress testing methodologies, risk management principles, and financial markets.
+5. Excellent analytical skills, attention to detail, and problem-solving abilities.
+6. Exceptional communication skills, both written and verbal.
+7. Ability to work independently as well as collaborate effectively with cross-functional teams.
+8. Experience in a regulated environment is preferred but not required.
+9. Familiarity with regulatory guidelines such as Basel III, CCAR, and DFAST is a plus.
+
+[Company Name] offers a competitive salary, comprehensive benefits package, and an excellent work environment that fosters growth and development. If you are passionate about risk management, data analysis, and have a strong desire to make a significant impact in the retail industry, we encourage you to apply for this exciting opportunity.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

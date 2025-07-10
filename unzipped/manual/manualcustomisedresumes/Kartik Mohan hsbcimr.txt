@@ -1,0 +1,33 @@
+ Kartik Mohan
+MA in Economics
+GCB 6
+
+Summary
+Kartik has 5+ years of experience in statistical analysis and credit risk modelling for global banks. He specializes in model validation and development using Python with focus on credit/market risk models and regulatory frameworks.
+
+Experience
+Model Validation
+
+IFRS 9 model remediation/validation (PD, LGD, EAD, ECL)
+
+Reviewed development documentation; executed validation testing
+
+Backtesting and benchmarking against realized performance
+
+Stability checks, discriminatory power (AUC, KS), data quality
+
+Applied overlays (macro risk factors) for CRE portfolio
+
+Documented overlays, assumptions in Python
+
+Validated RNIV market risk models (assumptions testing, benchmarking, reporting)
+
+Other Experience
+
+Backfilling model for inflation-linked interest rate curves (Python)
+
+RNIV Z-spread models, EUDA Excel tools for capital requirement
+
+PD model dev (logistic regression, Python) for US consumer portfolio
+
+Authored article on MRM challenges (TRIM, FRTB, SR 11-7)

@@ -1,0 +1,41 @@
+Stuti Mehrotra
+Role: Senior
+
+Summary:
+
+Stuti is a seasoned professional in EY's Financial Services Risk Management practice with over 2 years of specialized experience in the Banking and Financial Services sector.
+
+Proficient in developing and validating PPNR forecasting models for capital planning and revenue projections under the CCAR framework.
+
+Qualifications and Training:
+
+M.Sc. Financial Economics, Gokhale Institute of Politics and Economics, 2022
+
+B.A. (Hons) Economics, University of Delhi, 2018
+
+Technical Skills:
+
+Regulatory experience: Basel II/III, CCAR, IFRS9
+
+Tools: SAS, Python, R, SQL, Advanced Excel, Tableau
+
+Expertise: Model Development, Validation, Stress Testing, Risk Analytics, Model Risk Management
+
+Key Relevant Experience:
+
+Independently developed and implemented PPNR models for CCAR 9Q forecasting at a major US financial institution.
+
+Designed and executed stress testing to assess model resilience under adverse economic conditions.
+
+Created an Ongoing Monitoring framework for tracking model performance.
+
+Applied advanced econometrics (e.g., Multivariate Linear Regression on time-series data) to forecast financial metrics.
+
+Collaborated cross-functionally with risk, finance, and IT for strategic model integration.
+
+Validated models via back-testing, scenario/sensitivity analysis, and coefficient stability checks.
+
+Cleaned and verified financial datasets used for CCAR reporting and capital stress testing.
+
+Designed a Tableau dashboard to visualize CCAR model outputs for improved stakeholder understanding.
+

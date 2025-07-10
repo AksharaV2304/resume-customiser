@@ -1,0 +1,24 @@
+ Job Description: Retail Credit Risk Model Auditor
+
+Company Overview:
+[Company Name] is a leading retail organization committed to delivering exceptional customer experiences while maintaining robust financial stability. We are currently seeking a highly skilled and experienced Retail Credit Risk Model Auditor to join our team.
+
+Responsibilities:
+1. Conduct thorough audits of the retail credit risk models, ensuring compliance with regulatory requirements such as CCAR (Comprehensive Capital Analysis and Review).
+2. Utilize industry-standard tools, particularly SAS, for data analysis and model validation within the audit process.
+3. Collaborate with various departments, including Risk Management, Finance, and IT, to understand the underlying assumptions, methodologies, and data sources of our credit risk models.
+4. Identify potential issues or weaknesses in the models and recommend improvements or corrective actions to mitigate risks.
+5. Document findings and recommendations in a clear and concise manner, providing actionable feedback to model owners.
+6. Stay updated on industry best practices, regulatory guidelines, and emerging trends related to credit risk modeling and audit.
+7. Contribute to the development of internal policies and procedures for credit risk model auditing.
+
+Requirements:
+1. Bachelor's or Master's degree in a quantitative field such as Mathematics, Statistics, Economics, or Finance.
+2. Proven experience in credit risk modeling audit within the retail sector, with a strong understanding of CCAR requirements.
+3. Expertise in SAS for data analysis and model validation is essential. Familiarity with other programming languages (e.g., Python, R) would be advantageous.
+4. Strong analytical skills, attention to detail, and the ability to work independently as well as collaboratively within a team.
+5. Excellent communication skills, both written and verbal, to effectively convey complex information to various stakeholders.
+6. Knowledge of banking regulations, risk management principles, and credit risk models is highly desirable.
+7. CFA, FRM, or similar professional designation is preferred but not required.
+
+[Company Name] offers a competitive salary and benefits package, as well as opportunities for career growth and advancement. If you are passionate about credit risk modeling, have a strong analytical mind, and are eager to contribute to the success of a leading retail organization, we encourage you to apply for this exciting opportunity.

@@ -1,0 +1,13 @@
+Rajvi Doshi – Create a JD for a retail IFRS9 model validation requirement. Mention that SQL is a must.
+
+Summary:
+Rajvi Doshi is an experienced credit risk modeller with expertise in IFRS9 and model validation. She has worked on validating financial models for Standard Chartered Bank's Consumer and SME portfolios, and developed an IRB PD model for India’s retail loan against property portfolio.
+
+Qualifications:
+Rajvi Doshi is a M.Sc. In Statistics from SVKM’s NMIMS School of Science with a CGPA of 3.84/4.00. She has also completed her B.Sc. In Statistics from Mithibai College with a percentage of 7.00 and Higher Secondary from Shri T.P. Bhatia College of Science with 92%.
+
+Key Experience:
+Rajvi Doshi currently works as an Associate Director at CPM Risk Analytics, where she drives engagements involving BAU development of scorecards, portfolio diagnostics and risk decisioning for ad-hoc business requirements. Prior to that, Rajvi worked in Kotak Mahindra Bank's Business Intelligence Unit on propensity models and customer insights of liability customers.
+
+Technical Skills:
+Rajvi Doshi is proficient in SAS 9.4 Advanced Programming (Certified Professional) and SAS e-Miner (Certified Predictive Modeller). She also has experience with R, Python, SQL, and advanced Excel.

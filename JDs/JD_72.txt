@@ -1,0 +1,29 @@
+ Job Description: Retail AI/ML Model Auditor
+
+Position Overview:
+We are seeking a highly skilled and experienced Retail AI/ML Model Auditor to join our dynamic team. The ideal candidate will have a strong background in artificial intelligence, machine learning, data analytics, and a deep understanding of SQL.
+
+Responsibilities:
+1. Conduct comprehensive audits of our retail AI/ML models to ensure they are functioning correctly, efficiently, and ethically.
+2. Identify potential issues, biases, or discrepancies in the models and propose solutions to mitigate them.
+3. Collaborate with data scientists, engineers, and other stakeholders to understand the model's architecture, inputs, outputs, and business objectives.
+4. Utilize SQL for data extraction, manipulation, and analysis to gain insights into the performance of AI/ML models.
+5. Develop and implement best practices for model governance, transparency, and compliance with relevant regulations.
+6. Contribute to the continuous improvement of our AI/ML models by providing recommendations based on audit findings and industry trends.
+7. Collaborate with various teams to understand business requirements and translate them into technical specifications for model development and auditing.
+8. Stay updated with the latest advancements in AI, ML, and data analytics, and apply this knowledge to improve our models and auditing processes.
+9. Document audit findings and present them effectively to stakeholders, including senior management and technical teams.
+10. Foster a culture of data-driven decision making by promoting the understanding and utilization of AI/ML models within the organization.
+
+Qualifications:
+1. Bachelor's or Master's degree in Computer Science, Data Science, Mathematics, Statistics, Engineering, or a related field.
+2. Proven experience in auditing AI/ML models in a retail or similar industry.
+3. Strong proficiency in SQL for data extraction, manipulation, and analysis.
+4. Familiarity with AI/ML frameworks such as TensorFlow, PyTorch, Scikit-learn, etc.
+5. Knowledge of statistical analysis and machine learning algorithms.
+6. Excellent problem-solving skills and the ability to work independently and in a team environment.
+7. Strong communication skills, both written and verbal, with the ability to explain complex technical concepts to non-technical stakeholders.
+8. Self-motivated, detail-oriented, and able to manage multiple projects simultaneously.
+9. Passionate about staying updated with AI/ML trends and best practices.
+
+We offer a competitive salary, comprehensive benefits, opportunities for professional development, and a dynamic work environment. If you are passionate about AI/ML and want to make a significant impact on our retail operations, we encourage you to apply!

@@ -1,0 +1,28 @@
+ Job Description: Retail AI/ML Model Auditor
+
+Position Overview:
+We are seeking a highly skilled and motivated Retail AI/ML Model Auditor to join our dynamic team. The ideal candidate will have a strong background in data science, machine learning, and artificial intelligence, with proficiency in Python as a must. This role involves reviewing and evaluating the performance, accuracy, fairness, and reliability of AI/ML models used in our retail operations.
+
+Responsibilities:
+1. Conduct comprehensive audits of AI/ML models to ensure they meet quality standards and comply with regulations.
+2. Analyze model performance metrics, identify areas for improvement, and propose solutions to optimize model efficiency.
+3. Collaborate with data scientists, engineers, and business stakeholders to understand the underlying algorithms, data sources, and business objectives.
+4. Assess and mitigate potential bias in AI/ML models to ensure fairness and non-discrimination.
+5. Develop and implement strategies for continuous model monitoring and validation.
+6. Stay abreast of industry trends, best practices, and advancements in AI/ML to continuously improve our models and processes.
+7. Document findings, recommendations, and improvements in a clear and concise manner for various stakeholders.
+8. Contribute to the development of internal policies and guidelines for responsible AI/ML model deployment.
+
+Qualifications:
+1. Master's degree in Computer Science, Data Science, Machine Learning, Artificial Intelligence, or related field. A Ph.D. is preferred.
+2. Extensive experience with Python, including libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, and PyTorch.
+3. Proven experience in AI/ML model auditing, validation, and optimization.
+4. Knowledge of machine learning algorithms, deep learning, and reinforcement learning.
+5. Strong understanding of statistical analysis, data visualization, and predictive modeling.
+6. Experience with cloud platforms (e.g., AWS, Google Cloud, Azure) is a plus.
+7. Excellent communication skills, both written and verbal, to effectively collaborate with various stakeholders.
+8. Ability to work independently and manage multiple projects simultaneously.
+
+By joining our team, you will have the opportunity to work on cutting-edge AI/ML projects, collaborate with talented professionals, and make a significant impact on our retail operations. We are an equal opportunity employer and encourage applications from individuals of all backgrounds and abilities.
+
+If you're passionate about AI/ML and eager to make a difference in the retail industry, we would love to hear from you!

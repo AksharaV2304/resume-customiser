@@ -1,0 +1,27 @@
+ Job Description: Retail Stress Testing Model Auditor
+
+Company Overview:
+[Company Name] is a leading retail organization seeking a highly skilled and experienced Retail Stress Testing Model Auditor to join our dynamic team. The successful candidate will work collaboratively with various departments to ensure the accuracy, reliability, and compliance of our stress testing models.
+
+Responsibilities:
+1. Conduct thorough audits of retail stress testing models, assessing their validity, accuracy, and adherence to regulatory requirements.
+2. Utilize SQL as a primary tool for data extraction, manipulation, and analysis in the audit process.
+3. Collaborate with model developers, risk management teams, and other stakeholders to understand model design, methodology, and assumptions.
+4. Identify potential risks, inconsistencies, or weaknesses within the models and propose improvements or remediation strategies.
+5. Document findings, recommendations, and actions taken in a clear and concise manner for presentation to senior management.
+6. Stay updated on industry best practices, regulatory changes, and emerging trends related to retail stress testing models.
+7. Participate in the development and implementation of policies and procedures to ensure the continued integrity and effectiveness of the stress testing model framework.
+8. Contribute to the training and development of junior team members.
+
+Qualifications:
+1. Bachelor's or Master's degree in Mathematics, Statistics, Economics, Finance, or a related field. Advanced degrees are preferred.
+2. Minimum of 5 years of experience in stress testing model auditing within the retail sector.
+3. Proficient in SQL and other relevant programming languages (e.g., Python, R).
+4. Strong analytical skills, with the ability to interpret complex data and draw meaningful conclusions.
+5. Excellent communication skills, with the ability to explain technical concepts clearly to non-technical audiences.
+6. Detail-oriented, with a strong commitment to accuracy and quality.
+7. Knowledge of retail risk management principles and regulatory requirements (e.g., Basel III, CCAR).
+8. Familiarity with stress testing methodologies for various financial instruments and risks (e.g., credit risk, market risk, operational risk).
+9. Proactive, self-motivated, and able to work effectively both independently and as part of a team.
+
+[Company Name] offers competitive compensation packages, including comprehensive benefits and opportunities for professional growth. If you are passionate about retail finance and have the skills and experience we're looking for, we encourage you to apply today!

@@ -1,0 +1,47 @@
+ Job Title: Wholesale IFRS9 Model Audit Specialist
+
+Location: [City, Country]
+Department: Risk Management & Compliance
+Reports to: Head of Risk and Regulatory Compliance
+
+Job Description:
+
+We are seeking a highly motivated and skilled Wholesale IFRS9 Model Audit Specialist to join our team. The successful candidate will be responsible for ensuring the integrity, accuracy, and compliance of our wholesale IFRS9 models. Python programming skills are essential for this role.
+
+Responsibilities:
+
+1. Conduct comprehensive audits of the firm's wholesale IFRS9 models, assessing their validity, reliability, and compliance with regulatory requirements.
+
+2. Collaborate with model developers to understand the structure, assumptions, and calculations of the models, ensuring adherence to best practices and industry standards.
+
+3. Implement and maintain a rigorous testing framework for the IFRS9 models, including unit tests, integration tests, and system-level tests.
+
+4. Develop Python scripts to automate model audits, improve efficiency, and reduce potential errors in manual processes.
+
+5. Prepare detailed reports on audit findings, recommendations, and actions taken to address any identified issues.
+
+6. Stay abreast of regulatory changes related to IFRS9 and their impact on the firm's models, ensuring timely adaptation as necessary.
+
+7. Collaborate with other teams across the organization to ensure consistency in modeling approaches and compliance standards.
+
+8. Participate in internal and external forums to share best practices, learn from peers, and stay informed about industry developments.
+
+Requirements:
+
+1. Degree in Finance, Economics, Mathematics, Statistics, Computer Science, or a related field. Advanced degrees are a plus.
+
+2. Proven experience in auditing financial risk models, preferably within the banking sector.
+
+3. Expertise in IFRS9 regulations and their implementation in model development.
+
+4. Proficiency in Python programming language, with strong problem-solving skills and the ability to write clean, efficient code.
+
+5. Strong understanding of quantitative finance, statistical modeling, and risk management principles.
+
+6. Excellent analytical, communication, and interpersonal skills.
+
+7. Ability to work independently and as part of a team in a fast-paced environment.
+
+8. Knowledge of other programming languages (e.g., R, SAS) is a plus.
+
+This role offers an exciting opportunity to make a significant impact on our risk management and compliance efforts while working with a dynamic and innovative team. If you are passionate about financial risk modeling, regulatory compliance, and Python programming, we encourage you to apply for this position.

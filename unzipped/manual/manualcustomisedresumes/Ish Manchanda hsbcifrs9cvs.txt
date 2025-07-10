@@ -1,0 +1,26 @@
+Ish Manchanda
+MSc in Economics | GCB 5
+
+Summary
+Ish is a Manager in EY FSRM India with 4+ years of credit risk experience. He has worked in model development, validation, and audit.
+
+Experience
+Model Validation:
+
+IFRS9 validation for UK bank (Retail UK & India)
+
+Performed methodology review, PD/LGD backtesting, SAS code replication
+
+ECL materiality and estimation error assessments
+
+XGBoost marketing model validation for US bank (hyperparameter tuning, Gini/accuracy)
+
+Other:
+
+Qualitative/quantitative IFRS9 PD reviews (MENA mid-market banks)
+
+Reviewed TTC PD, PIT macroeconomic modeling
+
+IRB PD remediation for EU mortgage bank
+
+Data augmentation and MoC using SAS

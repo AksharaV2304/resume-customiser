@@ -1,0 +1,29 @@
+ Job Title: Wholesale IRB Model Audit Specialist
+
+Location: [City, State]
+
+Company Overview:
+[Company Name] is a leading financial institution seeking a highly skilled and dedicated Wholesale IRB Model Audit Specialist to join our team. The successful candidate will be responsible for conducting comprehensive audits of our wholesale IRB models to ensure compliance with regulatory requirements and internal policies.
+
+Job Responsibilities:
+1. Conduct detailed audits of the institution's wholesale IRB models, identifying any potential risks or areas for improvement.
+2. Collaborate with various departments to gather and analyze data using SQL and other relevant tools.
+3. Develop and maintain a comprehensive understanding of regulatory requirements related to IRB modeling, particularly Basel III and local regulations.
+4. Prepare audit reports detailing findings, recommendations, and action plans for remediation.
+5. Participate in the development and implementation of risk mitigation strategies.
+6. Assist in the preparation and submission of regulatory reporting.
+7. Contribute to the continuous improvement of the IRB model audit process.
+8. Stay abreast of industry trends, best practices, and emerging risks in IRB modeling.
+
+Qualifications:
+1. Bachelor's degree in Finance, Economics, Mathematics, Statistics, or a related field. An advanced degree is preferred.
+2. Proven experience in auditing IRB models within a banking environment is essential.
+3. Expertise in SQL and proficiency in other relevant programming languages.
+4. Strong analytical skills with the ability to interpret complex data and draw meaningful conclusions.
+5. Excellent communication skills, both written and verbal.
+6. Ability to work independently and as part of a team.
+7. Understanding of Basel III and local regulatory requirements related to IRB modeling.
+8. Knowledge of risk management principles and practices.
+9. CFA or FRM certification is highly desirable.
+
+We offer a competitive salary, comprehensive benefits, and an opportunity to work in a dynamic and growing organization. If you are a motivated professional seeking a challenging role within a leading financial institution, we encourage you to apply for this position. [Company Name] is an equal opportunity employer.

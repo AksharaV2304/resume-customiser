@@ -1,0 +1,37 @@
+ Job Title: Senior Retail Stress Testing Model Validation Specialist
+
+Location: [City, State]
+
+Company Overview:
+[Company Name] is a leading retail organization seeking a highly skilled and experienced Senior Retail Stress Testing Model Validation Specialist to join our team. We are committed to delivering exceptional customer service and creating value for our stakeholders through data-driven decision making.
+
+Job Description:
+
+The Senior Retail Stress Testing Model Validation Specialist will play a crucial role in ensuring the accuracy, integrity, and compliance of our retail stress testing models. The ideal candidate will have strong analytical skills, expertise in SQL, and experience in model validation within the retail industry.
+
+Responsibilities:
+1. Develop, implement, and maintain retail stress testing models to assess risk and ensure the stability of [Company Name]'s financial position under various hypothetical scenarios.
+2. Collaborate with data analysts and model developers to validate stress testing models for accuracy and robustness.
+3. Conduct regular reviews and updates of existing stress testing models to reflect changes in market conditions, business strategy, and regulatory requirements.
+4. Perform sensitivity analyses on key variables to assess the impact of different assumptions on model outputs.
+5. Ensure compliance with relevant regulatory standards, industry best practices, and internal policies for model validation.
+6. Prepare comprehensive reports summarizing findings, recommendations, and implications of stress testing models for senior management and other stakeholders.
+7. Contribute to the continuous improvement of [Company Name]'s risk management framework by identifying opportunities for process enhancements and technology upgrades.
+8. Collaborate with internal teams to ensure effective communication and integration of stress testing results into strategic decision-making processes.
+9. Stay abreast of industry trends, emerging best practices, and regulatory developments related to retail stress testing and model validation.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Mathematics, Statistics, Econometrics, or a related field.
+2. Minimum of 5 years of experience in retail model validation, with a strong focus on stress testing.
+3. Proficiency in SQL and other relevant programming languages (e.g., R, Python).
+4. Knowledge of retail risk management and financial modeling principles.
+5. Strong analytical skills, attention to detail, and problem-solving abilities.
+6. Excellent communication and collaboration skills, with the ability to explain complex concepts to non-technical stakeholders.
+7. Experience working in a regulated environment is preferred.
+8. CFA, FRM, or similar certification is a plus.
+
+To apply for this position, please submit your resume, cover letter, and any relevant work samples to our HR department. We look forward to reviewing your application and discussing the opportunity further.
+
+[Company Name] is an equal opportunity employer and welcomes applications from all qualified candidates without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, or veteran status.
+
+Note: This job description is not intended to be exhaustive; it reflects current job requirements and may be subject to change as necessary.

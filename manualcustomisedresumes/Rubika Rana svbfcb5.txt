@@ -1,0 +1,44 @@
+Rubika Rana
+Role: Senior Manager
+
+Summary:
+Rubika is a Senior Manager in EY. She has 10+ years of experience in model development, monitoring and validation of credit risk models.
+She is proficient in predictive analytics, statistical modelling and has good exposure to CCAR & PPNR models, along with model development and validation of credit risk models.
+
+Qualifications and Training:
+B.Tech from Thapar University, 2013
+
+Key Relevant Experience:
+Model Development and validation experience:
+
+Led development of PPNR and Balance Sheet models for annual CCAR submissions, including data preparation, variable selection, and multi-scenario calibration across Base, Adverse, and Severely Adverse scenarios.
+
+Developed models using Linear Regression, Time Series Regression (ARIMA), and panel data techniques in R and Python to predict revenues across Investment Banking business units.
+
+Developed CCAR EWS model by validating a suite of Early Warning Indicators (EWIs) to monitor credit deterioration under stress scenarios.
+
+Combined rating migration analysis, portfolio clustering (K-means), and trend analysis using Python to enhance risk detection frameworks within CCAR models.
+
+Conducted back-testing, sensitivity analysis, and scenario-based performance assessments for PPNR, Balance Sheet, and PD models used in CCAR submissions.
+
+Validated forecast accuracy, stability under stress, and macroeconomic sensitivity using historical performance data and supervisory scenarios.
+
+Utilized KS, Gini, ROC-AUC, and PSI to assess model discriminatory power, ranking performance, and population stability across CCAR baseline and stressed conditions to undertake model performance testing.
+
+Developed interactive Python dashboards to track CCAR model performance, visualize key validation test results, and monitor PD migrations, revenue forecast deviations, and realized vs. projected outcomes.
+
+Developed Python pipelines to automate CCAR model execution.
+
+Authored model development documentation, validation reports, and performance summaries.
+
+Addressed regulatory feedback per SR 11-7 and CCAR expectations.
+
+Conducted workshops with Risk, Treasury, Finance, and Model Governance teams.
+
+Supported regulatory exams and walkthroughs.
+
+Technical Skills:
+IRB/CCAR Credit Risk Model Development, Monitoring and Validation
+Model risk management, model governance
+Deep understanding of statistical modelling techniques
+SAS EG, SQL, and Python

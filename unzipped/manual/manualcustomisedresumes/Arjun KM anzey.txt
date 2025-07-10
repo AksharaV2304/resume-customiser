@@ -1,0 +1,53 @@
+Senior Manager: Arjun KM
+Summary
+Arjun is a part of the Financial Services Risk Management practice of EY India with 10 years of experience. He specializes in credit risk modelling, treasury and marketing analytics, scorecard development, and has proficiency in machine learning, deep learning, statistical modelling, and programming.
+
+Qualifications and training
+
+Masters - Statistics and Machine learning, Indian Institute of Science, Bangalore
+
+B Tech - Mechanical Engineering, School of Engineering, CUSAT
+
+Key relevant experience
+
+IFRS 9 ECL modelling (time series, segmentation, macroeconomic analysis)
+
+Basel Modelling: PD, LGD, EAD models for Auto business RWA
+
+Reviewed & validated PD quantification model for US bank
+
+Monitored production models & portfolio exercises (Business, Governance, Audit)
+
+Built PCA-based scorecard for MFI Centre
+
+Developed Adaboost classifiers for delinquency prediction
+
+Created MFI Risk scorecard for MFI Bureau customer evaluation
+
+Built ML-based warning indicators for large US bank health monitoring
+
+Built Fair Lending compliance framework (logistic/linear regression)
+
+Developed Digital Index (score-based segmentation) for US retailers
+
+Built Naïve Bayes classifiers for enrolment prediction
+
+Proprietary Recommendation Engine for US retail clients
+
+Built predictive analytics models for aircraft engine maintenance
+
+Led PySpark modelling ecosystem development with Bokeh dashboards
+
+Built Random Forest models for shopper prediction
+
+Designed ML 101 certification; trained over 300 employees
+
+Technical Skills
+
+R, Python, SQL, C, Git, Excel
+
+EDA, AI/ML modelling
+
+Credit risk model validation
+
+MS Office

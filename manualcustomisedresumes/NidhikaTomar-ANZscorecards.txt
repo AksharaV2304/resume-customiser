@@ -1,0 +1,38 @@
+Nidhika Tomar
+Manager
+
+Summary
+Nidhika is a Manager in EY’s Financial Services Risk Management practice. She has more than 5 years of experience in the Banking and Financial Services industry.
+
+She is proficient in model development and implementation of credit risk models with exposure to regulations like Stress Testing, ICAAP, etc.
+
+Qualifications and Training
+Masters in Economics, Delhi School of Economics, 2019
+
+Bachelors in Economics, Delhi University, 2017
+
+Technical Skills
+PD/LGD Model Development
+
+Stress Testing, ICAAP, RWA Computation
+
+SAS, SQL, Excel, PyCharm, Python, GIT & MS Office
+
+Key Relevant Experience
+Model Development and Validation Experience:
+Worked on model development of Stress-testing portfolio evolution model (s166 secured book-shape model) which feeds into the capital (RWA/EL) and impairment (ECL) engines to predict the forecast compliant to the most recent usage of ICAAP across base/stress.
+
+Developed Capital suite (capital emulator- PD, EAD, LGD) implemented on portfolio evolution model to predict future credit risks. This suite employed techniques such as linear/logistic regression to ensure robust and precise risk predictions, enhancing both the reliability and interpretability of the model’s outputs.
+
+Engineered a comprehensive Impairment Emulator, integrating Forward-Looking (FL) - PD, EAD, LGD atop an advanced secured portfolio model to analyze potential impairment losses on future secured assets. Enhanced the emulator with specialized sub-models, including Probability of Possession given Default (PPD) and Forced Sale Discount (FSD), to deliver a granular and forward-looking assessment of impairment risks, significantly improving the accuracy and depth of financial forecasting.
+
+Worked on the implementation of stress-testing modelling using PyCharm as it is more equipped and efficient in handling huge datasets.
+
+Developed BUK Home Finance Hybrid PD model to calculate Regulatory Expected Loss, Economic Capital & Risk Weighted Assets.
+
+Analysed the predictability and recalibration of the Income Generating Models for Unsecured loans and Overdraft facilities, along with possible strategy change. Guided ~1.2 mn accounts’ affordability, constituting exposure of ~£6bn.
+
+Investigated changes in HPI and the consequent impact on the collateral value of the Bank. Measured the impact of the new version of HPI on the UK property price. Studied the fluctuation in property valuation of ~£150bn and ultimately the security bank holds.
+
+Monitored calculation of capital matrices for internal & external regulatory stress test, along with forecasting & planning processes. Monitored RWA requirement for ~1mn account with exposure of ~£150bn.
+

@@ -1,0 +1,25 @@
+ Job Description: Retail IRB Model Auditor
+
+Position Overview:
+We are seeking a highly skilled and motivated Retail IRB Model Auditor to join our team. The ideal candidate will have a strong background in data analysis, risk management, and regulatory compliance within the retail industry. A proficient understanding of SQL is essential for this role.
+
+Responsibilities:
+1. Conduct regular audits of our retail IRB models to ensure they are compliant with industry standards and regulations.
+2. Analyze large datasets using SQL to identify trends, risks, and opportunities for improvement in our models.
+3. Collaborate with the risk management team to address any identified issues and implement solutions.
+4. Develop and maintain documentation of audit findings, recommendations, and actions taken.
+5. Stay up-to-date with changes in regulations and best practices within the retail industry, and adapt our models accordingly.
+6. Provide training and support to other team members on data analysis techniques and regulatory compliance.
+7. Collaborate with IT and data management teams to ensure efficient data processing and storage.
+
+Qualifications:
+1. Bachelor's degree in a related field such as Mathematics, Statistics, Economics, Finance, or Computer Science. Advanced degrees are preferred.
+2. Proven experience in retail IRB model auditing or similar role within the financial services industry.
+3. Proficient in SQL and other data analysis tools.
+4. Strong understanding of risk management principles and regulatory compliance.
+5. Excellent problem-solving skills, attention to detail, and ability to work under pressure.
+6. Strong communication and teamwork skills.
+7. Ability to work independently and manage multiple tasks efficiently.
+8. Knowledge of retail industry practices and regulations is a plus.
+
+This is an exciting opportunity for a candidate who is passionate about data analysis, risk management, and regulatory compliance in the retail sector. If you meet the qualifications and are interested in joining our team, please apply with your resume and cover letter.

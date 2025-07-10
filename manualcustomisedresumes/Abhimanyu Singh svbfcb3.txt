@@ -1,0 +1,37 @@
+Abhimanyu Singh
+Role: Senior
+
+Summary:
+
+Abhimanyu is a Senior in EY's Financial Services Risk Management practice.
+
+He has 3+ years of experience in Banking and Financial Services.
+
+Proficient in CCAR/DFAST model development and stress testing under CCAR/CECL norms.
+
+Qualifications and Training:
+
+Integrated M.Sc. in Geology, IIT Kharagpur, 2021
+
+Technical Skills:
+
+Basel II/III, CCAR, PPNR, IFRS9 frameworks
+
+Credit risk model development & validation
+
+Stress Testing, Capital Policy & Planning, Risk Analytics
+
+Advanced Excel, SAS, SQL, Tableau, Jira
+
+Key Relevant Experience:
+
+Built PD model using hazard functions, behavioral & macro variables.
+
+Designed PPNR forecasting models for CCAR stress testing.
+
+Led macroeconomic monitoring and reporting initiatives.
+
+Validated CECL loss models using discrete-time survival analysis.
+
+Improved risk model compliance via data reconciliation and risk factor recalibration.
+

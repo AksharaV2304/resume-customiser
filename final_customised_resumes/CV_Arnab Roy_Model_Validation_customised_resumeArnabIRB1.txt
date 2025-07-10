@@ -1,0 +1,17 @@
+CV_Arnab Roy_Model_Validation – Create a JD for a retail IRB model validation requirement. Mention that SAS is a must.
+
+Summary:
+The resume highlights the candidate's experience as a Credit Risk Analyst with 2.5 years of experience in model validation, revalidation, and performance monitoring for a leading North American banking client. The candidate has expertise in regulatory standards such as AIRB, Basel, CCAR, and SR 11-7 guidelines. Additionally, the candidate is proficient in using SAS, SQL, Power-BI, and MS Office Suite to perform data analysis tasks.
+
+Qualifications:
+The candidate has a Master's degree in Economics with a specialization in Trade & Finance from Indian Institute of Foreign Trade and a Bachelor's degree in Economics from Calcutta University. The candidate has achieved first-class results for both degrees, scoring a grade of 68.5% in the Master's program and 80% in the Bachelor's program.
+
+Key Experience:
+The candidate has worked as a Credit Risk Analyst and Assistant Manager at Genpact from September 2022 to the present, where they have conducted validation of AIRB models for wholesale portfolios of a leading North American bank. They have also validated Low Default Portfolios (LDPs) and performed effectiveness assessments for AIRB and ST models. The candidate has experience in remediating Category 2 model issues using additional data, consistency checks, and fitting for use for extended geographical range of model use.
+
+Additionally, the candidate worked as a Research Intern at EY from August to November 2019, where they created reports on sectors such as Pharmaceuticals, Leather, Textile & Garments enlisted in "Make in India".
+
+Technical Skills:
+The candidate has expertise in using SAS (Statistical Analysis System) for data manipulation, modeling, and statistical analysis. They are proficient in using SQL for data retrieval. The candidate also has experience in using Power-BI for reporting and presenting analysis, as well as MS Office Suite for technical and non-technical documentation.
+
+The candidate's skills in Data Assessment, KPI Monitoring, Back-Testing, Issues & Recommendations, Regulatory Knowledge (AIRB, Basel, CCAR, SR 11-7), Reporting (Technical and Presentational), and Tools (SAS, SQL, Power-BI, MS Office Suite) are aligned with the requirements for the Model Validation Specialist role in the Retail Industry.

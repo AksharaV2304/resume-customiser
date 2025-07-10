@@ -1,0 +1,17 @@
+Resume - Reema Panday – Create a JD for a wholesale IRB model development requirement. Mention that SQL is a must.
+
+Summary:
+Reem Panday is a highly experienced developer with 9.5 years of experience in Banking and Financial Services. She has been working as a Manager at Ernst & Young (UK) since 2021 and has extensive knowledge of IFRS9, IRB, SAS, and SQL programming languages.
+
+Qualifications:
+- Masters in Economics from the University of Calcutta
+- Bachelors in Economics from the University of Calcutta
+
+Key Experience:
+2023 – Present: Developed an IRB Model for a leading bank in the UK. Utilized SQL as the primary programming language to develop various models such as LGD, Haircut, Loss Given, Time to Possession, and Time from Possession to Sale. 2021 - 2023: Managed three teams to ensure accurate and timely submission of business deliverables in HSBC (India). 2017-2021: Worked at Genpact (India) as a Business Analyst, where she analyzed sales metrics for GE Healthcare and developed different sales metrics.
+
+Technical Skills:
+- SAS, SQL
+- Descriptive Statistics, IFRS9, IRB
+
+The job description asks the candidate to lead the development of a wholesale IRB model utilizing SQL as the primary programming language. Reem Panday's experience and technical skills align perfectly with this requirement. Her extensive experience in Banking and Financial Services, her strong background in SQL programming, and her proficiency in database design principles make her an ideal candidate for this job."

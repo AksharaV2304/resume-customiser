@@ -1,0 +1,32 @@
+ Job Title: Senior IFRS9 Model Auditor
+
+Location: [City, Country]
+
+Company Overview:
+[Company Name], a leading financial services organization, is seeking a highly skilled and experienced Senior IFRS9 Model Auditor to join our team. The successful candidate will be responsible for auditing and validating the accuracy and compliance of our IFRS9 models, ensuring they meet regulatory requirements and internal standards.
+
+Key Responsibilities:
+1. Conduct thorough reviews and audits of the organization's IFRS9 models, focusing on their design, implementation, and ongoing maintenance.
+2. Collaborate with the model development team to understand the underlying methodologies and assumptions used in the models.
+3. Validate the accuracy and appropriateness of data inputs, calculations, and outputs produced by the models.
+4. Ensure compliance with IFRS9 regulations and internal policies and procedures.
+5. Document findings, recommendations, and actions taken to address any identified issues or risks.
+6. Participate in the development and implementation of improvements to enhance the accuracy, efficiency, and effectiveness of the IFRS9 models.
+7. Stay abreast of industry trends, regulatory updates, and best practices in IFRS9 model auditing.
+8. Provide training and support to colleagues on IFRS9 modeling and auditing processes.
+9. Work closely with senior management and the risk management team to ensure effective governance and oversight of the IFRS9 models.
+
+Requirements:
+1. A degree in Finance, Economics, Mathematics, Statistics, or a related field. Advanced degrees or professional certifications (e.g., FRM, CFA) are preferred.
+2. Minimum of 5 years' experience in IFRS9 model auditing or risk management within the financial services industry.
+3. Proficiency in R programming language is essential for data analysis and modeling tasks.
+4. Strong understanding of IFRS9 regulations, accounting principles, and risk management practices.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and collaboratively within a dynamic team environment.
+7. High level of integrity, attention to detail, and commitment to maintaining the highest standards of professionalism.
+
+[Company Name] offers competitive compensation packages, including a comprehensive benefits program, opportunities for career development, and a supportive work environment. If you are a motivated and experienced IFRS9 Model Auditor looking for an exciting new challenge, we encourage you to apply for this opportunity.
+
+To apply, please submit your resume, cover letter, and any relevant work samples or references through our online application system by [Application Deadline]. We look forward to reviewing your application and exploring the possibility of working together.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

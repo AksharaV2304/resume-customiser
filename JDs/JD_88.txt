@@ -1,0 +1,35 @@
+ Job Title: IFRS9 Model Developer (Wholesale)
+
+Location: [City, Country]
+
+Company Overview:
+[Company Name], a leading financial services firm, is seeking an experienced IFRS9 Model Developer to join our team. We are committed to maintaining the highest standards of risk management and regulatory compliance, and we are looking for a professional with a strong background in quantitative finance who can help us develop advanced IFRS9 models to support our wholesale business.
+
+Position Overview:
+The successful candidate will be responsible for designing, implementing, and maintaining IFRS9 models for our wholesale business lines. The role requires a deep understanding of financial instruments, accounting principles (particularly IFRS9), and SQL programming.
+
+Responsibilities:
+1. Develop and enhance IFRS9 models for various wholesale products, including but not limited to derivatives, structured products, and loans.
+2. Collaborate with business stakeholders to understand their needs and ensure that models accurately reflect the risk profiles of our wholesale portfolio.
+3. Design and implement efficient SQL queries to extract and process large datasets from various sources for model development and validation purposes.
+4. Work closely with risk, finance, and IT teams to integrate models into the firm's overall risk management framework.
+5. Conduct stress testing, backtesting, and sensitivity analysis to validate the robustness of developed models.
+6. Stay abreast of regulatory developments related to IFRS9 and other relevant accounting standards.
+7. Document model development process, assumptions, and results in a clear and concise manner for regulatory reporting and internal audit purposes.
+8. Participate in project teams to implement new systems or processes that improve the efficiency and effectiveness of our IFRS9 model development and reporting capabilities.
+
+Qualifications:
+1. A Master's degree in Finance, Mathematics, Econometrics, Statistics, or a related quantitative field is required.
+2. Proven experience in developing IFRS9 models for wholesale products, preferably in a banking environment.
+3. Strong knowledge of financial instruments and accounting principles, particularly IFRS9.
+4. Proficiency in SQL and experience working with large datasets.
+5. Excellent problem-solving skills, with the ability to analyze complex situations and develop effective solutions.
+6. Strong communication skills, with the ability to explain technical concepts to non-technical stakeholders.
+7. Self-motivated and able to work independently as well as collaboratively within a team.
+8. Familiarity with regulatory reporting requirements related to IFRS9 is desirable.
+
+[Company Name] offers competitive compensation packages, including comprehensive benefits and opportunities for professional growth. If you are passionate about quantitative finance and want to make an impact in a dynamic and challenging environment, we encourage you to apply.
+
+Please submit your resume, cover letter, and examples of previous work (if available) via our online application system. We will review applications on a rolling basis and look forward to discussing this exciting opportunity with qualified candidates.
+
+[Company Name] is an equal opportunity employer and considers all applicants for employment without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, disability or veteran status.

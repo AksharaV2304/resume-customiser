@@ -1,0 +1,29 @@
+ Job Title: Wholesale IRB Model Validation Specialist
+
+Location: [City, State]
+
+Company Overview:
+[Company Name] is a leading financial institution specializing in the provision of comprehensive financial services. As part of our continued growth and commitment to maintaining regulatory compliance, we are seeking a skilled and experienced Wholesale IRB Model Validation Specialist.
+
+Job Description:
+The Wholesale IRB Model Validation Specialist will be responsible for ensuring the integrity and accuracy of our Internal Ratings-Based (IRB) models used in wholesale lending operations. The successful candidate will work closely with various business lines, risk management, and regulatory teams to validate and maintain model compliance.
+
+Responsibilities:
+1. Conduct comprehensive validation of Wholesale IRB models using statistical techniques and SAS programming language, ensuring adherence to regulatory guidelines (e.g., Basel III).
+2. Collaborate with business units, risk management, and IT teams to gather data and documentation for model development, validation, and ongoing maintenance.
+3. Perform stress tests, backtesting, and sensitivity analyses on IRB models to ensure robustness and accuracy under various economic scenarios.
+4. Document and present findings from model validation activities in a clear and concise manner, addressing any identified issues or recommendations for improvement.
+5. Participate in the development of model governance frameworks, policies, and procedures to ensure effective risk management and regulatory compliance.
+6. Stay current with industry developments, regulatory updates, and best practices related to IRB modeling and validation.
+7. Support ad-hoc projects and initiatives as needed.
+
+Qualifications:
+1. Bachelor's or Master's degree in Statistics, Mathematics, Economics, Finance, or a related field.
+2. Minimum of 5 years of experience in banking, finance, or a regulatory body, with a focus on model validation, preferably within IRB modeling.
+3. Proficiency in SAS programming is mandatory; knowledge of other statistical software packages (e.g., R, Python) is desirable.
+4. Strong understanding of credit risk management principles and regulatory requirements related to IRB models.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently as well as collaboratively within a team.
+7. Proactive approach to identifying and addressing risks, with a focus on continuous improvement.
+
+[Company Name] offers competitive compensation packages, a dynamic work environment, and opportunities for professional growth and development. If you are passionate about model validation and eager to make an impact in the financial industry, we encourage you to apply!

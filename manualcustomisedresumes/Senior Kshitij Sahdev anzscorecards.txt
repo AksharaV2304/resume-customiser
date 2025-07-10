@@ -1,0 +1,40 @@
+Senior: Kshitij Sahdev
+Summary:
+Kshitij is a Senior within EY's Financial Services Risk Management practice, with over 3 years of specialized experience in the Banking and Financial Services sector. Proficient in leveraging advanced machine learning techniques for data analysis and predictive modelling. He is proficient with SAS, Python and Pyspark.
+
+Qualifications and training:
+
+Masters in Environmental Economics, Madras School of Economics, 2021
+
+Bachelors in Economics, Delhi University, 2018
+
+Key relevant experience:
+
+Developed PD model for retail portfolio (UK bank) using XGBoost
+
+Validated PD model for US bank retail portfolio
+
+Created Geographic/Industry scores for business health
+
+Automated Country Risk/MDA scores using PCA & RapidFuzz
+
+Converted SAS scorecard codes to PySpark
+
+Performed multivariate time-series forecasting using SARIMAX
+
+Estimated economic impact on workforce and GDP
+
+Analyzed maritime shipment delays and bridge collapse effects
+
+Used Denoising Autoencoders (MIDAS) for missing value imputation
+
+Applied HuggingFace LLMs for text summarization and sentiment analysis
+
+Created Covid-19 Impact Index
+
+Produced monthly investigative reports on identity theft/misrepresentation
+
+Technical Skills:
+Predictive modelling, Scorecards, Machine Learning
+SAS, Python, Pyspark
+Deep Learning, Deep statistical modelling

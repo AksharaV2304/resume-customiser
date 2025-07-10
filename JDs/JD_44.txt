@@ -1,0 +1,30 @@
+ Job Description: Retail Scorecards Model Validation Specialist
+
+Company Overview:
+[Company Name] is a leading retail organization committed to delivering exceptional products and services to our customers. We are currently seeking a talented and experienced Retail Scorecards Model Validation Specialist to join our team.
+
+Job Summary:
+In this role, you will be responsible for validating the accuracy and reliability of our retail scorecards models using SQL. You will work closely with data analysts, model developers, and business stakeholders to ensure that our scoring models are robust, transparent, and aligned with business objectives.
+
+Key Responsibilities:
+1. Validate and verify the accuracy of existing retail scorecards models by conducting thorough analyses using SQL.
+2. Collaborate with data analysts, model developers, and business stakeholders to understand the business requirements and translate them into technical specifications for model validation.
+3. Identify potential issues or biases in the scorecard models and suggest improvements or modifications to ensure their continued effectiveness.
+4. Develop and implement testing strategies and procedures for new and existing scorecards models.
+5. Collaborate with IT teams to ensure data quality, integrity, and security throughout the model validation process.
+6. Document all findings, recommendations, and actions taken during the model validation process in a clear and concise manner.
+7. Stay updated on industry best practices, trends, and regulations related to scorecard model validation and share insights with the team.
+
+Qualifications:
+1. Bachelor's degree in Mathematics, Statistics, Computer Science, Economics, or a related field. Advanced degrees are preferred.
+2. Proven experience (minimum 5 years) in scorecard model validation, preferably within the retail industry.
+3. Strong SQL skills and proficiency in using data analysis tools such as Excel, R, or Python.
+4. Knowledge of statistical modeling techniques, machine learning algorithms, and predictive analytics principles.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and collaboratively within a team environment.
+7. Strong attention to detail and the ability to handle large datasets with precision.
+8. Familiarity with regulatory requirements related to scorecard model validation (e.g., GDPR, CCPA) is a plus.
+
+[Company Name] offers a competitive salary and benefits package, as well as opportunities for professional growth and development. If you are passionate about data analysis, model validation, and improving retail operations, we encourage you to apply for this exciting opportunity.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

@@ -1,0 +1,13 @@
+1. CV - Karishma Rathi – Create a JD for a retail IRB model development requirement. Mention that SQL is a must.
+
+Summary:
+Karishma Rathi is a Retail IRB Model Development Specialist with expertise in designing, developing and testing new models to support retail operations. With a strong background in database management, data analysis and SQL programming skills, Ms. Rathi can collaborate effectively in a team environment while creating innovative solutions using SQL.
+
+Qualifications:
+Ms. Karishma Rathi is a graduate of the Amrut Mody School of Management at Ahmedabad University with a degree in Bachelor of Business Administration (Finance Specialization). She has earned 81.62% from this program. Ms. Rathi also holds a PGDM (Banking & Financial Services) from National Institute of Bank Management with an outstanding percentage of 89.35%.
+
+Key Experience:
+Ms. Karishma Rathi joined HDFC Bank Ltd. as a Senior Manager for Credit Portfolio Risk Analytics in October 2020. Before this role, Ms. Rathi served as an Assistant Manager at KPMG India from July 2018 to June 2020. At KPMG, her primary responsibilities included conducting independent reviews of the impact analysis on SME scorecard models for a global bank and developing a framework for SICR assessment for IFRS9 reporting of the retail portfolio. Ms. Rathi has also demonstrated strong skills in credit risk management by spearheading quarterly provision reporting, reverse stress testing, geographical stress testing, and capital impact analysis.
+
+Technical Skills:
+Ms. Karishma Rathi is proficient in SAS, Python, and Angoss. She has a strong background in database management, data analysis, and SQL programming skills that she acquired during her PGDM program at National Institute of Bank Management (Pune).

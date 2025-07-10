@@ -1,0 +1,35 @@
+ Job Title: Wholesale Scorecards Model Validation Specialist
+
+Location: [Your Location]
+
+Company Overview:
+[Insert Company Name and Brief Description]
+
+Job Description:
+
+We are seeking a highly skilled and motivated Wholesale Scorecards Model Validation Specialist to join our team. The ideal candidate will have a strong background in statistical analysis, data modeling, and risk management with a focus on the financial services sector.
+
+Responsibilities:
+1. Validate wholesale scorecard models using SAS programming language, ensuring the accuracy and reliability of the models.
+2. Develop and implement model validation strategies, procedures, and standards for wholesale scorecards in compliance with regulatory requirements.
+3. Collaborate with various teams (Risk Management, Compliance, IT) to ensure effective integration of scorecard models into business operations.
+4. Conduct regular reviews and updates of existing scorecard models to reflect changes in data, market conditions, and regulatory landscape.
+5. Prepare and present model validation reports to senior management, highlighting key findings, recommendations, and risks associated with the wholesale scorecards.
+6. Participate in model development projects, providing guidance on best practices for model design, validation, and implementation.
+7. Stay abreast of industry trends, regulatory changes, and emerging technologies related to risk modeling and scoring.
+8. Contribute to the continuous improvement of our risk management framework by proposing and implementing enhancements to scorecard models, processes, and systems.
+
+Qualifications:
+1. Bachelor's or Master's degree in Mathematics, Statistics, Economics, Finance, or a related field. Advanced degrees are preferred.
+2. Minimum of 5 years of experience in model validation, preferably within the financial services industry.
+3. Expertise in SAS programming language and proficiency in other relevant statistical software packages (R, Python, etc.).
+4. Strong understanding of credit risk modeling, scoring methodologies, and regulatory requirements.
+5. Excellent analytical skills, with the ability to interpret complex data and draw meaningful insights.
+6. Strong communication skills, both written and verbal, with the ability to explain technical concepts to non-technical audiences.
+7. Proactive, results-oriented approach with a high level of attention to detail.
+8. Ability to work independently as well as collaboratively in a team environment.
+9. Knowledge of wholesale banking and products is a plus.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+To apply, please submit your resume, cover letter, and any relevant work samples or references to [Email Address]. We look forward to reviewing your application!

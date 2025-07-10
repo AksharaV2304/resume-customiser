@@ -1,0 +1,27 @@
+ Job Description: Wholesale CCAR Model Auditor
+
+Company Overview:
+[Company name] is a leading financial institution dedicated to providing superior banking services. As we continue to grow, we are seeking a skilled and experienced Wholesale CCAR Model Auditor to join our team. The successful candidate will be responsible for conducting thorough audits of our Credit Concentration Risk (CCAR) models, ensuring their accuracy, compliance, and effectiveness.
+
+Responsibilities:
+1. Conduct comprehensive audits of the wholesale CCAR models, focusing on data quality, model design, and validation processes.
+2. Utilize SQL proficiency to query and manipulate large datasets, perform model testing, and identify potential issues or inefficiencies.
+3. Collaborate with various departments, including Risk Management, Model Risk Management, IT, and Business Units, to understand the models' impact on the organization's risk profile.
+4. Document findings and recommendations for improvement, working closely with the model development teams to implement corrective actions.
+5. Stay abreast of regulatory updates related to CCAR and ensure that our models are in compliance with relevant standards.
+6. Contribute to the continuous improvement of our model governance framework and risk management practices.
+
+Qualifications:
+1. Bachelor's or Master's degree in Mathematics, Statistics, Finance, Economics, Computer Science, or a related field.
+2. Proven experience in CCAR model auditing or similar roles within the financial services industry.
+3. Strong SQL skills and proficiency in other relevant programming languages (e.g., Python, R).
+4. In-depth understanding of credit risk modeling, stress testing, and capital adequacy frameworks.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and collaboratively in a fast-paced environment.
+7. Knowledge of regulatory requirements related to CCAR, such as the Dodd-Frank Act and Federal Reserve Supervisory Guidance.
+
+[Company name] offers a competitive salary, comprehensive benefits package, and a supportive work environment that encourages professional growth and development. If you are passionate about risk management, model auditing, and ensuring the financial stability of our institution, we encourage you to apply for this exciting opportunity.
+
+To apply, please submit your resume, cover letter, and any relevant work samples or references through our online application system. We look forward to reviewing your application and exploring potential collaboration.
+
+[Company name] is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.

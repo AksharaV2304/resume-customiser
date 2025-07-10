@@ -1,0 +1,38 @@
+ Job Title: Wholesale Scorecard Model Validation Specialist
+
+Location: [Your Location]
+
+Company: [Your Company Name]
+
+Job Type: Full-Time
+
+About Us:
+[Your Company Description] is seeking a dedicated and skilled Wholesale Scorecard Model Validation Specialist to join our team. The ideal candidate will have a strong background in quantitative analysis, data modeling, and validation, with proficiency in Python.
+
+Job Description:
+
+The Wholesale Scorecard Model Validation Specialist will be responsible for ensuring the accuracy and integrity of our wholesale scorecard models. This role requires a deep understanding of financial markets, risk management, and regulatory requirements.
+
+Responsibilities:
+1. Validate the accuracy and reliability of our wholesale scorecard models using Python programming languages.
+2. Develop and implement methods to test model assumptions, performance, and robustness.
+3. Collaborate with other teams to understand business needs and translate them into validated models.
+4. Conduct sensitivity analyses to assess the impact of changes in assumptions or market conditions on model outputs.
+5. Document validation results and present findings to stakeholders.
+6. Stay current with industry best practices, regulatory guidelines, and emerging trends in risk management and model validation.
+7. Participate in model reviews, audits, and stress tests as required.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, Statistics, Computer Science, or a related quantitative field.
+2. Minimum of 3 years of experience in wholesale banking, risk management, or model validation.
+3. Proficiency in Python and familiarity with other programming languages such as SQL, R, or SAS is highly desirable.
+4. Strong understanding of financial markets, risk management principles, and regulatory requirements (e.g., Basel III).
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work in a fast-paced environment and manage multiple tasks simultaneously.
+7. Self-motivated with a strong attention to detail and the ability to work independently as well as collaboratively.
+
+We offer competitive compensation packages, a dynamic work environment, and opportunities for professional growth. If you are passionate about financial modeling, data analysis, and regulatory compliance, we encourage you to apply for this exciting opportunity.
+
+[Your Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+To apply, please submit your resume, cover letter, and examples of Python code demonstrating your modeling skills through our online application system.

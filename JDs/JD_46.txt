@@ -1,0 +1,29 @@
+ Job Description: Retail Scorecard Model Auditor (Python Specialist)
+
+Company Overview:
+[Company Name] is a leading retail organization with an extensive global presence. We are dedicated to providing exceptional value and customer service, and we are seeking a skilled Retail Scorecard Model Auditor (Python Specialist) to join our team.
+
+Job Summary:
+As a Retail Scorecard Model Auditor, you will be responsible for reviewing and validating the accuracy of our retail scorecards, ensuring they reflect the most current business rules and data. The ideal candidate should possess strong analytical skills, proficiency in Python programming, and a deep understanding of retail operations and scoring methodologies.
+
+Responsibilities:
+1. Conduct regular audits of retail scorecards to ensure accuracy, consistency, and compliance with company policies and industry standards.
+2. Collaborate with various departments to understand business rules and data requirements for the scorecard models.
+3. Identify discrepancies or inconsistencies in the scorecards and propose solutions for improvement.
+4. Develop and implement Python scripts to automate the auditing process, improve efficiency, and ensure consistent results.
+5. Document all findings, recommendations, and actions taken during the audit process.
+6. Participate in projects aimed at enhancing our retail scorecard models, leveraging your Python expertise to optimize their performance.
+7. Stay updated on industry trends, best practices, and regulatory changes related to retail scorecards.
+
+Requirements:
+1. Bachelor's or Master's degree in Computer Science, Mathematics, Statistics, Economics, or a related field.
+2. Proven experience in auditing retail scorecard models (minimum 3 years).
+3. Strong proficiency in Python programming and familiarity with other scripting languages.
+4. Knowledge of data analysis techniques and statistical modeling.
+5. Experience working with large datasets and SQL databases.
+6. Excellent analytical, problem-solving, and communication skills.
+7. Ability to work independently and as part of a team in a fast-paced environment.
+8. Strong attention to detail and commitment to maintaining data integrity.
+9. Familiarity with retail operations and scorecard methodologies is highly desirable.
+
+[Company Name] offers competitive compensation packages, comprehensive benefits, and opportunities for professional growth. If you are passionate about data analysis, retail operations, and Python programming, we encourage you to apply for this exciting opportunity.

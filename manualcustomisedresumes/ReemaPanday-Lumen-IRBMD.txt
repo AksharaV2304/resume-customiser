@@ -1,0 +1,33 @@
+Reema Panday
+Manager
+
+Skill (Credit Risk)
+Model Development
+IRB
+IFRS 9
+Scorecards
+Stress testing
+SAS/SQL
+Python
+PRA/ECB
+Climate Risk
+
+Reema is a Manager in EY India Financial Services Risk Management (FSRM) team. She has over 9 years of experience in the banking and analytics domain. She is a credit risk professional with hands-on experience in IRB model validation and development across retail portfolios in line with PRA/EBA guidelines.
+
+Key Technical Skills: SQL, SAS
+
+Relevant Experience
+Model Development Experience:
+Developed IRB LGD and PD models for a UK mortgage portfolio, covering data preparation, component-level modelling (e.g., possession, haircut, cure), calibration (LRA & downturn), adjustments/MoCs, and full model testing.
+
+Built behavioural scorecard model aligned with PRA/EBA guidelines and assessed RWA impact through detailed component-wise analysis and performance validation.
+
+Re-development of the existing auto decisioning strategy for SME portfolios of an Irish Bank, by looking into the existing rulesets. Providing analysis by modifying the strategy rules and determining an optimal automation rate.
+
+Other Experience:
+Monitored monthly RWA movements for a UK bank, assessed model performance using latest data, initiated re-calibration where needed, and analysed COVID-19 payment deferral customer profiles.
+
+Validated Basel model for retail portfolios for a large US based bank. This involved looking into the model development document to understand the model methodology. Used various model validation techniques to validate the model. Prepared a report outlining the reasons to accept the model and provide recommendation to improve.
+
+Managing a three-member team to ensure accurate and timely submission of the business deliverables.
+

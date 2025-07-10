@@ -1,0 +1,34 @@
+ Job Title: Senior Wholesale Stress Testing Model Auditor
+
+Location: [City, State]
+
+Company Overview:
+[Company Name] is a leading financial institution committed to providing innovative solutions for our clients. We are looking for a highly skilled and experienced Senior Wholesale Stress Testing Model Auditor to join our team. This role requires an in-depth understanding of risk management, regulatory requirements, and the ability to work with complex data using R programming language.
+
+Job Description:
+
+The Senior Wholesale Stress Testing Model Auditor will be responsible for evaluating, validating, and ensuring the integrity of the institution's wholesale stress testing models. This role requires a strong understanding of financial instruments, risk management practices, and regulatory requirements.
+
+Responsibilities:
+1. Conduct thorough audits of the institution's wholesale stress testing models, identifying potential issues and making recommendations for improvements.
+2. Collaborate with various teams to understand their model assumptions, data sources, and methodologies.
+3. Utilize R programming language to analyze and validate the models, identify trends, and perform sensitivity analysis.
+4. Stay updated on regulatory changes related to stress testing and risk management, ensuring compliance with relevant guidelines.
+5. Prepare clear and concise reports summarizing findings, recommendations, and potential risks associated with the models.
+6. Work closely with the modeling team to implement suggested improvements and ensure the effectiveness of the implemented changes.
+7. Contribute to the development of best practices for stress testing model audits within the institution.
+
+Requirements:
+1. Bachelor's or Master's degree in Finance, Economics, Mathematics, Statistics, Computer Science, or a related field.
+2. Minimum of 5 years of experience in stress testing model audit, risk management, or quantitative analysis within the financial services industry.
+3. Proficiency in R programming language is mandatory.
+4. Strong understanding of wholesale banking products and risk management practices.
+5. Knowledge of regulatory requirements related to stress testing and risk management.
+6. Excellent analytical, problem-solving, and communication skills.
+7. Ability to work independently as well as collaboratively in a team environment.
+8. Strong attention to detail and ability to handle complex data.
+9. CFA or FRM certification is preferred but not required.
+
+We offer competitive compensation packages, opportunities for professional growth, and a dynamic working environment. If you are passionate about risk management, enjoy working with complex data using R, and want to make an impact in the financial services industry, we encourage you to apply.
+
+[Company Name] is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

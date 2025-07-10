@@ -1,0 +1,44 @@
+ Job Description: Retail Credit Risk Model Validation Specialist
+
+Company Overview:
+[Company Name] is a leading retail organization seeking a highly skilled and experienced Retail Credit Risk Model Validation Specialist to join our team. The ideal candidate will have a strong background in credit risk, statistical modeling, and regulatory compliance, with proficiency in SAS being a must.
+
+Job Responsibilities:
+
+1. Validate the retail Credit Conditions Assessment and Review (CCAR) models to ensure they are accurate, complete, and comply with regulatory standards.
+
+2. Collaborate with various stakeholders, including model developers, risk managers, and regulators, to understand the models and identify any potential issues or risks.
+
+3. Develop and implement testing strategies for the CCAR models, utilizing SAS for data analysis and reporting.
+
+4. Evaluate model assumptions, inputs, outputs, and methodologies to ensure they are reasonable, consistent, and aligned with regulatory guidelines.
+
+5. Document findings, recommendations, and any necessary changes or improvements to the models and processes.
+
+6. Stay updated on industry trends, regulatory requirements, and best practices in credit risk modeling and validation.
+
+7. Contribute to the continuous improvement of the model validation process, ensuring it remains effective, efficient, and robust.
+
+8. Ensure compliance with relevant regulations, such as the Federal Reserve's Supervision and Regulation (SR) 23-7, "Model Risk Management Guidelines."
+
+9. Provide support during regulatory examinations and audits related to CCAR model validation.
+
+Qualifications:
+
+1. Bachelor's or Master's degree in Statistics, Mathematics, Economics, Finance, or a related quantitative field.
+
+2. Minimum of 5 years of experience in credit risk modeling, model validation, or a similar role within the financial services industry.
+
+3. Proficiency in SAS for data analysis and reporting is essential. Knowledge of other programming languages (e.g., R, Python) is a plus.
+
+4. Strong understanding of credit risk management principles and regulatory requirements, particularly those related to CCAR.
+
+5. Excellent analytical, problem-solving, and communication skills.
+
+6. Ability to work independently and collaboratively in a fast-paced environment.
+
+7. Detail-oriented with strong organizational skills and the ability to manage multiple projects simultaneously.
+
+8. Strong understanding of statistical techniques and their application in credit risk modeling.
+
+[Company Name] offers competitive compensation, comprehensive benefits, and opportunities for professional growth and development. If you are a motivated individual with a passion for credit risk and model validation, we encourage you to apply for this exciting opportunity.

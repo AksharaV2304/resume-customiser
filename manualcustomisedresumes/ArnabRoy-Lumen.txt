@@ -1,0 +1,47 @@
+Arnab Roy
+Senior
+
+Skill (Credit Risk)
+
+Model Validation
+
+IRB
+
+IFRS 9
+
+Scorecards
+
+Stress Testing
+
+SAS/SQL
+
+Python
+
+PRA/ECB
+
+Climate Risk
+
+Arnab is a Senior in EY India Financial Services Risk Management (FSRM) team. He has over 3 years of experience in the banking and analytics domain. He has experience in model validation, revalidation & performance monitoring of wholesale/retail models with exposure to regulatory standards such as AIRB, FIRB, IFRS9, CCAR.
+
+Key Technical Skills: SQL, SAS
+
+Relevant Experience
+
+Model Validation Experience
+
+Conducted validation of AIRB models for wholesale portfolios of a leading North American bank.
+
+Conducted validation of Low Default Portfolios (LDPs) & Effectiveness Assessment for AIRB & ST models.
+
+Produced validation reports highlighting key findings, validity of model methodology, model assumptions, categorize model issues (CAT 2/CAT 3) along with validators’ recommendations.
+
+Other Experience
+
+Contributed to calculation of Long Run Default Rate, Target PD, in-production PD using logistic/linear regression, addition of margin of conservatism adjustments due to sources of uncertainty.
+
+Performed KPI monitoring such as PSI & AR for Borrower Risk Rating (BRR) models.
+
+Conducted back testing analysis. Assessing 95%ile confidence interval breaches in MAE. Assigning model scores combining quantitative & qualitative triggers for Stress Test models.
+
+Remediated Category 2 model issue using additional data, consistency checks ensuring fit for use for extended geographical range of model use.
+

@@ -1,0 +1,215 @@
+Candidate 1: Narendra Sahu
+Role: Senior Manager
+
+Summary:
+
+Narendra is a Senior Manager in EY’s Financial Services Risk Management practice.
+
+He has 10+ years of experience in the Banking and Financial Services industry.
+
+Seasoned financial modeler with expertise in automating reporting and data controls, developing CCAR stress testing models, and implementing ECL calculations in compliance with IFRS9 standards.
+
+Qualifications and Training:
+
+IIM Executive Program: Fintech, Banking and Applied Risk Management, 2023
+
+Madras School of Economics: MSc Financial Economics, 2017
+
+Veer Surendra Sai University: Electrical Engineering, 2014
+
+Technical Skills:
+
+R, R-shiny, R-Markdown, Python, VBA, SQL, SAS, Git, Excel
+
+Tableau, Power BI, AWS, Azure
+
+Machine learning, AI
+
+Statistical modelling, Data Analysis & Visualization, BCBS239
+
+Time series, scenario analysis, IFRS9 assessment, PiT PD, PiT LGD, PiT EAD & CCF
+
+Leadership, Client management, Agile, Scrum
+
+Key Relevant Experience:
+
+Developed and monitored CCAR stress testing models, participated in BAU reporting.
+
+Built IRB models (PD, LGD, EAD, CCF) per regulatory guidelines using statistical techniques.
+
+Helped a European bank with BCBS239 transition.
+
+Built R Shiny-based ECL UI tools for Middle Eastern banks.
+
+Created credit scoring models for a major Myanmar bank using Python.
+
+Designed behavioral models with Random Forest.
+
+Built exposure-based climate risk models using Bayesian networks and Monte Carlo simulations.
+
+Led automation using R Markdown & Shiny, removing manual steps.
+
+Delivered CCAR-compliant end-to-end credit model validations.
+
+Candidate 2: Jessica Thacker
+Role: Manager
+
+Summary:
+
+Jessica is a Manager in EY's Financial Services Risk Management practice.
+
+She has 6+ years of experience in the Banking and Financial Services industry.
+
+Proficient in CCAR model development and data analytics.
+
+Qualifications and Training:
+
+PhD Economics, South Asian University
+
+MA Economics, South Asian University
+
+BA Hons (Economics), University of Delhi
+
+Technical Skills:
+
+Statistics, Econometrics (Cross-Section, Panel Data, Non-Linear Regression, Time-Series)
+
+Machine Learning (CART, Bagging, Boosted Trees)
+
+Statistical Software: Stata, SAS, MS Office
+
+Programming: Python, R
+
+Key Relevant Experience:
+
+Led PPNR CCAR econometric model development for revenue projections (SR15-18 compliant).
+
+Conducted ongoing monitoring and back-testing of PPNR models.
+
+Managed data analysis, variable selection, econometric strategy, and robustness checks.
+
+Initiated machine learning-based revenue forecasting (Random Forest, XGBoost, CART).
+
+Applied econometric and ML methods to predict firm performance, distress, and productivity.
+
+Candidate 3: G. N. Sindhur
+Role: Senior
+
+Summary:
+
+Sindhur is a Senior in EY’s Financial Services Risk Management practice.
+
+He has 5+ years of experience in the financial services sector.
+
+Specializes in Model Development & Validation to enhance risk management processes.
+
+Skilled in econometrics modeling, PD, EAD models under CCAR and CECL frameworks.
+
+Qualifications and Training:
+
+M.Sc. Economics, Indira Gandhi Institute of Development Research, 2020
+
+PGDM, T.A. Pai Management Institute, 2017
+
+B.E. (Hons) Mechanical Engineering, BITS Pilani Hyderabad, 2013
+
+Technical Skills:
+
+CCAR & CECL model development (PD, EAD)
+
+Econometric Model Development, Quantitative Finance Analysis
+
+Tools: R, EViews, Stata, Python, Advanced Excel
+
+Key Relevant Experience:
+
+Developed CCAR PPNR models for capital planning using stress scenarios.
+
+Built and validated credit risk models (PD, EAD) across North American credit card portfolios.
+
+Supported IFRS9 ECL system implementation for Indian banks.
+
+Led data science projects in financial risk management.
+
+Conducted model validation, back-testing, documentation, and compliance checks.
+
+Automated data extraction for CECL monitoring.
+
+Candidate 4: Abhimanyu Singh
+Role: Senior
+
+Summary:
+
+Abhimanyu is a Senior in EY's Financial Services Risk Management practice.
+
+He has 3+ years of experience in Banking and Financial Services.
+
+Proficient in CCAR/DFAST model development and stress testing under CCAR/CECL norms.
+
+Qualifications and Training:
+
+Integrated M.Sc. in Geology, IIT Kharagpur, 2021
+
+Technical Skills:
+
+Basel II/III, CCAR, PPNR, IFRS9 frameworks
+
+Credit risk model development & validation
+
+Stress Testing, Capital Policy & Planning, Risk Analytics
+
+Advanced Excel, SAS, SQL, Tableau, Jira
+
+Key Relevant Experience:
+
+Built PD model using hazard functions, behavioral & macro variables.
+
+Designed PPNR forecasting models for CCAR stress testing.
+
+Led macroeconomic monitoring and reporting initiatives.
+
+Validated CECL loss models using discrete-time survival analysis.
+
+Improved risk model compliance via data reconciliation and risk factor recalibration.
+
+Candidate 5: Stuti Mehrotra
+Role: Senior
+
+Summary:
+
+Stuti is a seasoned professional in EY's Financial Services Risk Management practice with over 2 years of specialized experience in the Banking and Financial Services sector.
+
+Proficient in developing and validating PPNR forecasting models for capital planning and revenue projections under the CCAR framework.
+
+Qualifications and Training:
+
+M.Sc. Financial Economics, Gokhale Institute of Politics and Economics, 2022
+
+B.A. (Hons) Economics, University of Delhi, 2018
+
+Technical Skills:
+
+Regulatory experience: Basel II/III, CCAR, IFRS9
+
+Tools: SAS, Python, R, SQL, Advanced Excel, Tableau
+
+Expertise: Model Development, Validation, Stress Testing, Risk Analytics, Model Risk Management
+
+Key Relevant Experience:
+
+Independently developed and implemented PPNR models for CCAR 9Q forecasting at a major US financial institution.
+
+Designed and executed stress testing to assess model resilience under adverse economic conditions.
+
+Created an Ongoing Monitoring framework for tracking model performance.
+
+Applied advanced econometrics (e.g., Multivariate Linear Regression on time-series data) to forecast financial metrics.
+
+Collaborated cross-functionally with risk, finance, and IT for strategic model integration.
+
+Validated models via back-testing, scenario/sensitivity analysis, and coefficient stability checks.
+
+Cleaned and verified financial datasets used for CCAR reporting and capital stress testing.
+
+Designed a Tableau dashboard to visualize CCAR model outputs for improved stakeholder understanding.
+

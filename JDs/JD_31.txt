@@ -1,0 +1,46 @@
+ Job Title: Retail Stress Testing Model Validation Specialist
+
+Location: [City, State]
+
+Company Overview:
+[Company Name] is a leading retail organization with a strong commitment to innovation and excellence. We are currently seeking a highly skilled and experienced Retail Stress Testing Model Validation Specialist to join our team.
+
+Job Description:
+
+As a Retail Stress Testing Model Validation Specialist, you will be responsible for ensuring the accuracy, reliability, and compliance of our retail stress testing models. You will work closely with various departments to validate, update, and maintain these models using industry-standard tools such as SAS.
+
+Responsibilities:
+
+1. Collaborate with model developers, risk management, and other stakeholders to understand modeling approaches, assumptions, and methodologies.
+
+2. Validate the accuracy and appropriateness of retail stress testing models using SAS and other statistical software.
+
+3. Perform sensitivity analyses, scenario analyses, backtesting, and other validation checks on models.
+
+4. Ensure compliance with internal policies and external regulations, such as Basel III, Dodd-Frank Act, and the Comprehensive Capital Analysis and Review (CCAR).
+
+5. Document validation results, issues, and recommendations in a clear and concise manner.
+
+6. Contribute to the continuous improvement of our stress testing framework and processes.
+
+7. Participate in model review meetings and other internal forums to discuss model-related matters.
+
+8. Provide training and support to less experienced team members as needed.
+
+Qualifications:
+
+1. Bachelor's or Master's degree in Mathematics, Statistics, Economics, Finance, or a related field. Advanced degrees preferred.
+
+2. Minimum of 5 years of experience in model validation, stress testing, or risk management within the financial services industry. Experience with retail models is highly desirable.
+
+3. Proficiency in SAS and other statistical software packages (e.g., R, Python).
+
+4. Strong understanding of quantitative methods, risk management, and regulatory requirements related to stress testing.
+
+5. Excellent analytical, problem-solving, and communication skills.
+
+6. Ability to work independently and collaboratively in a fast-paced environment.
+
+7. CFA or FRM certification is preferred but not required.
+
+[Company Name] offers a competitive salary, benefits package, and opportunities for professional growth. If you are passionate about risk management, model validation, and leveraging data to support strategic decision-making, we would love to hear from you. Apply today!

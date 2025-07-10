@@ -1,0 +1,37 @@
+ Job Title: Wholesale CCAR Model Development Specialist
+
+Location: [Your Location]
+
+Company Overview:
+[Briefly describe the company and its mission]
+
+Job Description:
+
+We are seeking a highly skilled and motivated Wholesale CCAR Model Development Specialist to join our team. The successful candidate will be responsible for developing and maintaining high-quality risk models that support capital requirements under the Capital Adequacy Risk (CCAR) framework, focusing on wholesale business lines.
+
+Key Responsibilities:
+
+1. Develop, maintain, and enhance wholesale CCAR models using R programming language, ensuring accuracy, robustness, and compliance with regulatory guidelines.
+2. Collaborate with business stakeholders to understand their risk profiles and incorporate relevant data into the model.
+3. Perform regular model validation, stress testing, and backtesting to ensure model integrity and reliability.
+4. Participate in CCAR submission processes, including document preparation, model validation, and management of model change requests.
+5. Contribute to the development of best practices for model design, documentation, and governance.
+6. Stay current with regulatory developments and industry trends related to risk modeling and capital requirements.
+7. Provide support and guidance to junior team members in model development and maintenance activities.
+
+Qualifications:
+
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, Statistics, or a related field. Advanced degrees (MSc, PhD) are preferred.
+2. Proven experience in wholesale risk modeling, with a strong focus on CCAR models using R programming language.
+3. Strong understanding of risk management principles and regulatory requirements for capital adequacy.
+4. Excellent analytical skills, with the ability to interpret complex data and identify key drivers of risk.
+5. Exceptional problem-solving abilities and attention to detail.
+6. Strong communication skills, both written and verbal, with the ability to explain complex concepts to non-technical audiences.
+7. Ability to work independently and collaboratively in a fast-paced environment.
+8. Knowledge of the banking industry, preferably within a wholesale or capital markets context.
+9. Familiarity with CCAR submission processes and regulatory reporting requirements is a plus.
+10. Certified Financial Risk Manager (FRM) or Chartered Financial Analyst (CFA) designation is preferred but not required.
+
+This is an exciting opportunity for a motivated and experienced risk modeler to join a dynamic team focused on driving the success of our wholesale business. If you are passionate about risk management, have strong analytical skills, and enjoy working in a challenging and innovative environment, we would love to hear from you.
+
+[Company Name] is an equal opportunity employer and values diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

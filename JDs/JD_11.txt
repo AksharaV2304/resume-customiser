@@ -1,0 +1,24 @@
+ Job Description: Retail IRB Model Auditor
+
+Company Overview:
+[Company Name] is a leading organization in the retail sector, committed to innovation and excellence. We are currently seeking a skilled and experienced Retail IRB Model Auditor to join our team.
+
+Job Responsibilities:
+1. Conduct comprehensive audits of our Retail IRB (Institutional Review Board) models, ensuring compliance with industry standards, regulatory requirements, and company policies.
+2. Utilize SAS (Statistical Analysis Software) for data analysis, modeling, and reporting during the audit process. Familiarity with other statistical software is a plus but not mandatory as long as you are proficient in SAS.
+3. Identify areas of improvement and make recommendations for enhancing the efficiency and effectiveness of our IRB models.
+4. Collaborate with cross-functional teams, including data scientists, statisticians, and compliance officers, to ensure seamless integration of audit findings and recommendations.
+5. Document audit findings, create reports, and present results to senior management.
+6. Stay updated on industry trends, regulations, and best practices related to IRB models in retail.
+7. Participate in ongoing training and development programs to maintain a high level of expertise in SAS and IRB auditing.
+
+Qualifications:
+1. Bachelor's or Master's degree in Statistics, Mathematics, Computer Science, Economics, or a related field. Advanced degrees are preferred.
+2. Proven experience in conducting IRB model audits, preferably within the retail sector.
+3. Expertise in SAS for data analysis and modeling.
+4. Strong understanding of statistical methods, data mining, and machine learning techniques.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and as part of a team.
+7. Familiarity with retail industry regulations, particularly those related to IRB models, is a plus.
+
+[Company Name] offers a competitive salary and benefits package, along with opportunities for growth and professional development. If you are passionate about data analysis, have a strong background in SAS, and are eager to make an impact in the retail sector, we encourage you to apply for this exciting opportunity.

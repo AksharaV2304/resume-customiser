@@ -1,0 +1,36 @@
+ Job Title: Retail IRB Model Development Specialist
+
+Location: [Your Location]
+
+Company Overview:
+[Insert Company Name and Brief Description]
+
+Job Description:
+
+We are seeking a highly skilled and motivated Retail IRB (Individualized Risk-Based) Model Development Specialist to join our team. The ideal candidate will have a strong background in statistical modeling, risk assessment, and retail banking regulations. SAS proficiency is a must.
+
+Responsibilities:
+
+1. Develop, implement, and maintain the Retail IRB model for credit risk assessment, using advanced analytical techniques and SAS programming.
+2. Collaborate with cross-functional teams to gather data, define business requirements, and validate model outcomes.
+3. Ensure compliance with regulatory requirements, industry best practices, and internal policies.
+4. Continuously improve the model by incorporating new data sources, refining algorithms, and implementing feedback loops for ongoing monitoring and validation.
+5. Provide expert advice on model-related matters to stakeholders, including management, risk management, and operational teams.
+6. Collaborate with IT to ensure model integration within the existing technology infrastructure.
+7. Participate in stress testing, backtesting, and scenario analysis to validate model performance under various market conditions.
+8. Contribute to thought leadership by publishing articles, presenting at conferences, and participating in industry forums.
+
+Qualifications:
+
+1. Master's degree or higher in Statistics, Mathematics, Economics, Computer Science, Finance, or a related field.
+2. Proven experience in retail banking, with a focus on credit risk modeling, preferably using SAS.
+3. Strong understanding of regulatory requirements for credit risk modeling in retail banking (e.g., Basel III, Dodd-Frank Act).
+4. Expertise in statistical and econometric modeling techniques, such as logistic regression, decision trees, neural networks, and survival analysis.
+5. Excellent problem-solving skills, with the ability to analyze complex data sets and interpret results effectively.
+6. Strong communication and collaboration skills, with the ability to explain complex concepts to non-technical stakeholders.
+7. Ability to work in a fast-paced environment, manage multiple projects simultaneously, and meet deadlines.
+8. Knowledge of agile development methodologies is a plus.
+
+[Company Name] is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+If you are passionate about credit risk modeling and eager to make a significant impact in the retail banking industry, we encourage you to apply. Join us on our mission to drive innovation and excellence!

@@ -1,0 +1,32 @@
+ Girish Khandelwal
+MBA in Banking & Management
+GCB 5
+
+Summary
+Girish holds more than 10 years of experience in the risk management space for banking clients. He specializes in Credit Risk, Model Monitoring, Validation & Development, Basel & IFRS9 Regulatory Reporting, Business Data Analytics, and Collection Strategy.
+
+Experience
+Model Validation
+
+Independent validator for credit risk models; ensured governance/regulatory compliance
+
+Python-based back testing, benchmarking, stress testing
+
+Led scoring team (PIL, USRB) for monitoring/validation/development
+
+Basel III, IFRS 9, CCAR, scorecard models (Acquisition, ECM, Collections)
+
+Revalidation, AMR, OPA using FICO, ISPL, Experian scorecards (Python analytics)
+
+PD/LGD/EAD validation for credit risk management
+
+Managed full model lifecycle (1st line of defence); contributed to MRM guidance (SR 11-7)
+
+Other Experience
+
+SAS & SQL for reporting retail portfolio performance
+
+Google BigQuery & GCP for data analysis
+
+Automated shock simulation for IFRS9/IRRBB using SQL
+

@@ -1,0 +1,32 @@
+Rajvi Doshi
+Manager
+
+Skill (Credit Risk)
+Model Validation
+IRB
+IFRS 9
+Scorecards
+Stress testing
+SAS/SQL
+Python
+PRA/ECB
+Climate Risk
+
+Rajvi is a Senior in EY India Financial Services Risk Management (FSRM) team. She is a credit risk modeller with 4+ years of experience in building statistical models. Worked on development of Regulatory, Provision and Decision Models/ scorecards and Credit Risk and Collections Strategies for Consumer and SME portfolios.
+
+Key Technical Skills: Python, SQL, SAS, R
+
+Relevant Experience
+Model Validation Experience:
+Validated Retail IRB PD model for a large UK bank by independently replicating DoD flags, assessing methodology and assumptions, and conducting performance, stability, and sensitivity tests to ensure regulatory compliance and conceptual soundness.
+
+Other Experience:
+Developed an IRB PD model for India’s retail loan against property portfolio involving data checks, snapshot selection, back scoring data, segmentation, building segment-wise initial probability of default (PD) models, long run PD calibration and grading.
+
+Developed an Income Estimation Model for China’s Partnership Portfolios using a two-stage weighted linear regression approach, with segmentation based on bureau exposure. Validated assumptions, addressed model gaps, and evaluated performance and stability against benchmarks.
+
+Developed a behaviour scorecard for a complex revolving credit portfolio, optimized large-scale data processing, addressed model design challenges, and designed a drawdown strategy using profitability and daily customer behaviour indicators.
+
+Led automation of model transformation, performance, and stability reporting in SAS; conducted sensitivity analysis to identify and mitigate key risk areas.
+
+Led PD model development for ASEAN markets (IRB & IFRS 9), managing end-to-end delivery, stakeholder engagement, independent reviews, and team mentoring.

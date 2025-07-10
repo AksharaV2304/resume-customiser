@@ -1,0 +1,32 @@
+ Job Title: Retail IRB Model Development Specialist
+
+Location: [Your Location]
+
+Company Overview:
+[Insert Company Name and Description] is seeking a highly skilled and motivated Retail IRB Model Development Specialist to join our team. The ideal candidate will have a strong background in statistical analysis, machine learning, and data modeling, with proficiency in R programming language.
+
+Job Responsibilities:
+1. Develop, implement, and maintain advanced retail Inventory-to-Sales (IRB) models using R.
+2. Collaborate with cross-functional teams to collect, clean, and analyze large datasets related to inventory management, sales, and other relevant factors.
+3. Utilize machine learning techniques to improve the accuracy and efficiency of IRB models.
+4. Conduct statistical analyses to identify trends, patterns, and insights within the data.
+5. Develop and implement strategies for model validation, testing, and continuous improvement.
+6. Present findings and recommendations to stakeholders in a clear and concise manner.
+7. Collaborate with data scientists, engineers, and business analysts to integrate IRB models into existing systems and processes.
+8. Stay abreast of industry trends, best practices, and emerging technologies related to retail analytics.
+9. Contribute to the development of data visualization tools and dashboards to support decision-making.
+10. Provide guidance and support to junior team members in their analytical tasks.
+
+Qualifications:
+1. Master's degree or higher in Statistics, Mathematics, Computer Science, Econometrics, or a related field.
+2. Minimum of 5 years of experience in retail analytics, inventory management, or similar fields.
+3. Proficiency in R programming language and familiarity with other statistical software packages (e.g., SAS, Python).
+4. Strong understanding of machine learning algorithms and statistical modeling techniques.
+5. Excellent analytical, problem-solving, and communication skills.
+6. Ability to work independently and collaboratively in a fast-paced environment.
+7. Familiarity with SQL or other database querying languages is a plus.
+8. Experience working with large datasets is preferred.
+
+[Company Name] offers competitive compensation packages, including comprehensive benefits, a dynamic work environment, and opportunities for professional growth and development. If you are passionate about retail analytics and have the skills and experience we're looking for, please submit your application today.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

@@ -1,0 +1,33 @@
+ Job Description: Retail IFRS9 Model Audit Specialist
+
+Location: [Your Location]
+
+Company Overview:
+[Briefly describe the company and its mission]
+
+Position Overview:
+We are seeking a highly skilled and experienced Retail IFRS9 Model Audit Specialist to join our team. The ideal candidate will have a strong background in financial modeling, a deep understanding of IFRS9 regulations, and proficiency in SQL. This role is crucial for ensuring the accuracy and compliance of our retail financial models.
+
+Responsibilities:
+1. Conduct thorough audits of our retail IFRS9 models to ensure they comply with regulatory requirements.
+2. Collaborate with the modeling team to identify, analyze, and resolve any discrepancies or issues found during audits.
+3. Develop and implement best practices for model validation and ongoing monitoring.
+4. Stay updated on industry trends, IFRS9 updates, and regulatory changes that may impact our models.
+5. Utilize SQL to extract, manipulate, and analyze data from various sources for audit purposes.
+6. Document findings, recommendations, and actions taken to ensure continuous improvement of the model auditing process.
+7. Collaborate with other departments to ensure a unified approach to financial reporting and risk management.
+8. Provide training and support to team members on IFRS9 regulations and model auditing best practices.
+
+Qualifications:
+1. Bachelor's degree in Finance, Accounting, Economics, or a related field. A Master's degree or professional certification (CPA, FRM, etc.) is preferred.
+2. Minimum of 5 years of experience in financial modeling, preferably within the retail sector and with a focus on IFRS9.
+3. Proficiency in SQL and strong analytical skills.
+4. Knowledge of IFRS9 regulations and experience with model validation processes.
+5. Strong problem-solving abilities and attention to detail.
+6. Excellent communication and teamwork skills.
+7. Ability to work independently and manage multiple tasks simultaneously.
+8. Familiarity with risk management principles is a plus.
+
+[Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+If you are passionate about financial modeling, regulatory compliance, and data analysis, we would love to hear from you! Apply today and join our team.

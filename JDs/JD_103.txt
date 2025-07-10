@@ -1,0 +1,48 @@
+ Job Title: Wholesale Stress Testing Model Validation Specialist
+
+Location: [City, State]
+
+Company Overview:
+[Insert company name and brief overview here]
+
+Job Description:
+
+We are seeking a highly skilled and experienced Wholesale Stress Testing Model Validation Specialist to join our team. The ideal candidate will have a strong background in financial modeling, risk management, and regulatory compliance, with proficiency in SAS programming.
+
+Responsibilities:
+
+1. Conduct comprehensive validation of wholesale stress testing models to ensure accuracy, completeness, and compliance with internal policies and external regulations.
+
+2. Collaborate with various stakeholders including quantitative analysts, risk managers, and business units to understand model assumptions, methodologies, and data inputs.
+
+3. Utilize SAS programming skills to develop, test, and maintain scripts for data management, analysis, and reporting.
+
+4. Perform rigorous quality assurance checks to identify potential issues or inconsistencies in the models and propose appropriate corrective actions.
+
+5. Document validation processes, findings, and recommendations in a clear and concise manner.
+
+6. Stay abreast of regulatory changes and industry best practices related to stress testing and model validation.
+
+7. Participate in ad-hoc projects and initiatives as needed to support the ongoing development and enhancement of our stress testing framework.
+
+Requirements:
+
+1. Bachelor's or Master's degree in Finance, Mathematics, Statistics, Economics, Engineering, or a related field. Advanced degrees preferred.
+
+2. Minimum of 5 years of experience in model validation, risk management, or quantitative analysis within the financial services industry.
+
+3. Proficiency in SAS programming is required. Experience with other statistical software (e.g., R, Python) is a plus.
+
+4. Strong understanding of wholesale stress testing methodologies and regulatory requirements such as CCAR, DFAST, and Basel III.
+
+5. Excellent analytical, problem-solving, and communication skills.
+
+6. Ability to work independently and collaboratively in a fast-paced environment.
+
+7. Strong attention to detail and commitment to maintaining high-quality work.
+
+8. Knowledge of risk management principles and financial markets is essential.
+
+We offer a competitive salary, comprehensive benefits package, and a dynamic work environment that encourages professional growth and development. If you are passionate about model validation, risk management, and leveraging your SAS skills to contribute to our success, we encourage you to apply for this exciting opportunity.
+
+[Company Name] is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

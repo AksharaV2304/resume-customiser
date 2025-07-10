@@ -1,0 +1,33 @@
+ Job Description: IFRS9 Model Validation Specialist
+
+Location: [Your Location]
+
+Company Overview:
+[Briefly describe the company and its mission.]
+
+Position Overview:
+We are seeking a highly skilled and experienced IFRS9 Model Validation Specialist to join our dynamic team. The ideal candidate will have a strong background in financial modeling, risk management, and regulatory compliance with a focus on International Financial Reporting Standards (IFRS).
+
+Key Responsibilities:
+1. Conduct thorough validation of the company's IFRS9 models, ensuring they are accurate, compliant, and aligned with best industry practices.
+2. Collaborate with various stakeholders including model developers, risk management, and senior management to identify, assess, and mitigate model risks.
+3. Implement and maintain robust validation processes using industry-leading tools such as R, SAS, or Python for statistical analysis and modeling.
+4. Stay updated on regulatory changes related to IFRS9 and ensure the models remain compliant.
+5. Prepare and present clear, concise, and actionable reports on model validations and findings to senior management.
+6. Collaborate with internal and external auditors during the audit process, providing them with necessary support and information.
+7. Contribute to the continuous improvement of our modeling practices and risk management framework.
+
+Qualifications:
+1. Bachelor's or Master's degree in Finance, Mathematics, Economics, Statistics, or a related field. Advanced degrees are preferred.
+2. Minimum of 5 years of experience in financial services, with a focus on model validation, risk management, and IFRS. Experience with R is a must.
+3. Strong understanding of IFRS9, credit risk modeling, and regulatory requirements.
+4. Excellent analytical, problem-solving, and communication skills.
+5. Ability to work in a fast-paced environment while maintaining attention to detail.
+6. Proactive approach to identifying and addressing potential issues.
+7. Knowledge of banking regulations and experience working in the retail sector is advantageous.
+
+By joining our team, you will have the opportunity to work on challenging and rewarding projects, collaborate with talented professionals, and contribute to the success of a growing organization. If you are passionate about financial modeling, risk management, and regulatory compliance, we encourage you to apply for this exciting opportunity.
+
+[Company Name] is an equal opportunity employer and encourages applications from all qualified candidates regardless of race, gender, age, religion, or other protected status. Accommodations are available on request for candidates taking part in all aspects of the selection process.
+
+To apply, please submit your resume, cover letter, and any relevant work samples to [Company Email]. We look forward to reviewing your application!
