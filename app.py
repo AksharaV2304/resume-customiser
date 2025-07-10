@@ -1,11 +1,16 @@
 import streamlit as st
 import os
 import base64
+import docx
 
 # ---------------------- Utility Functions ----------------------
 
 def read_file(file):
-    return file.read().decode("utf-8")
+    if file.name.endswith(".docx"):
+        doc = docx.Document(file)
+        return "\n".join([para.text for para in doc.paragraphs])
+    else:
+        return file.read().decode("utf-8")
 
 def extract_candidate_name(text):
     lines = text.splitlines()
