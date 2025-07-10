@@ -2,6 +2,14 @@ import streamlit as st
 import os
 import base64
 import docx
+import spacy
+
+# ---------------------- Load spaCy model ----------------------
+try:
+    nlp = spacy.load("en_core_web_sm")
+except:
+    os.system("python -m spacy download en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm")
 
 # ---------------------- Utility Functions ----------------------
 
@@ -47,7 +55,7 @@ jd_file = st.file_uploader("Upload Job Description (JD)", type=["txt", "docx"])
 resume_file = st.file_uploader("Upload Raw Resume", type=["txt", "docx"])
 
 # Update the path based on your repo
-ey_template_path = os.path.join("EY_sample_resume_template.txt")
+ey_template_path = "EY_sample_resume_template.txt"
 
 if not os.path.exists(ey_template_path):
     st.error(f"❌ Template file not found at path: {ey_template_path}")
